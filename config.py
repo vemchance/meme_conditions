@@ -24,6 +24,11 @@ MIN_TOKENS = 3          # usable OCR text threshold (whitespace tokens)
 MIN_INSTANCES = 20      # usable instances per format
 SAMPLE_N = 500          # Gate C sample size
 
+# --- Extraction (03) -----------------------------------------------------
+EXTRACT_AUDIT_CLAUSES_N = 150   # precision audit sample
+EXTRACT_AUDIT_NOGLOSS_N = 100   # recall audit sample
+WATERMARK_V2_MIN_FORMATS = 300  # broadened watermark scan threshold
+
 # --- Expected names: verify against the real files at runtime -----------
 EXPECTED_ENTRY_TEXT_COL = "About Text"
 EXPECTED_OCR_TEXT_COL = "Text"

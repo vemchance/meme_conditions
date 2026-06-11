@@ -86,6 +86,17 @@ instances with OCR text overall (Confirmed and Submission combined);
 cited ~4,500 was the thresholded retrieval-evaluation class count,
 4,478).
 
+## Design log
+
+- 2026-06-11 (with 03): No type-based discard — the primary analysis runs
+  on the full intersection; 'Type:' is a stratification/control variable
+  only, and multi-typed formats belong to every stratum they carry.
+- 2026-06-11 (with 03): copypasta = reproductive positive control;
+  reaction = co-text-flagged class, reported separately from fill-types.
+- 2026-06-11 (with 03): watermark stoplist v1 = the 9 approved candidates
+  from 02 (outputs/samples/watermark_candidates.csv). Stripping is deferred
+  to 04 and applies only to a human-approved list.
+
 ## Current stage
 
 Stage 0: the gate (GATE_SPEC.md). Everything else is blocked on its result

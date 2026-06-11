@@ -1,10 +1,24 @@
-"""03b_taxonomy_v2.py - step ONE of 03B_TAXONOMY_V2_SPEC.md: WordNet-anchored
-predicate mapping, diffed against taxonomy v1. STOPS after writing the diff;
-step two (layer regeneration) runs only after ratification in chat.
+"""03b_taxonomy_v2.py - taxonomy v2 per 03B_TAXONOMY_V2_SPEC.md, STEP TWO,
+with the chat ratifications of 2026-06-11:
+
+- denote -> LABEL accepted (v2 over v1);
+- primary order reordered to [RESPOND, EVALUATE, DIRECT, LABEL, EXPRESS]
+  (specific before general; anything depictive trivially "expresses");
+- published supplement list layered on the anchors where WordNet's
+  hypernym paths fail: insult, shame, celebrate, commemorate, mimic,
+  joke -> EVALUATE; complain, demonstrate, display -> EXPRESS;
+  characterize, call, claim -> LABEL;
+- DIRECT pruned: hold, censor -> OTHER (claim moved to LABEL above);
+- DIRECT ratified as a family; per-family statistical contrasts only at
+  >= 100 clauses (encoded in 04), descriptive reporting below that.
+
+The pre-ratification step-one diff (outputs/taxonomy_v2_step1.md) is left
+untouched as the ratification record; this script applies v2 to the layer
+and relabels ALL audit files in place, preserving rows byte-for-byte
+except the draft_label column. No reparse: everything derives from
+outputs/gloss_clauses.csv.
 
 Run: python scripts/03b_taxonomy_v2.py
-Reads outputs/gloss_clauses.csv. Writes outputs/taxonomy_v2_step1.md and
-outputs/samples/taxonomy_v2_diff.csv. No layer or audit files are touched.
 """
 import sys
 from collections import Counter
@@ -32,10 +46,7 @@ def emit(line=""):
     REPORT_LINES.append(line)
 
 
-# Anchor synsets (exact ids verified at implementation; definitions are
-# printed below so the intended senses are auditable). Family order is the
-# primary-tiebreak order from the spec.
-FAMILY_ORDER = ["RESPOND", "EVALUATE", "DIRECT", "EXPRESS", "LABEL"]
+FAMILY_ORDER = ["RESPOND", "EVALUATE", "DIRECT", "LABEL", "EXPRESS"]
 ANCHORS = {
     "RESPOND": ["react.v.01", "answer.v.01"],
     "EVALUATE": ["knock.v.06", "mock.v.01", "mock.v.02", "ridicule.v.01",
@@ -50,7 +61,21 @@ ANCHORS = {
               "typify.v.02", "denote.v.01", "denote.v.02"],
 }
 
-# Constructional/keyword rules carried over unchanged (not verb-semantic):
+# Ratified supplement: published list layered on the anchors where
+# WordNet's paths fail (or mislead, as for call/claim). Forces the primary;
+# WordNet hits are retained in the all-hits record. express/show added by
+# ratification 2026-06-11 after stray sense collisions surfaced (express.v.04
+# 'indicate through a symbol' reaches denote.v.02; 'show' is a lemma of the
+# LABEL anchor picture.v.02), which the reorder would otherwise flip to LABEL.
+SUPPLEMENT = {
+    "insult": "EVALUATE", "shame": "EVALUATE", "celebrate": "EVALUATE",
+    "commemorate": "EVALUATE", "mimic": "EVALUATE", "joke": "EVALUATE",
+    "complain": "EXPRESS", "demonstrate": "EXPRESS", "display": "EXPRESS",
+    "express": "EXPRESS", "show": "EXPRESS",
+    "characterize": "LABEL", "call": "LABEL", "claim": "LABEL",
+}
+FORCED_OTHER = {"hold", "censor"}
+
 CONSTRUCTIONAL = {
     "use_as": "STRUCTURAL", "use_for": "STRUCTURAL", "use_in": "STRUCTURAL",
     "create": "STRUCTURAL",
@@ -61,227 +86,176 @@ CONSTRUCTIONAL = {
 LIGHT_VERBS = {"make", "do", "get", "take", "have", "go"}
 MULTIWORD_RULES = {"make_fun_of": "EVALUATE", "poke_fun_at": "EVALUATE"}
 
-# v1 mapping for the diff (taxonomy v1 as ratified 2026-06-11, with the
-# CAPTION split used by 04; constructional entries included).
-V1_MAP = {}
-for fam, preds in {
-    "RESPOND": ["respond", "react", "reply", "response", "reaction", "post",
-                "use_when", "answer"],
-    "EXPRESS": ["express", "convey", "indicate", "signal", "denote", "show",
-                "communicate", "demonstrate", "display", "signify",
-                "highlight"],
-    "EVALUATE": ["mock", "criticize", "ridicule", "deride", "troll", "parody",
-                 "satirize", "make_fun_of", "poke_fun_at", "celebrate",
-                 "praise", "insult", "shame", "lampoon"],
-    "LABEL": ["describe", "label", "characterize", "depict", "portray",
-              "illustrate", "identify", "call", "refer", "represent"],
-    "STRUCTURAL": ["use_as", "use_for", "use_in", "create"],
-    "CAPTION": ["caption", "pair"],
-}.items():
-    for p in preds:
-        V1_MAP[p] = fam
-
 ANCHOR_SYNSETS = {}
-ANCHOR_ALL = []
 
 
 def build_anchors():
     for fam, ids in ANCHORS.items():
-        ss = [wn.synset(i) for i in ids]
-        ANCHOR_SYNSETS[fam] = set(ss)
-        for s in ss:
-            ANCHOR_ALL.append((fam, s))
+        ANCHOR_SYNSETS[fam] = {wn.synset(i) for i in ids}
 
 
-def hypernym_closure(synset):
-    out = {synset}
-    out.update(synset.closure(lambda s: s.hypernyms()))
-    return out
-
-
-def v2_families(lemma):
-    """All anchor families hit by any verb synset of the lemma via its
-    hypernym closure; [] if none. Light verbs and multiword predicates are
-    handled by the caller."""
-    hits = []
-    syns = wn.synsets(lemma, pos="v")
+def wordnet_hits(lemma):
     closures = set()
-    for s in syns:
-        closures.update(hypernym_closure(s))
-    for fam in FAMILY_ORDER:
-        if closures & ANCHOR_SYNSETS[fam]:
-            hits.append(fam)
-    return hits
-
-
-def map_lemma(pred):
-    """Returns (v2 families list, rule). Constructional and light-verb
-    rules first; WordNet for ordinary lemmas; OTHER if nothing hits."""
-    if pred in MULTIWORD_RULES:
-        return [MULTIWORD_RULES[pred]], "multiword"
-    if pred in CONSTRUCTIONAL:
-        return [CONSTRUCTIONAL[pred]], "constructional"
-    if pred in LIGHT_VERBS:
-        return [], "light_verb"
-    if "_" in pred:
-        return [], "unparsed"
-    fams = v2_families(pred)
-    return fams, ("wordnet" if fams else "no_anchor_hit")
-
-
-def nearest_anchor(lemma):
-    best = (None, None, 0.0)
     for s in wn.synsets(lemma, pos="v"):
-        for fam, a in ANCHOR_ALL:
-            sim = s.path_similarity(a)
-            if sim is not None and sim > best[2]:
-                best = (fam, a.name(), sim)
-    return best
+        closures.add(s)
+        closures.update(s.closure(lambda x: x.hypernyms()))
+    return [fam for fam in FAMILY_ORDER if closures & ANCHOR_SYNSETS[fam]]
+
+
+def map_lemma_v2(pred):
+    """Returns (primary, all_hits, rule). primary is a family name or
+    'OTHER'."""
+    if pred in MULTIWORD_RULES:
+        f = MULTIWORD_RULES[pred]
+        return f, [f], "multiword"
+    if pred in CONSTRUCTIONAL:
+        f = CONSTRUCTIONAL[pred]
+        return f, [f], "constructional"
+    if pred in FORCED_OTHER:
+        return "OTHER", [], "pruned_to_other"
+    hits = [] if pred in LIGHT_VERBS or "_" in pred else wordnet_hits(pred)
+    if pred in SUPPLEMENT:
+        f = SUPPLEMENT[pred]
+        all_hits = [f] + [h for h in hits if h != f]
+        return f, all_hits, "supplement"
+    if pred in LIGHT_VERBS:
+        return "OTHER", [], "light_verb"
+    if "_" in pred:
+        return "OTHER", [], "unparsed"
+    if hits:
+        return hits[0], hits, "wordnet"
+    return "OTHER", [], "no_anchor_hit"
+
+
+def clause_label_v2(predicate, comp_head, lemma_primary):
+    if comp_head == "reaction":
+        return "RESPOND"
+    return lemma_primary
+
+
+def relabel_audit(path, label_of):
+    """Replace draft_label in an audit CSV with v2 labels; rows untouched."""
+    a = pd.read_csv(path, dtype=str, keep_default_na=False)
+    before = len(a)
+    a["draft_label"] = [
+        label_of.get((e, c, f, p), "OTHER")
+        for e, c, f, p in zip(a["entry_id"], a["clause_text"],
+                              a["family"], a["predicate"])]
+    assert len(a) == before
+    a.to_csv(path, index=False, encoding="utf-8")
+    return a
 
 
 def main():
     build_anchors()
-    emit("# Taxonomy v2, step one: WordNet-anchored mapping vs v1 "
+    emit("# Taxonomy v2, step two: ratified mapping applied "
          "(03B_TAXONOMY_V2_SPEC.md)")
     emit()
-    emit("Generated by scripts/03b_taxonomy_v2.py on {}. NLTK {}, WordNet {}. "
-         "STOP: ratification in chat before step two; no layer or audit "
-         "files were modified.".format(
-             datetime.now().strftime("%Y-%m-%d %H:%M"),
-             nltk.__version__, wn.get_version()))
+    emit("Generated by scripts/03b_taxonomy_v2.py on {}. NLTK {}, WordNet {}.".format(
+        datetime.now().strftime("%Y-%m-%d %H:%M"), nltk.__version__,
+        wn.get_version()))
+    emit()
+    emit("Ratifications applied: primary order {}; supplement {}; pruned to "
+         "OTHER: {}; denote stays LABEL per anchors; DIRECT ratified "
+         "(statistical contrasts only at >= {} clauses, encoded in 04; "
+         "Searle crosswalk DIRECT -> directive).".format(
+             FAMILY_ORDER, SUPPLEMENT, sorted(FORCED_OTHER),
+             config.FAMILY_CONTRAST_MIN_CLAUSES))
     emit()
 
-    emit("## Anchor synsets (exact senses)")
-    emit()
-    for fam in FAMILY_ORDER:
-        emit("- **{}**:".format(fam))
-        for i in ANCHORS[fam]:
-            emit("  - `{}` - {}".format(i, wn.synset(i).definition()))
-    emit()
-    emit("STRUCTURAL and CAPTION keep the v1 complement/keyword rules "
-         "(constructional, not verb-semantic): {}. Light verbs {} bypass "
-         "WordNet (complement-aware rules only: {}); otherwise OTHER. "
-         "Primary family by fixed order {}.".format(
-             {k: v for k, v in CONSTRUCTIONAL.items()},
-             sorted(LIGHT_VERBS), MULTIWORD_RULES, FAMILY_ORDER))
+    clauses = pd.read_csv(config.OUTPUTS_DIR / "gloss_clauses.csv", dtype=str,
+                          keep_default_na=False)
+    lemma_map = {}
+    for pred in clauses["predicate"].unique():
+        lemma_map[pred] = map_lemma_v2(pred)
+
+    clauses["label_v2"] = [
+        clause_label_v2(p, h, lemma_map[p][0])
+        for p, h in zip(clauses["predicate"], clauses["comp_head"])]
+    clauses["v2_all_hits"] = [";".join(lemma_map[p][1])
+                              for p in clauses["predicate"]]
+    clauses.to_csv(config.OUTPUTS_DIR / "gloss_clauses.csv", index=False,
+                   encoding="utf-8")
+    emit("- gloss_clauses.csv: label_v2 and v2_all_hits columns written "
+         "({} clauses).".format(len(clauses)))
+
+    # entry-level layer
+    layer_p = config.OUTPUTS_DIR / "gloss_layer_draft.csv"
+    layer = pd.read_csv(layer_p, dtype=str, keep_default_na=False)
+    per_entry = clauses.groupby("entry_id")["label_v2"].agg(
+        lambda s: ";".join(sorted(set(s))))
+    layer["function_labels_v2"] = layer["entry_id"].map(per_entry).fillna("")
+    layer.to_csv(layer_p, index=False, encoding="utf-8")
+    emit("- gloss_layer_draft.csv: function_labels_v2 column written "
+         "({} rows; v1 column retained for provenance).".format(len(layer)))
+
+    # audit files: same rows, v2 labels
+    key_label = {}
+    for e, c, f, p, l in zip(clauses["entry_id"], clauses["clause"],
+                             clauses["family"], clauses["predicate"],
+                             clauses["label_v2"]):
+        key_label[(e, c, f, p)] = l
+    a150 = relabel_audit(config.SAMPLES_DIR / "audit_clauses_150.csv", key_label)
+    a150.head(50).to_csv(config.SAMPLES_DIR / "audit_clauses_50_A2.csv",
+                         index=False, encoding="utf-8")
+    l25 = relabel_audit(config.SAMPLES_DIR / "audit_label_25.csv", key_label)
+    still_label = (l25["draft_label"] == "LABEL").sum()
+    emit("- audit_clauses_150.csv, audit_clauses_50_A2.csv, "
+         "audit_label_25.csv relabelled in place (same rows).")
+    emit("- LABEL top-up under v2: {} of {} rows still LABEL "
+         "(the rest moved family; flag in chat if a fresh LABEL top-up "
+         "is wanted).".format(still_label, len(l25)))
+    emit("- audit_nogloss_100.csv has no label column; untouched.")
     emit()
 
-    clauses = pd.read_csv(config.OUTPUTS_DIR / "gloss_clauses.csv", dtype=str)
-    pred_counts = clauses["predicate"].value_counts()
-    example = clauses.groupby("predicate")["clause"].first()
+    # accounting
+    emit("## Per-family clause counts (v2 final, primary labels)")
+    emit()
+    counts = Counter(clauses["label_v2"])
+    emit("| Family | Clauses | Contrast-eligible (>= {}) |".format(
+        config.FAMILY_CONTRAST_MIN_CLAUSES))
+    emit("|--------|---------|---------------------------|")
+    for fam in ["RESPOND", "EVALUATE", "DIRECT", "LABEL", "EXPRESS",
+                "STRUCTURAL", "CAPTION", "OTHER"]:
+        k = counts.get(fam, 0)
+        emit("| {} | {} | {} |".format(
+            fam, k, "yes" if k >= config.FAMILY_CONTRAST_MIN_CLAUSES and
+            fam != "OTHER" else ("-" if fam == "OTHER" else "no, descriptive only")))
+    emit()
+    direct_lemmas = sorted(set(
+        p for p in clauses.loc[clauses["label_v2"] == "DIRECT", "predicate"]))
+    emit("- DIRECT lemmas after pruning: {}".format(", ".join(direct_lemmas)))
+    sup_applied = Counter(p for p in clauses["predicate"] if p in SUPPLEMENT)
+    emit("- Supplement applications: {}".format(dict(sup_applied)))
+    emit()
+    emit("## Entry-level coverage (v2)")
+    emit()
+    ent = Counter()
+    for labs in per_entry:
+        for f in set(labs.split(";")):
+            ent[f] += 1
+    emit("| Family | Entries with >= 1 clause |")
+    emit("|--------|--------------------------|")
+    for fam in ["RESPOND", "EVALUATE", "DIRECT", "LABEL", "EXPRESS",
+                "STRUCTURAL", "CAPTION", "OTHER"]:
+        emit("| {} | {} |".format(fam, ent.get(fam, 0)))
+    emit()
+    emit("04 runs only on this v2 layer (label_v2 / function_labels_v2).")
 
-    results = {}
-    for pred in pred_counts.index:
-        fams, rule = map_lemma(pred)
-        results[pred] = (fams, rule)
-
-    # ------------------------------------------------------------------
-    emit("## Agreement with v1 on the ratified v1 lemmas")
-    emit()
-    verb_lemmas = [p for p in V1_MAP
-                   if p not in CONSTRUCTIONAL and p not in MULTIWORD_RULES]
-    agree = disagree = 0
-    rows = []
-    for p in sorted(verb_lemmas):
-        fams, rule = (results[p] if p in results else (map_lemma(p)[0], "unobserved"))
-        primary = fams[0] if fams else "OTHER"
-        v1 = V1_MAP[p]
-        ok = primary == v1
-        in_hits = v1 in fams
-        agree += ok
-        disagree += (not ok)
-        if not ok:
-            rows.append((p, v1, primary, fams, rule,
-                         int(pred_counts.get(p, 0))))
-    emit("- Verb-semantic v1 lemmas checked: {}; primary agreement: {} "
-         "({:.1f}%).".format(len(verb_lemmas), agree,
-                             100.0 * agree / len(verb_lemmas)))
-    if rows:
-        emit()
-        emit("Every disagreement, verbatim:")
-        emit()
-        emit("| Lemma | v1 | v2 primary | v2 all hits | Rule | Clauses |")
-        emit("|-------|----|------------|-------------|------|---------|")
-        for p, v1, primary, fams, rule, k in rows:
-            emit("| {} | {} | {} | {} | {} | {} |".format(
-                p, v1, primary, ", ".join(fams) or "-", rule, k))
-    emit()
-
-    # ------------------------------------------------------------------
-    # full lemma-level diff CSV
-    diff_rows = []
-    for pred, k in pred_counts.items():
-        fams, rule = results[pred]
-        primary = fams[0] if fams else (
-            CONSTRUCTIONAL.get(pred) or MULTIWORD_RULES.get(pred) or "OTHER")
-        if rule in ("constructional", "multiword"):
-            primary = fams[0]
-        diff_rows.append({
-            "lemma": pred,
-            "n_clauses": int(k),
-            "v1_family": V1_MAP.get(pred, "UNMAPPED"),
-            "v2_primary": primary,
-            "v2_all_hits": ";".join(fams),
-            "rule": rule,
-            "example_clause": " ".join(str(example[pred]).split())[:200],
-        })
-    diff = pd.DataFrame(diff_rows)
-    p_csv = config.SAMPLES_DIR / "taxonomy_v2_diff.csv"
-    diff.to_csv(p_csv, index=False, encoding="utf-8")
-    emit("Full lemma-level diff: {} ({} lemmas).".format(
-        p_csv.relative_to(config.REPO_ROOT), len(diff)))
-    emit()
-
-    # ------------------------------------------------------------------
-    emit("## Per-family clause counts, v1 vs v2 (primary; reaction-head "
-         "override applied in both)")
-    emit()
-    v2_primary_map = dict(zip(diff["lemma"], diff["v2_primary"]))
-    v1_counts = Counter()
-    v2_counts = Counter()
-    for _, r in clauses.iterrows():
-        if r["comp_head"] == "reaction":
-            v1_counts["RESPOND"] += 1
-            v2_counts["RESPOND"] += 1
-            continue
-        v1_lab = V1_MAP.get(r["predicate"], "UNMAPPED")
-        v1_counts["OTHER/UNMAPPED" if v1_lab == "UNMAPPED" else v1_lab] += 1
-        v2_lab = v2_primary_map[r["predicate"]]
-        v2_counts["OTHER/UNMAPPED" if v2_lab == "OTHER" else v2_lab] += 1
-    emit("| Family | v1 clauses | v2 clauses |")
-    emit("|--------|------------|------------|")
-    for fam in ["RESPOND", "EVALUATE", "DIRECT", "EXPRESS", "LABEL",
-                "STRUCTURAL", "CAPTION", "OTHER/UNMAPPED"]:
-        emit("| {} | {} | {} |".format(fam, v1_counts.get(fam, 0),
-                                       v2_counts.get(fam, 0)))
-    emit()
-    emit("DIRECT mass: {} clauses across {} lemmas ({}).".format(
-        v2_counts.get("DIRECT", 0),
-        sum(1 for _, r in diff.iterrows() if r["v2_primary"] == "DIRECT"),
-        ", ".join(sorted(r["lemma"] for _, r in diff.iterrows()
-                         if r["v2_primary"] == "DIRECT")) or "none"))
-    emit()
-
-    # ------------------------------------------------------------------
-    emit("## Top 30 remaining OTHER lemmas with nearest-anchor suggestions")
-    emit()
-    other = diff[diff["v2_primary"] == "OTHER"].sort_values(
-        "n_clauses", ascending=False).head(30)
-    emit("| Lemma | Clauses | Nearest anchor | Path sim | Suggested family |")
-    emit("|-------|---------|----------------|----------|------------------|")
-    for _, r in other.iterrows():
-        fam, anc, sim = nearest_anchor(r["lemma"])
-        emit("| {} | {} | {} | {} | {} |".format(
-            r["lemma"], r["n_clauses"], anc or "-",
-            "{:.3f}".format(sim) if anc else "-", fam or "-"))
-    emit()
-    emit("STOP. Ratification of v2 (including the DIRECT candidate and every "
-         "disagreement above) happens in chat before step two regenerates "
-         "the layer and audit files.")
-
-    (config.OUTPUTS_DIR / "taxonomy_v2_step1.md").write_text(
+    (config.OUTPUTS_DIR / "taxonomy_v2_step2.md").write_text(
         "\n".join(REPORT_LINES), encoding="utf-8")
-    print("Report written to outputs/taxonomy_v2_step1.md")
+    print("Report written to outputs/taxonomy_v2_step2.md")
+
+    # supersession note at the top of the v1-era extraction report
+    er = config.OUTPUTS_DIR / "extraction_report.md"
+    txt = er.read_text(encoding="utf-8")
+    note = ("> SUPERSEDED LABELS: taxonomy v2 was ratified and applied on "
+            "2026-06-11; labels in this report are v1. The live labels are "
+            "label_v2 / function_labels_v2 (see outputs/taxonomy_v2_step2.md "
+            "and outputs/taxonomy_v2_step1.md).\n\n")
+    if not txt.startswith("> SUPERSEDED"):
+        er.write_text(note + txt, encoding="utf-8")
+        print("Supersession note prepended to extraction_report.md")
 
 
 if __name__ == "__main__":

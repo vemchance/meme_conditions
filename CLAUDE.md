@@ -109,6 +109,17 @@ cited ~4,500 was the thresholded retrieval-evaluation class count,
   MIN_TOKENS after stripping.
 - 2026-06-11 (with 04): LABEL audit top-up added (audit_label_25.csv, A1
   only, seeded, excludes clauses already in the 150-row audit).
+- 2026-06-11 (03B step 2): taxonomy v2 ratified and applied. WordNet-anchored
+  mapping (NLTK/WordNet 3.0; anchor synsets in scripts/03b_taxonomy_v2.py);
+  primary order [RESPOND, EVALUATE, DIRECT, LABEL, EXPRESS]; published
+  14-lemma supplement where WordNet paths fail or mislead (incl. express and
+  show, added after sense-collision review: express.v.04/picture.v.02);
+  hold, censor pruned to OTHER. DIRECT ratified as a family; per-family
+  statistical contrasts only at >= 100 clauses
+  (config.FAMILY_CONTRAST_MIN_CLAUSES), below that descriptive only; Searle
+  crosswalk DIRECT -> directive. Live labels: label_v2 (clause level) and
+  function_labels_v2 (entry level); v1 columns retained for provenance.
+  04 runs only on the v2 layer.
 
 ## Current stage
 

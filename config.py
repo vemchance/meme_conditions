@@ -34,6 +34,7 @@ WATERMARK_V2_MIN_FORMATS = 300  # broadened watermark scan threshold
 PER_FORMAT_INSTANCE_CAP = 100   # seeded instance cap per format
 N_PERMUTATIONS = 10000          # label permutations for headline test
 BOOTSTRAP_N = 1000              # bootstrap resamples for shallow-cue CIs
+FAMILY_CONTRAST_MIN_CLAUSES = 100  # per-family contrasts only at >= this; below: descriptive
 
 # --- Expected names: verify against the real files at runtime -----------
 EXPECTED_ENTRY_TEXT_COL = "About Text"

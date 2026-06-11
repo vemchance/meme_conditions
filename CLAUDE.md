@@ -96,6 +96,19 @@ cited ~4,500 was the thresholded retrieval-evaluation class count,
 - 2026-06-11 (with 03): watermark stoplist v1 = the 9 approved candidates
   from 02 (outputs/samples/watermark_candidates.csv). Stripping is deferred
   to 04 and applies only to a human-approved list.
+- 2026-06-11 (with 04): taxonomy v1 ratified in chat (reaction-heads ->
+  RESPOND; LABEL replaces DESCRIBE and absorbs refer/represent/describe;
+  signify/highlight -> EXPRESS; create -> STRUCTURAL). For analysis, CAPTION
+  is reported as its own contrast class, split from STRUCTURAL (per the 04
+  spec and the AUDIT_PROTOCOL family table); the reaction-head override
+  keeps precedence.
+- 2026-06-11 (with 04): watermark rule ratified: token-strip the 9 v1 site
+  marks + {youtooz, cravi, vinyls}; phrase-strip the five screenshot-chrome
+  phrases; conditionally strip the ad-banner fragments in youtooz/cravi
+  texts. Case-insensitive after whitespace normalisation; re-apply
+  MIN_TOKENS after stripping.
+- 2026-06-11 (with 04): LABEL audit top-up added (audit_label_25.csv, A1
+  only, seeded, excludes clauses already in the 150-row audit).
 
 ## Current stage
 

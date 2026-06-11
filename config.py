@@ -27,7 +27,13 @@ SAMPLE_N = 500          # Gate C sample size
 # --- Extraction (03) -----------------------------------------------------
 EXTRACT_AUDIT_CLAUSES_N = 150   # precision audit sample
 EXTRACT_AUDIT_NOGLOSS_N = 100   # recall audit sample
+EXTRACT_AUDIT_LABEL_N = 25      # LABEL top-up audit sample (A1 only)
 WATERMARK_V2_MIN_FORMATS = 300  # broadened watermark scan threshold
+
+# --- Analysis (04) -------------------------------------------------------
+PER_FORMAT_INSTANCE_CAP = 100   # seeded instance cap per format
+N_PERMUTATIONS = 10000          # label permutations for headline test
+BOOTSTRAP_N = 1000              # bootstrap resamples for shallow-cue CIs
 
 # --- Expected names: verify against the real files at runtime -----------
 EXPECTED_ENTRY_TEXT_COL = "About Text"

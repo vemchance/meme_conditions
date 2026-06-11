@@ -418,12 +418,31 @@ def main():
     p2 = config.SAMPLES_DIR / "audit_nogloss_100.csv"
     a100_out.to_csv(p2, index=False, encoding="utf-8")
 
+    # LABEL top-up audit (A1 only): the 150-row sample carries few LABEL
+    # clauses, so precision for that class gets its own seeded sample,
+    # excluding clauses already in the 150.
+    label_pool = aud[aud["draft_label"] == "LABEL"]
+    in150 = set(zip(a150["id"], a150["clause"]))
+    fresh = label_pool[[(i, c) not in in150 for i, c in
+                        zip(label_pool["id"], label_pool["clause"])]]
+    l25 = fresh.sample(n=min(config.EXTRACT_AUDIT_LABEL_N, len(fresh)),
+                       random_state=config.RANDOM_SEED)
+    l25_out = pd.DataFrame({
+        "entry_id": l25["id"], "title": l25["Title"],
+        "clause_text": l25["clause"], "family": l25["family"],
+        "predicate": l25["predicate"], "draft_label": l25["draft_label"],
+        "is_genuine_gloss": "", "label_correct": "", "notes": ""})
+    p3 = config.SAMPLES_DIR / "audit_label_25.csv"
+    l25_out.to_csv(p3, index=False, encoding="utf-8")
+
     emit("## 4. Validation audits")
     emit()
     emit("- Precision audit: {} extracted USAGE clauses -> {}".format(
         len(a150_out), p.relative_to(config.REPO_ROOT)))
     emit("- Recall audit: {} entries with no extracted USAGE clause -> {}".format(
         len(a100_out), p2.relative_to(config.REPO_ROOT)))
+    emit("- LABEL top-up audit (A1 only, excludes clauses already in the "
+         "150): {} clauses -> {}".format(len(l25_out), p3.relative_to(config.REPO_ROOT)))
     emit("- Blank columns are for the human annotator; the filled files become "
          "the paper's reliability numbers (single expert annotator).")
     emit()
@@ -451,6 +470,15 @@ def main():
     emit()
     emit("Wrote {} ({} rows; function_labels carry taxonomy v1 as ratified "
          "in chat 2026-06-11).".format(p.relative_to(config.REPO_ROOT), len(layer)))
+
+    clauses_out = usage[["id", "sent_idx", "family", "predicate", "comp_head",
+                         "draft_label", "clause"]].rename(
+        columns={"id": "entry_id", "draft_label": "label_v1"})
+    pc = config.OUTPUTS_DIR / "gloss_clauses.csv"
+    clauses_out.to_csv(pc, index=False, encoding="utf-8")
+    emit("Wrote {} ({} kept usage clauses; clause-level companion to the "
+         "entry-level layer, consumed by 04).".format(
+             pc.relative_to(config.REPO_ROOT), len(clauses_out)))
     emit()
 
     # Worked examples: 4 seeded per usage family

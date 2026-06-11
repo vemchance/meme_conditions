@@ -69,20 +69,22 @@ github.com/vemchance/semiomeme:
   About Text was scraped as all <p> blocks under <h2 id="about"> until the
   next h2; entries lacking that header have a null About Text. Expect a
   non-trivial null rate and measure it.
-- Instances: source_data/OCR_text/confirmed_memes_full.csv. Expected
-  columns: an image reference ('Image Ref' or 'file') plus OCR 'Text'.
-  Downloaded image filenames follow {meme_id}_main.*, {meme_id}_template.*,
-  {meme_id}_gallery_NNN.* inside per-meme folders, so the parent id should
-  be recoverable from the reference string; verify and report the parse
-  rate rather than trusting this.
+- Instances: source_data/OCR_text/confirmed_memes_full.csv. Actual columns
+  (verified in the gate): ['Text', 'label', 'file']. 'label' is the KYM id
+  and the canonical join key to the entries 'ID' column (validated 100%
+  against the filename parse in the gate). Filenames follow
+  '{8-hex id}-NNNNN.ext' with variants (e.g. '{id}-(2)-NNNNN.ext'), not the
+  download script's '{id}_gallery_NNN' pattern.
 
 ## Reference figures for sanity checks
 
 Reconcile observed counts against these and note discrepancies; do not
 force agreement: 16,707 KYM entries total; 507,127 instances; 419,482
 instances with OCR text overall (Confirmed and Submission combined);
-roughly 4,500 Confirmed formats with instances; 8,597 Confirmed meme
-classes used in retrieval.
+8,597 Confirmed classes is the comparator for formats-with-instances
+(the gate observed 8,131 distinct joining format ids; the previously
+cited ~4,500 was the thresholded retrieval-evaluation class count,
+4,478).
 
 ## Current stage
 

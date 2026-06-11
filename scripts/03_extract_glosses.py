@@ -82,22 +82,33 @@ USAGE_FAMILIES = ("USED-TO", "RESPONSE", "EXPRESS", "ACTION", "CAPTION")
 NORMALISE_PRED = {"criticise": "criticize", "satirise": "satirize",
                   "make fun of": "make_fun_of", "poke fun at": "poke_fun_at"}
 
-# Draft mapping, induced from the predicate inventory; NOT FINAL until the
-# humans amend and ratify it in chat. Output labels are marked draft.
-DRAFT_MAP = {
+# Taxonomy v1, ratified in chat 2026-06-11. Changes from the draft:
+# reaction-head complements -> RESPOND (override below); DESCRIBE replaced
+# by LABEL, which absorbs refer/represent/describe; signify/highlight ->
+# EXPRESS; create -> STRUCTURAL. Remaining unknown predicates stay UNMAPPED.
+RATIFIED_MAP = {
     "RESPOND": ["respond", "react", "reply", "response", "reaction", "post",
                 "use_when", "answer"],
     "EXPRESS": ["express", "convey", "indicate", "signal", "denote", "show",
-                "communicate", "demonstrate", "display"],
+                "communicate", "demonstrate", "display", "signify",
+                "highlight"],
     "EVALUATE": ["mock", "criticize", "ridicule", "deride", "troll", "parody",
                  "satirize", "make_fun_of", "poke_fun_at", "celebrate",
                  "praise", "insult", "shame", "lampoon"],
-    "DESCRIBE": ["describe", "label", "characterize", "depict", "portray",
-                 "illustrate", "identify", "call"],
+    "LABEL": ["describe", "label", "characterize", "depict", "portray",
+              "illustrate", "identify", "call", "refer", "represent"],
     "STRUCTURAL": ["use_as", "use_for", "use_in", "caption", "pair",
-                   "exploit", "template", "remix"],
+                   "exploit", "template", "remix", "create"],
 }
-PRED_TO_LABEL = {p: lab for lab, preds in DRAFT_MAP.items() for p in preds}
+PRED_TO_LABEL = {p: lab for lab, preds in RATIFIED_MAP.items() for p in preds}
+
+
+def assign_label(predicate, comp_head):
+    """Ratified rule: any usage clause whose complement head is 'reaction'
+    is RESPOND ('used as a reaction to ...'), regardless of predicate."""
+    if comp_head == "reaction":
+        return "RESPOND"
+    return PRED_TO_LABEL.get(predicate, "UNMAPPED")
 
 # Top-200 ordinary English words (Brown/GTWC-style list, embedded so the
 # run is dependency-free and deterministic), for the v2 watermark scan.
@@ -320,28 +331,37 @@ def main():
     emit()
 
     # ------------------------------------------------------------------
-    emit("## 3. Predicate inventory and proposed taxonomy (draft)")
+    emit("## 3. Predicate inventory and taxonomy (v1, ratified in chat 2026-06-11)")
     emit()
     pred_counts = usage["predicate"].value_counts()
 
-    # complement heads: first NOUN/PROPN lemma in the clause after the predicate
-    head_counter = defaultdict(Counter)
+    # complement heads: first NOUN/PROPN lemma in the clause after the
+    # predicate, kept per record so the reaction-head override can apply
+    usage = usage.copy()
+    heads = []
     head_docs = nlp.pipe(usage["clause"].str.slice(0, 200).tolist(), batch_size=64,
                          disable=["parser"])
     for (_, r), cdoc in zip(usage.iterrows(), head_docs):
         pred_word = r["predicate"].split("_")[0]
         seen_pred = False
+        head = None
         for tok in cdoc:
             if not seen_pred and tok.lemma_.lower().startswith(pred_word[:4]):
                 seen_pred = True
                 continue
             if seen_pred and tok.pos_ in ("NOUN", "PROPN"):
-                head_counter[r["predicate"]][tok.lemma_.lower()] += 1
+                head = tok.lemma_.lower()
                 break
+        heads.append(head)
+    usage["comp_head"] = heads
+    head_counter = defaultdict(Counter)
+    for predicate, head in zip(usage["predicate"], usage["comp_head"]):
+        if head:
+            head_counter[predicate][head] += 1
 
     emit("Top 30 USAGE predicate lemmas with most common complement heads:")
     emit()
-    emit("| Predicate | Clauses | Top complement heads | Draft label |")
+    emit("| Predicate | Clauses | Top complement heads | Label (v1) |")
     emit("|-----------|---------|----------------------|-------------|")
     for predicate, k in pred_counts.head(30).items():
         heads = ", ".join("{} ({})".format(h, c)
@@ -350,27 +370,31 @@ def main():
             predicate, k, heads or "-", PRED_TO_LABEL.get(predicate, "UNMAPPED")))
     emit()
     unmapped = pred_counts[~pred_counts.index.isin(PRED_TO_LABEL)]
-    emit("- Predicate lemmas outside the draft mapping: {} distinct, {} clauses; "
+    emit("- Predicate lemmas outside the v1 mapping: {} distinct, {} clauses; "
          "top 15: {}".format(
              len(unmapped), int(unmapped.sum()),
              ", ".join("{} ({})".format(p, k) for p, k in unmapped.head(15).items())))
     emit()
-    emit("Proposed mapping (DRAFT - not final until amended and ratified in chat):")
+    emit("Mapping v1, ratified in chat 2026-06-11 (changes from draft: "
+         "reaction-head complements -> RESPOND regardless of predicate; "
+         "DESCRIBE replaced by LABEL, absorbing refer/represent/describe; "
+         "signify/highlight -> EXPRESS; create -> STRUCTURAL):")
     emit()
     emit("| Function label | Predicate lemmas |")
     emit("|----------------|------------------|")
-    for lab, preds in DRAFT_MAP.items():
+    for lab, preds in RATIFIED_MAP.items():
         observed = [p for p in preds if p in pred_counts.index]
         emit("| {} | {} |".format(lab, ", ".join(observed) if observed else "(none observed)"))
     emit()
-    emit("Multi-label per entry is allowed and expected. Working hypothesis "
-         "(RESPOND / EXPRESS / EVALUATE / DESCRIBE / STRUCTURAL) is to be "
-         "tested against the table above, not forced.")
+    n_react_override = (usage["comp_head"] == "reaction").sum()
+    emit("- Reaction-head override applied to {} clauses ('used as a "
+         "reaction to ...' and kin -> RESPOND).".format(n_react_override))
+    emit("- Multi-label per entry is allowed and expected. Remaining unknown "
+         "predicates stay UNMAPPED for a future ratification round.")
     emit()
 
-    usage = usage.copy()
-    usage["draft_label"] = usage["predicate"].map(
-        lambda p: PRED_TO_LABEL.get(p, "UNMAPPED"))
+    usage["draft_label"] = [assign_label(p, h) for p, h in
+                            zip(usage["predicate"], usage["comp_head"])]
 
     # ------------------------------------------------------------------
     # 4. Validation audits
@@ -410,7 +434,7 @@ def main():
         usage_clauses=("clause", lambda s: " || ".join(s)),
         families=("family", lambda s: ";".join(sorted(set(s)))),
         predicates=("predicate", lambda s: ";".join(sorted(set(s)))),
-        draft_function_labels=("draft_label", lambda s: ";".join(sorted(set(s)))),
+        function_labels=("draft_label", lambda s: ";".join(sorted(set(s)))),
         n_usage_clauses=("clause", "size"))
     layer = pop[["ID", "Title", "types", "Status", "has_usage_gloss",
                  "definitional_only"]].merge(
@@ -419,14 +443,14 @@ def main():
     layer = layer.rename(columns={"ID": "entry_id", "Title": "title",
                                   "Status": "status"})
     layer["n_usage_clauses"] = layer["n_usage_clauses"].fillna(0).astype(int)
-    for c in ("usage_clauses", "families", "predicates", "draft_function_labels"):
+    for c in ("usage_clauses", "families", "predicates", "function_labels"):
         layer[c] = layer[c].fillna("")
     p = config.OUTPUTS_DIR / "gloss_layer_draft.csv"
     layer.to_csv(p, index=False, encoding="utf-8")
-    emit("## 5. Gloss layer draft")
+    emit("## 5. Gloss layer (taxonomy v1)")
     emit()
-    emit("Wrote {} ({} rows; draft labels are draft until ratified).".format(
-        p.relative_to(config.REPO_ROOT), len(layer)))
+    emit("Wrote {} ({} rows; function_labels carry taxonomy v1 as ratified "
+         "in chat 2026-06-11).".format(p.relative_to(config.REPO_ROOT), len(layer)))
     emit()
 
     # Worked examples: 4 seeded per usage family
@@ -450,7 +474,7 @@ def main():
          "inside a sentence that also mentions origin ('originated as a "
          "reaction image used to...') is excluded with it; counted above.")
     emit("- 'used in' often introduces venue ('used in forums') rather than "
-         "function; kept under STRUCTURAL pending ratification.")
+         "function; kept under STRUCTURAL in taxonomy v1.")
     emit("- COPULA 'is a/an' on the first sentence over-fires on plain "
          "definitions; it is used for gloss typing only, never as USAGE.")
     emit()

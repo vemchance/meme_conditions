@@ -1,0 +1,19 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# Never commit source data (lives outside the repo, but belt and braces)
+source_data/
+*.csv.gz
+
+# OS
+Thumbs.db
+.DS_Store

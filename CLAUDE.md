@@ -187,6 +187,20 @@ cited ~4,500 was the thresholded retrieval-evaluation class count,
   hold in both spaces. Recorded caveats: SigLIP text-in-image sensitivity
   (typicality partly tracks rendered text); sibling-template bleed (mixed
   galleries can score genuine instances as atypical).
+- 2026-06-12 (04G): full-scale rerun choices: (a) uncapped = all instances
+  passing the existing preparation filters, denoised by the 04F primary
+  filter applied to FULL galleries; new BGE embeddings for added
+  instances; visual centroids from stored chunks; (b) decision rule:
+  capped analysis stays prespecified primary, uncapped is the
+  scale/robustness analysis IF every grid cell agrees in sign and
+  significance category - any flip goes to chat before drafting;
+  (c) pure-carrier = carries the target family and no other FUNCTION
+  family (affordance co-carriage permitted), strict variant also counted,
+  contrasts only at >= 30 permissive carriers. Outcome: core results
+  agree; five borderline cells flip significance category and two
+  section-3 surprises (CAPTION content sign under mean-centring; EXPRESS
+  instance-level content variant) are with chat; drafting waits on those
+  calls.
 - 2026-06-12 (05B): exhibits are read-only over the 04-prepared texts, no
   statistics. Safety flag pass (coarse by design): better_profanity 0.7.0
   (LDNOOBW-derived wordlist) -> OFFENSIVE; KYM 'Sensitive' badge inherited

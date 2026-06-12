@@ -64,6 +64,12 @@ DENOISE_PCTL_SENS = 20          # sensitivity threshold
 DENOISE_MIN_GALLERY = 7         # formats below this sample size are exempt
 VISION_FT_CHECKPOINT = SEMIOMEME_ROOT / "data" / "corpus_data" / "vision_model.pth"
 
+# --- Expansion (04G) -------------------------------------------------------
+# 04G prepares its own uncapped instance sets (same filters, no cap,
+# denoised by the 04F primary filter); no global UNCAPPED flag is needed.
+PURE_CARRIER_MIN = 30           # permissive pure-carrier contrast floor
+INSTANCE_CONTENT_SUBSAMPLE = 50 # per-format cap for the instance-level check
+
 # --- Exhibits (05B) --------------------------------------------------------
 EXHIBIT_SHORTLIST_N = 8         # 4 centroid-closest + 4 seeded-random
 EXHIBIT_TEXTS_PER_FORMAT = 10   # seeded fill texts per shortlisted format

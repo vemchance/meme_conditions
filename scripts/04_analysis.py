@@ -447,7 +447,9 @@ def prepare(emit_fn):
         fmt_inst_sim=fmt_inst_sim, tags_sets=tags_sets, type_sets=type_sets,
         titles=titles, STOP=STOP, tri_index=tri_index,
         profile_texts=profile_texts, dropped_formats=dropped_formats,
-        skipped_empty=skipped_empty)
+        skipped_empty=skipped_empty,
+        # exposed for 04G's uncapped path (no behaviour change here)
+        usable=usable, strip_text=strip_text)
 
 
 def pair_context(ns):

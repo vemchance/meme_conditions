@@ -171,6 +171,22 @@ cited ~4,500 was the thresholded retrieval-evaluation class count,
   fell under the 100-within-pair floor (descriptive only), so the rule
   does not fire; the composition table and the affirmative low-coherence
   results carry the selection reading. Final paper wording in chat.
+- 2026-06-12 (04F): instance-level denoising replaces the format-level
+  coherence approach as the primary noise answer (04E composition findings
+  stand as supporting evidence). Choices: (a) typicality in fine-tuned
+  SigLIP space - vision_model.pth projection applied to the stored base
+  chunks (verified: the Chapter-3 inference path feeds raw pooler outputs,
+  shapes match, BatchNorm eval, output L2-normalised); base space as the
+  robustness variant; (b) typicality = mean cosine to k=5 NN within own
+  prepared gallery, galleries < 7 exempt; (c) global cut at the 10th
+  percentile (primary), 20th sensitivity; (d) no text-anchored exemption,
+  removal by Type reported, >25% text-anchored flag (not triggered).
+  Reading rule fixed in the spec: holding cells get a denoised robustness
+  paragraph; losing cells qualify the full-data claim; no within-format
+  coherence argument from this block. Outcome: all ten significant cells
+  hold in both spaces. Recorded caveats: SigLIP text-in-image sensitivity
+  (typicality partly tracks rendered text); sibling-template bleed (mixed
+  galleries can score genuine instances as atypical).
 - 2026-06-12 (05B): exhibits are read-only over the 04-prepared texts, no
   statistics. Safety flag pass (coarse by design): better_profanity 0.7.0
   (LDNOOBW-derived wordlist) -> OFFENSIVE; KYM 'Sensitive' badge inherited

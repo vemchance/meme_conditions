@@ -57,6 +57,13 @@ VISION_METADATA_DIR = SEMIOMEME_ROOT / "data" / "retrieval_data" / "vision_metad
 COHERENCE_SPLIT = "median"      # high-coherence = above population median
 MIN_PAIRS_FLAG = 100            # flag cells below this many within-pairs
 
+# --- Denoising (04F) -------------------------------------------------------
+DENOISE_K = 5                   # nearest neighbours for typicality
+DENOISE_PCTL_PRIMARY = 10       # global removal percentile (primary)
+DENOISE_PCTL_SENS = 20          # sensitivity threshold
+DENOISE_MIN_GALLERY = 7         # formats below this sample size are exempt
+VISION_FT_CHECKPOINT = SEMIOMEME_ROOT / "data" / "corpus_data" / "vision_model.pth"
+
 # --- Exhibits (05B) --------------------------------------------------------
 EXHIBIT_SHORTLIST_N = 8         # 4 centroid-closest + 4 seeded-random
 EXHIBIT_TEXTS_PER_FORMAT = 10   # seeded fill texts per shortlisted format

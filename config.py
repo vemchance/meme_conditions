@@ -50,6 +50,13 @@ COMPLEMENT_HEAD_STOPLIST = (
     "feeling", "feelings", "sense", "emotion", "emotions", "way", "manner",
     "variety", "kind", "type", "sort", "form", "thing", "something")
 
+# --- Block C (04D): visual layer ------------------------------------------
+# Base (non-fine-tuned) SigLIP vectors from the SemioMeme release.
+VISION_EMBEDDINGS_DIR = SEMIOMEME_ROOT / "data" / "retrieval_data" / "vision_embeddings"
+VISION_METADATA_DIR = SEMIOMEME_ROOT / "data" / "retrieval_data" / "vision_metadata"
+COHERENCE_SPLIT = "median"      # high-coherence = above population median
+MIN_PAIRS_FLAG = 100            # flag cells below this many within-pairs
+
 # --- Expected names: verify against the real files at runtime -----------
 EXPECTED_ENTRY_TEXT_COL = "About Text"
 EXPECTED_OCR_TEXT_COL = "Text"

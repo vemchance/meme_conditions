@@ -145,6 +145,21 @@ cited ~4,500 was the thresholded retrieval-evaluation class count,
   finding. Light-head stoplist in config.COMPLEMENT_HEAD_STOPLIST.
   Canonical pair population resolved as n = 1,622 (format b3454e05 loses
   its profile to watermark stripping; 1,623 was the pre-profile count).
+- 2026-06-12 (04D): Block C ratified choices: (a) visual layer = BASE
+  (non-fine-tuned) SigLIP vectors from the SemioMeme release
+  (google/siglip-base-patch16-384 pooler outputs; verified by generator
+  source + norm signature - fine-tuned head F.normalizes, stored vectors
+  are non-unit-norm; the fine-tuned model would contaminate both the
+  between-format layer and the coherence measure); (b) visual layer covers
+  exactly the 04 instance sample - vision-only instances excluded by
+  construction, stated limitation; (c) per-format visual coherence = mean
+  instance-to-own-centroid cosine, robustness split at the population
+  median; (d) the coherence-restriction rerun covers ALL significant grid
+  cells (form AND content), not form only. Registered predictions:
+  EXPRESS and RESPOND visual one-vs-rest effects > 0 (one-sided);
+  everything else exploratory two-sided; the restriction rerun has no
+  registered direction, with the reading rule recorded in advance
+  (holds/strengthens = dilution; vanishes = flagged artefact).
 
 ## Current stage
 

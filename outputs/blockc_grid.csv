@@ -1,0 +1,41 @@
+family,layer,kind,effect,p_upper,p_lower,p_twosided,note
+(omnibus),visual_cosine,one_vs_rest,0.001908,0.114389,0.885711,0.230377,
+RESPOND,visual_cosine,one_vs_rest,0.007045,0.006099,0.994001,0.011599,confirmatory one-sided
+EXPRESS,visual_cosine,one_vs_rest,0.009,0.0002,0.9999,0.0005,confirmatory one-sided
+EVALUATE,visual_cosine,one_vs_rest,-0.000233,0.525447,0.474653,0.944706,exploratory two-sided
+LABEL,visual_cosine,one_vs_rest,0.014995,0.0001,1.0,0.0001,exploratory two-sided
+STRUCTURAL,visual_cosine,one_vs_rest,-0.002251,0.853915,0.146185,0.289171,exploratory two-sided
+CAPTION,visual_cosine,one_vs_rest,0.000786,0.40176,0.59834,0.783422,exploratory two-sided
+RESPOND,fw_negjsd,one_vs_rest,0.005724,0.113589,0.886511,0.223078,from blockb_grid.csv
+RESPOND,pos_cosine,one_vs_rest,-0.008313,0.918308,0.081792,0.169783,from blockb_grid.csv
+RESPOND,content_cosine,one_vs_rest,0.006763,0.018198,0.981902,0.038696,from blockb_grid.csv
+EXPRESS,fw_negjsd,one_vs_rest,0.004951,0.128487,0.871613,0.254075,from blockb_grid.csv
+EXPRESS,pos_cosine,one_vs_rest,0.005764,0.147885,0.852215,0.294071,from blockb_grid.csv
+EXPRESS,content_cosine,one_vs_rest,0.009846,0.0005,0.9996,0.0015,from blockb_grid.csv
+EVALUATE,fw_negjsd,one_vs_rest,0.017594,0.0007,0.9994,0.0012,from blockb_grid.csv
+EVALUATE,pos_cosine,one_vs_rest,0.023919,0.0012,0.9989,0.0015,from blockb_grid.csv
+EVALUATE,content_cosine,one_vs_rest,-0.000348,0.541446,0.458654,0.926307,from blockb_grid.csv
+LABEL,fw_negjsd,one_vs_rest,0.042425,0.0001,1.0,0.0001,from blockb_grid.csv
+LABEL,pos_cosine,one_vs_rest,0.061461,0.0001,1.0,0.0001,from blockb_grid.csv
+LABEL,content_cosine,one_vs_rest,0.023035,0.0001,1.0,0.0001,from blockb_grid.csv
+STRUCTURAL,fw_negjsd,one_vs_rest,-0.00813,0.987501,0.012599,0.025997,from blockb_grid.csv
+STRUCTURAL,pos_cosine,one_vs_rest,-0.006693,0.930407,0.069693,0.145285,from blockb_grid.csv
+STRUCTURAL,content_cosine,one_vs_rest,-0.002735,0.863714,0.136386,0.274073,from blockb_grid.csv
+CAPTION,fw_negjsd,one_vs_rest,-0.019219,1.0,0.0001,0.0001,from blockb_grid.csv
+CAPTION,pos_cosine,one_vs_rest,-0.02672,1.0,0.0001,0.0002,from blockb_grid.csv
+CAPTION,content_cosine,one_vs_rest,-0.011976,0.9997,0.0004,0.0008,from blockb_grid.csv
+EVALUATE,fw_negjsd,high_coherence_restricted,0.003033,0.354065,0.646035,0.715128,
+EVALUATE,pos_cosine,high_coherence_restricted,0.000673,0.452855,0.547245,0.935006,
+LABEL,fw_negjsd,high_coherence_restricted,0.013846,0.110989,0.889111,0.216278,
+LABEL,pos_cosine,high_coherence_restricted,0.023685,0.026697,0.973403,0.039396,
+LABEL,content_cosine,high_coherence_restricted,0.01457,0.041596,0.958504,0.084792,
+EXPRESS,content_cosine,high_coherence_restricted,0.013692,0.0012,0.9989,0.0017,
+CAPTION,fw_negjsd,high_coherence_restricted,-0.011873,0.979102,0.020998,0.043296,
+CAPTION,pos_cosine,high_coherence_restricted,-0.013298,0.990101,0.009999,0.028597,
+CAPTION,content_cosine,high_coherence_restricted,-0.009251,0.980702,0.019398,0.040396,
+EVALUATE,fw_negjsd,mrqap_content_visual_controlled,0.034205,0.0001,1.0,0.0001,
+EVALUATE,pos_cosine,mrqap_content_visual_controlled,0.045533,0.0001,1.0,0.0001,
+LABEL,fw_negjsd,mrqap_content_visual_controlled,0.03355,0.0001,1.0,0.0002,
+LABEL,pos_cosine,mrqap_content_visual_controlled,0.050744,0.0001,1.0,0.0001,
+EXPRESS,content_cosine,mrqap_visual_controlled,0.008328,0.025297,0.974803,0.050295,
+LABEL,content_cosine,mrqap_visual_controlled,0.027566,0.0001,1.0,0.0001,

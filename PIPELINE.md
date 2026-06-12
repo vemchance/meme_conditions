@@ -12,7 +12,7 @@ Paper: use-conditions of meme templates, SemDial 2026. Deadline 17 June.
 | 04 | Analysis (form-function tests) | DONE — omnibus headline null (p~.97); per-family: LABEL + EVALUATE bind form (p<=.001), CAPTION anti-coherent; copypasta ceiling confirmed; RESPOND when-clause direction supported; watermark-insensitive. Interpretation in chat |
 | 04B | Block A: repairs + per-family controls | Two-sided p's for all 04 contrasts; tag diagnostic; zerotag + MRQAP controls for all 6 contrast families. Outputs: blocka_report.md, blocka_inference.csv |
 | 04C | Block B: content layer | DONE — double dissociation: EVALUATE binds form not content; EXPRESS binds content not form; LABEL binds both; CAPTION anti-coherent on all three layers. LABEL+EVALUATE form effects survive content controls (p=.0001). EXPRESS complement prediction: continuous n.s. (p=.097), discrete companion p=.042. Decision point B in chat |
-| 04D | Block C: visual layer | PLANNED |
+| 04D | Block C: visual layer | DONE — base SigLIP verified; both visual predictions supported (RESPOND p=.006, EXPRESS p=.0002); completed grid: EVALUATE form-only, EXPRESS semantic-only, LABEL all four layers, CAPTION negativity text-only. FLAG per reading rule: EVALUATE form effects attenuate to n.s. under high-coherence restriction (completing regression still p=.0001) — chat discussion before drafting. Decision point C in chat |
 | 05 | Audit statistics (precision/recall/kappa) | When filled audit files land |
 | 06 | Paper drafting (in chat, from analysis_report.md) | Days 5-6 |
 | 07 | Submission: anonymised snapshot, no repo links | 17 June |

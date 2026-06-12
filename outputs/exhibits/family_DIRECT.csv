@@ -1,0 +1,11 @@
+title,entry_id,types,n_instances_prepared,clauses,sensitive_badge,sim_fw_centroid,sim_pos_centroid,sim_content_centroid,sim_visual_centroid
+Vibe Check,0b9180fc,"catchphrase, slang",61,used to invite people to express their present emotional state. [invite/people],False,-0.12915,0.69368,0.89711,0.92048
+Knows What Sex Is Grid,3390785b,exploitable,61,used to assign four people or characters based on whether they have sex and have awareness of what sex is. [assign/people],False,-0.29685,0.47028,0.80042,0.88683
+Share If You Agree,5b12f8a9,,30,used to solicit more interaction on Facebook posts in order to expose them to a wider audience. [solicit/interaction],False,-0.17312,0.65426,0.93677,0.93201
+Haters To The Left,83123bae,reaction,50,used to direct negative people to leave. [direct/people],False,-0.30113,0.60761,0.82377,0.86702
+Goodnight Sweet Prince,a7ae3912,hoax,100,used to bid farewell and pay respect to someone who has recently passed away. [bid/farewell],False,-0.16959,0.57628,0.84192,0.85431
+Hand Me the Aux Cord,ab565807,,20,used to request an auxiliary audio input cable in order to play music off a mobile device. [request/input],False,-0.19421,0.54339,0.88483,0.89494
+Can I Offer You a Nice Egg In This Trying Time,b86daa23,catchphrase;exploitable;snowclone,39,is used to humorously offer a small [offer/nan],False,-0.2968,0.4844,0.86509,0.91014
+Choke Me Daddy,b9e49045,catchphrase;image macro,41,used to ask a male sexual partner to choke one's throat. [ask/partner],False,-0.21256,0.53056,0.88823,0.91998
+Femur Breaker,c5bc3d3b,creepypasta;pop culture reference;sound effect,35,used to lure SCP-106 into its containment chamber. [lure/scp-106],False,-0.12398,0.63831,0.92235,0.91482
+Send Nudes,daa43577,slang,71,used to request sexually explicit photographs from someone via various forms of communication [request/photograph],False,-0.11145,0.69432,0.93147,0.93278

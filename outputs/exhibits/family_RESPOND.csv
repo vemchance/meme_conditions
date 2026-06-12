@@ -1,0 +1,283 @@
+title,entry_id,types,n_instances_prepared,clauses,sensitive_badge,sim_fw_centroid,sim_pos_centroid,sim_content_centroid,sim_visual_centroid
+Mr Orange,0242d139,character,58,is often used as a reaction image in ironic meme communities online. [use_as/reaction],False,-0.14893,0.66994,0.97273,0.90227
+Somethings Wrong I Can Feel It,032ac295,"image macro, reaction",37,to express an uneasy reaction to something. [express/reaction],False,-0.22536,0.39977,0.84851,0.87465
+You Dumb Bitch,03efe7e2,image macro;reaction,31,in response to a radio broadcast. [response/radio],False,-0.17885,0.52851,0.90281,0.88555
+Vector,04088e86,character;photoshop,29,reacts to his defeat by saying 'oh poop' were circulated on Instagram. [react/defeat],False,-0.2328,0.58503,0.94356,0.84844
+Autistic Screeching,042a44aa,exploitable,100,is often used to mock angry reactions to various political ideologies and alliances. [mock/reaction] || to mock angry reactions to various political ideologies and alliances. [mock/reaction],False,-0.07667,0.76007,0.92203,0.87989
+Coralines Dad  Are You Winning Dad,053bb77c,image macro,37,has been used as a reaction image. [use_as/reaction],False,-0.18822,0.66779,0.95102,0.91802
+I Love Democracy,06262a08,image macro;pop culture reference,41,used as a reaction image about voting. [use_as/reaction],False,-0.19628,0.54636,0.88229,0.8617
+Shrek Is Love Shrek Is Life,067b2b6a,copypasta,66,in response to the popularity of the stories. [response/popularity],False,-0.12144,0.52096,0.90003,0.89334
+Worst Person You Know Made a Great Point,06ab6b02,reaction,32,used as reaction images on Twitter to express agreement with someone the poster otherwise dislikes. [use_as/reaction],False,-0.13593,0.62043,0.883,0.78423
+Youre a Genius You Moron,06d632fa,image macro;reaction,24,has been used as a reaction image macro in jokes about intelligence. [use_as/reaction],False,-0.17242,0.68029,0.91565,0.90759
+Deal With It,072e8d4f,reaction,100,in response to someone's disapproval. [response/disapproval],False,-0.35622,0.3383,0.8904,0.91117
+Write Your Name In Reverse It’s Your Demon Name,088288f0,exploitable;image macro;social game,38,paired with a reaction image at the bottom coming from the perspective of the person named. [pair/reaction],False,-0.3844,0.41252,0.81622,0.87457
+The Ogre Has Fallen In Love With the Princess,0895d8da,image macro;reaction,37,has been used as a reaction image macro to express feelings of embarrassment about romantic feelings. [use_as/reaction],False,-0.19004,0.64768,0.9222,0.90903
+I Can Count to Potato,0ad327dd,,57,reacting to comments that are deemed unintelligent. [react/comment],False,-0.1214,0.65725,0.89922,0.89029
+Walter White Breaks Down,0b3b8933,exploitable,31,reacts to the death of his brother-in-law [react/death],False,-0.23562,0.54778,0.95154,0.92647
+Starecat  Grafics Cat,0c28ce9d,reaction,39,used as a popular reaction face on 4chan [use_as/reaction],False,-0.18185,0.66531,0.96853,0.86545
+Looks at the Camera Like Im on The Office,0c8299a0,,37,used as a reaction to a statement that surprises [use_as/reaction] || as a reaction to a statement that surprises [reaction/statement],False,-0.1587,0.60585,0.90402,0.88644
+Family Act My Age Dance,0c9a8666,reaction;viral video,28,used as a reaction video [use_as/reaction],False,-0.13976,0.71062,0.93842,0.90972
+Spongebob Cops,0cc01395,reaction,30,in response to scenarios where a person needs to be chastised. [response/scenario],False,-0.11029,0.76855,0.9595,0.9327
+Get A Load Of This Guy,0d227a80,catchphrase;image macro;reaction,33,used to acknowledge a witty remark made by another person or poke fun at the complacency of such a remark. [acknowledge/remark],False,-0.3676,0.46087,0.86362,0.91273
+Recontextualized Porn,0e64c14b,"parody, reaction",9,are used as reaction images. [use_as/reaction],False,-0.27941,0.40018,0.88015,0.89368
+This Is Fine,0ee50999,exploitable,100,is typically used as a reaction image to convey a sense of self-denial or acceptance in the face of a hopeless situation. [use_as/reaction],False,-0.23989,0.33259,0.86552,0.86522
+Andy Slang,0f77e350,"slang, snowclone",24,react to other people’s content. [react/people],False,-0.19313,0.73895,0.89286,0.86576
+Ohhh Thats Fucking Filthy,1074c3e0,reaction,22,in response to incredible situations [response/situation],False,-0.25862,0.45924,0.87823,0.73712
+No No Hes Got a Point,11e6139d,reaction;slang,81,in response to a caption above the bottom frame to show that someone or something makes a good point. [response/caption],False,-0.14633,0.55893,0.91489,0.89156
+breath in Boi,130c3312,reaction,91,commonly used as a reaction image to various instances of people making an unwise decision. [use_as/reaction],False,-0.21689,0.42184,0.89834,0.8943
+Anythings A Dildo If Youre Brave Enough,13c145ef,,37,often used in reaction to misshapen or phallic shaped objects and is easily associated to cacti. [use_in/reaction] || in reaction to misshapen or phallic shaped objects and is easily associated to cacti. [reaction/misshapen],False,-0.31082,0.40654,0.8485,0.86915
+Nurgle,14dfd431,character;exploitable;fan art;image macro;pop culture reference;reaction,39,is often used as a reaction image to anything that depicts people making decisions that lead to the further spread of sickness where he appears to voice his pleasure or happiness due to their actions. [use_as/reaction],False,-0.15751,0.68071,0.93984,0.87721
+Peter Parker Crying,14ffc695,image macro;reaction,26,has been used as a reaction image since the early 2000s and was later added to the exploitable J. Jonah Jameson scene from the same film. [use_as/reaction],False,-0.17371,0.58938,0.92647,0.88594
+Open Eye Crying Laughing Emoji,157c870b,,23,is typically used to signal extreme emotional reactions to various situations. [signal/reaction] || to signal extreme emotional reactions to various situations. [signal/reaction],False,-0.31548,0.49624,0.93789,0.88351
+Im a Simple Man,16ee0784,,35,used in reaction images to express one's appreciation for things of ordinary nature. [use_in/reaction],False,-0.26114,0.53363,0.91577,0.91964
+Milhouse Is Not A Meme,17566fee,,45,has been typically used to initiate a chain post of recursive nature. [initiate/chain],False,-0.13744,0.49802,0.87043,0.8741
+L  Ratio  You X,18ce0b3a,"catchphrase, copypasta, image macro, reaction, slang",82,as a reply to hot takes or in image macros. [reply/take],False,-0.11666,0.50573,0.93206,0.89682
+Dan Nicky Your Bobbie s,18ec2ebd,,74,in reply to a provocative selfie of celebrity Nicki Minaj posted in 2014. [reply/selfie],False,-0.273,0.52705,0.89149,0.82205
+Abandon Thread,1a979980,,98,is often used as a reaction to thread jacking [use_as/reaction] || as a reaction to thread jacking [reaction/nan],False,-0.31806,0.53476,0.88864,0.86332
+You Are Not Immune to Propaganda,1ad03947,reaction,82,has been used as a reaction image to instances of people praising brands [use_as/reaction],False,-0.33706,0.28509,0.85207,0.89045
+Proofster,1bf7acab,character;reaction,39,are often used as reaction images to mock Russian users on 4chan's /int/ (international) board and the /r/europe[1] subreddit who continue to demand proof in the face of overwhelming evidence. [use_as/reaction],True,-0.18836,0.59405,0.87827,0.84612
+It Was Time for Thomas to Leave,1f9618c5,image macro;pop culture reference;reaction,35,used in reaction to something the person finds particularly overwhelming. [use_in/reaction] || in reaction to something the person finds particularly overwhelming. [reaction/person],False,-0.24825,0.43051,0.80268,0.85646
+Friezas Ill Ignore That,224e1384,exploitable;image macro;reaction,39,used as a simple reaction image. [use_as/reaction],False,-0.13934,0.67264,0.94681,0.93586
+ಠಠ Look of Disapproval,2280c4ea,emoticon,26,commonly used as a reaction emoticon to express one's disapproval or disbelief. [use_as/reaction],False,-0.18841,0.42028,0.96059,0.91
+The Trickster,22810209,image macro,26,in reaction to a caption involving a cheat or a deceiving action. [reaction/caption],False,-0.16612,0.41941,0.91855,0.91659
+Tits or GTFO,22b4c1e6,axiom,35,in response to a seductive image posted by anonymous users who claim to be female. [response/image],False,-0.27011,0.43227,0.87611,0.8766
+Shut Down Everything,2387fbdd,pop culture reference,37,used to depict the reaction of the President of Madagascar in the flash game Pandemic II. [depict/reaction] || used as a reaction to various events [use_as/reaction] || as a reaction to various events [reaction/event],False,-0.18992,0.71386,0.90859,0.8699
+You Did It The Crazy Son of a Bitch You Did It,23ad7bd0,image macro;reaction,41,used as a reaction image. [use_as/reaction],False,-0.23522,0.43114,0.87728,0.86494
+Staring Animals,240efb55,"image macro, reaction",28,has been used as a reaction image and in ironic memes on Reddit and iFunny. [use_as/reaction],False,-0.19027,0.58395,0.94936,0.92512
+Its Been 3000 Years,261b59fd,,78,commonly used in reaction images to convey feelings of bittersweet closure or overwhelming joy in response to the long-awaited arrival of something after a prolonged delay. [use_in/reaction] || in response to the long-awaited arrival of something after a prolonged delay. [response/arrival],False,-0.44827,0.27669,0.76095,0.80691
+Excuse Me WTF R U Doin,26455635,,39,in response to baffling comments made by another poster [response/comment],False,-0.22977,0.60706,0.9216,0.92454
+Reply Girls,273015a5,,32,in response to an already popular or trending video in an attempt to capitalize on the high view counts. [response/video],False,-0.04569,0.67982,0.91026,0.85812
+Pictures of People Before and After Calling Them Beautiful,279138b1,exploitable;viral video,39,reacting to being called beautiful by photographer Shea Glover. [react/photographer],False,-0.18784,0.44521,0.85745,0.91397
+Huell Rolling In Money,27ad42c7,exploitable;image macro;pop culture reference,24,used as a reaction image and exploitable image macro online [use_as/reaction],False,-0.30425,0.43282,0.91998,0.85079
+Are We the Baddies,27f2cc9b,reaction,28,has been used as a reaction image to situations where a person who identifies with a cause or group realizes their aims may not be good. [use_as/reaction],False,-0.33384,0.46253,0.83298,0.8585
+Uohhhhhhhhh 😭,292f1e9e,"catchphrase, copypasta, emoticon, reaction",51,in response to a picture of an anime child. [response/picture],False,-0.13288,0.52167,0.96758,0.92508
+HOW,2b190269,slang,37,as a response to Minecraft Bee Is Trans arguments and trans-related posts in general. [response/minecraft],False,-0.10961,0.43276,0.94756,0.94383
+Kid Getting Choked,2c5a0897,"image macro, reaction",24,has been used as a reaction image to describe moments that make one feel aggressive [use_as/reaction],False,-0.34133,0.49669,0.95124,0.90708
+Fight Me IRL,2dbcee0b,,22,as a response to threatening responses or to express disagreement with someone else's opinions. [response/response],False,-0.24429,0.29144,0.90242,0.90263
+Kirbys Calling the Police,2e4a9db7,reaction,40,often used as a standalone reaction image or in conjunction with memes and images that depict something of questionable legality. [use_as/reaction],False,-0.12199,0.5751,0.92596,0.88286
+Well Boys We Did It Racism Is No More,2f2f58e5,"image macro, reaction, snowclone",39,react to perceived superficial solutions to complex issues. [react/solution],False,-0.19623,0.57554,0.91919,0.87525
+Surprised Pikachu,2f7869f8,reaction,100,was used as a reaction image paired with captions where a set-up leads to a predictable outcome that nevertheless leaves one surprised. [use_as/reaction],False,-0.0657,0.34496,0.96969,0.9245
+Popcorn GIFs,3110b71a,,30,are often used as reaction images online to indicate a feeling of amusement while witnessing a drama or argument unfold [use_as/reaction],False,-0.30821,0.46012,0.95064,0.90571
+Fitness is My Passion  Boy Whos Passion is Fitness,313b00db,reaction,42,typically used as a reaction image to express laziness or sarcasm about fitness and being healthy. [use_as/reaction],False,-0.10032,0.75854,0.92984,0.90921
+Meme Arrows,314c5cca,,20,typically used when expressing implicit statements on 4chan and Reddit. [use_when/statement] || used when expressing implicit statements on 4chan and Reddit. [use_when/statement],False,-0.13839,0.51644,0.90954,0.86723
+Ive Seen Some Shit,315220ff,,35,as a reaction to images or videos that can have a significant impact on a person [reaction/image],False,-0.20573,0.49978,0.81819,0.88907
+Reaction Guys  Gaijin 4Koma,317b94ed,,100,reacting to Nintendo's announcement of new titles at the E3 conference in 2003 and 2004 respectively. [react/nintendo],False,-0.0888,0.68953,0.96128,0.85957
+Zach Galifianakis Math,31a9f630,exploitable;image macro;reaction,20,is often used as a reaction image in response to confusing content and is also used in image macros to similarly depict confusion. [use_as/reaction] || in response to confusing content and is also used in image macros to similarly depict confusion. [response/content],False,-0.19959,0.46336,0.88487,0.87684
+Absolutely Haram,335f084e,,21,is often used as a reaction image to sarcastically condemn an act or remark that goes against the teachings of Islam [use_as/reaction],False,-0.22911,0.60208,0.85348,0.85767
+Hmm Yes the Floor Here Is Made Out of Floor,33e8b277,reaction,37,has been used as a reaction [use_as/reaction],False,-0.22283,0.38731,0.90847,0.91141
+You  Heres Your You,35843bae,,71,in response to posts perceived as bait with the expression 'Here's Your (You)'. [response/post],False,-0.1294,0.45078,0.89168,0.90506
+The Future Is Now Old Man,361a9e5f,reaction,30,as a reaction to captions describing futuristic scenarios. [reaction/caption],False,-0.25974,0.39591,0.80604,0.88216
+What Has Been Seen Cannot Be Unseen,369a9f4c,axiom,100,is commonly used as incredulous reaction to a shock sites or a surprising revelation of anomalies in an unsuspecting image [use_as/reaction],False,-0.15763,0.72034,0.95285,0.94014
+The Galactic Federation,37624085,conspiracy theory,30,in response to comments made by the former head of Israel's space security program that extraterrestrials exist but will not reveal themselves until humanity is ready. [response/comment],False,-0.17909,0.50858,0.81229,0.83263
+This Is Beyond Science,3783530b,image macro;reaction,37,as a reaction to baffling situations. [reaction/situation],False,-0.19859,0.42027,0.89561,0.86836
+Matthew McConaughey Smoking,37f84247,"image macro, reaction",21,has been used as a reaction image to express great tension or worry. [use_as/reaction],False,-0.26152,0.5809,0.9346,0.90859
+Everyone Disliked  Liked That,39905c22,image macro;reaction,41,in response to positive or negative news articles or stories. [response/news],False,-0.22846,0.58088,0.89319,0.91244
+Who Gon Check Me Boo,39e414ba,snowclone,26,has been used as a reaction image and GIF but has grown into a call-and-response phrasal template. [use_as/reaction],False,-0.19289,0.59856,0.93934,0.92613
+Sleeping Squidward,3bf738da,,40,used as a reaction image to convey feelings of shock upon remembering an assigned task that has not been completed. [use_as/reaction],False,-0.15681,0.59313,0.9377,0.90122
+I Guess Guy,3c1f55ea,reaction,33,commonly is used as a reaction image to express begrudging acceptance of something [use_as/reaction],False,-0.22408,0.54772,0.9463,0.87214
+Safe Horny,3cbfcb25,slang;viral debate,33,in response to Blizzard announcing a new 'hot' male support character. [response/blizzard],True,-0.14,0.64858,0.89696,0.83275
+Jokes Clown,3da2f443,,37,is often used as a reaction image [use_as/reaction],False,-0.0847,0.69611,0.96519,0.94565
+Crying Michael Jordan,3dfc1eb7,"photoshop, reaction",100,in reaction to the defeat of their favorite teams. [reaction/defeat],False,-0.12387,0.70897,0.95666,0.85191
+James Doakes Surprise Motherfucker,3e720afe,"catchphrase, hashtag, image macro, photoshop",63,in response to someone else's comment. [response/comment],False,-0.21304,0.68845,0.91688,0.89674
+Thats Disgusting Where,3eecb829,exploitable;image macro;pop culture reference;reaction,30,in response to a woman [response/woman],False,-0.28119,0.43014,0.82895,0.84028
+Ahorita No Joven,42d29b71,image macro,73,is commonly used as a reaction image to express indifference or dismissal [use_as/reaction],False,-0.36903,0.52778,0.87666,0.81693
+Lauren Phillips Lifting Alice Merchesi,444947bb,exploitable,21,has been used as a reaction and an object labeling meme [use_as/reaction],True,-0.33101,0.39255,0.95318,0.82737
+Karl Havoc  I Dont Even Want To Be Around Anymore,4451fb05,catchphrase;character;pop culture reference;reaction,20,used as a reaction image for uncomfortable or sad situations. [use_as/reaction],False,-0.26158,0.38402,0.86686,0.84955
+Its Machine Code,44ad5fe0,exploitable,100,reacting to the content that is presented on the paper. [react/content],False,-0.12271,0.55714,0.8604,0.75442
+How Many Other Lies Have I Been Told By The Council,45dee20d,image macro;reaction,61,has been used as a reaction image in posts from a poster exaggerating their disgust at learning something they believed was false. [use_as/reaction],False,-0.20719,0.46775,0.85734,0.85619
+14FCali,467703f1,slang,22,in response to the initialism 'a/s/l' requesting someone's age [response/initialism],False,-0.34299,0.40909,0.86936,0.84907
+Gary Oak,467e3d6c,character,79,used to undermine any sort of achievement. [undermine/sort],False,-0.07247,0.81595,0.95074,0.88349
+3D Text Reaction Images,47bb3883,image macro;reaction;visual effect,36,are typically used as reaction images and exploitables. [use_as/reaction],False,-0.12706,0.74329,0.96633,0.9155
+「Crazy Talk」,4818d755,character;fan art;fan labor,22,in response to Pat's tendency to claim something as an absolute truth and seconds later being proven wrong by fate. [response/pat],False,-0.25834,0.536,0.90468,0.87269
+My Goals Are Beyond Your Understanding,49955498,"image macro, reaction",41,has been used as a reaction image macro used to describe one's strength and confidence. [use_as/reaction],False,-0.24349,0.4754,0.88366,0.88822
+Photoshopped Little Mac,4acd90ba,,20,in response to any supposed leaks surrounding the game. [response/leak],False,-0.11822,0.66267,0.95649,0.89682
+Aliou Cissé Celebration GIFs,4bc8e749,reaction,22,were used as a reaction on Twitter shortly after. [use_as/reaction],False,-0.25501,0.56892,0.92519,0.88007
+Donald Trump Reacts to Ted Cruz,4c0234e9,,26,Reacts to Ted Cruz is a photoshop meme based on a photograph of the Republican presidential candidate and his family members looking displeased as his former rival candidate Ted Cruz defiantly refused to endorse Donald Trump during his speech at the Republican National Convention in July 2016. [react/ted],False,-0.11178,0.72843,0.94514,0.94653
+Sweating Rilakkuma,4ce8030b,exploitable;reaction,37,has been used as a reaction on Twitter [use_as/reaction],False,-0.10778,0.63355,0.95973,0.93197
+Are We Blind Deploy The Garrison,4d14db1b,image macro,26,has been used as reaction image macros to express an obvious defense. [use_as/reaction],False,-0.09738,0.76138,0.96039,0.92694
+What The Hell Happened Here,4e0d7fd5,image macro;reaction,63,has been used as a reaction image macro. [use_as/reaction],False,-0.11015,0.61319,0.95147,0.9249
+Call a Bondulance,4e5d0993,catchphrase,24,often used as a reaction to incoherent posts or posts containing severe misspellings which humorously implies that the person who wrote the post is having a stroke. [use_as/reaction] || as a reaction to incoherent posts or posts containing severe misspellings which humorously implies that the person who wrote the post is having a stroke. [reaction/post],False,-0.24525,0.48245,0.82921,0.76966
+Stop My Penis Can Only Get So Erect,503efdaf,reaction,23,used as a reaction online to express great excitement. [use_as/reaction],False,-0.27661,0.48079,0.93263,0.8778
+Difference Between Shy and Introvert,510444e5,fan art,48,reacting to presence of people in radically different ways. [react/presence],False,-0.60857,0.1676,0.63245,0.7691
+Pake Nanya,51823d22,exploitable;image macro;reaction,23,has been used as a reaction image to obvious questions and the image itself has been used as an exploitable. [use_as/reaction],False,-0.29604,0.46,0.90814,0.87563
+Crying Cat,5193f21d,"exploitable, photoshop, reaction",65,are typically used as reactions and image captions. [use_as/reaction],False,-0.11667,0.73557,0.96272,0.90581
+Enslaved Moisture,51bb8ab3,slang,41,has been used as a reaction image and exploitable. [use_as/reaction],False,-0.35865,0.28045,0.89306,0.87547
+Bucky,5316effb,character;exploitable,56,used as reaction images. [use_as/reaction],False,-0.18654,0.48705,0.97682,0.91241
+Kiss Your Homies Goodnight,549e8a22,catchphrase,33,has been used in many reaction image memes in which it's suggested to be a very positive and necessary act. [use_in/reaction],False,-0.17337,0.6004,0.8744,0.90002
+This Is Not Okie Dokie,56fe362f,exploitable;image macro;reaction;viral video,28,used as a reaction image and image macro [use_as/reaction],False,-0.36234,0.30851,0.89526,0.85628
+Kai Cenat Tongue Out Face,580884d4,exploitable;image macro;reaction,35,were used as reaction images in replies. [use_as/reaction],False,-0.12551,0.70381,0.95202,0.9332
+My Skin Is Clear,59225d52,,24,in reaction to pictures or videos of the object of their fandom. [reaction/picture],False,-0.33264,0.28479,0.76248,0.80502
+The What  Rug Doctor Woman Ad,5b4ef8a3,image macro;reaction,37,typically used as a reaction image or an object labeling macro to express confusion or disbelief [use_as/reaction],False,-0.19179,0.59912,0.92401,0.90097
+Emoting Mokou,5b828322,exploitable;reaction,100,used as reaction images on some online communities like 4chan. [use_as/reaction],False,-0.13226,0.64834,0.94384,0.72585
+No Anime Penguin,5c1f2776,catchphrase;reaction,66,used as an ironic reaction image to posts about anime. [use_as/reaction],False,-0.14429,0.76948,0.88902,0.87499
+Current Objective Survive,5c2e6fad,image macro;reaction,38,in response to unpleasant situations or controversial statements. [response/situation],False,-0.193,0.52953,0.88684,0.8686
+Bullshit Detector,5e1cdb36,,47,in response to a dubitable claim in the form of a reaction image. [response/claim],False,-0.14498,0.71678,0.96092,0.91531
+Are You A Wizard,5e3a7745,catchphrase;image macro;reaction,100,used as a reaction image to an extraordinary or absurd remark on imageboards or web forums and can be used sarcastically to point out an obvious statement in a similar vein to Captain Obvious. [use_as/reaction],False,-0.38264,0.21929,0.78952,0.89204
+Elon Musk Smoking Weed,5ef3d52b,image macro;photoshop;reaction,33,is used as both a reaction image and GIF as well as being referenced in memes [use_as/reaction],False,-0.24513,0.58172,0.93783,0.90345
+See Nobody Cares,5f13f7b1,,34,used as a reaction image to convey indifference or apathy towards someone soliciting unwarranted attention. [use_as/reaction],False,-0.31489,0.42028,0.84306,0.79147
+Oh You,5fde0fbd,,43,as a reply to a clever or brash statement. [reply/statement],False,-0.13074,0.56835,0.92712,0.90302
+Absolutely Disgusting,611aeb3b,,100,is often used as a reaction image to express one's disapproval. [use_as/reaction],False,-0.25161,0.31288,0.89436,0.9008
+Wack,6317da91,reaction,35,is used as a reaction image to describe uncool situations. [use_as/reaction],False,-0.20502,0.61474,0.91765,0.89455
+Muito Real,632c7ba0,catchphrase;pop culture reference,38,used in reaction to the announcement of Mothman appearing in the upcoming video game Shin Megami Tensei V (SMT) [use_in/reaction] || in reaction to the announcement of Mothman appearing in the upcoming video game Shin Megami Tensei V (SMT) [reaction/announcement],False,-0.17595,0.63932,0.89676,0.84063
+I Have 3 Dollars,64aa5cd8,,28,used to react to costly scenarios or items. [react/scenario] || react to costly scenarios or items. [react/scenario],False,-0.29624,0.4835,0.87062,0.82006
+Yo Semites,66daa817,parody,20,were used to greet a Jewish person. [greet/person],False,-0.2732,0.52777,0.81544,0.74477
+Tom Hanks Golden Globe Grimace,66f85c29,image macro;reaction,25,in reaction to British comedian Ricky Gervais opening monologue at the 2020 Golden Globe Awards. [reaction/comedian],False,-0.12285,0.65476,0.91696,0.84685
+Persian Cat Room Guardian,67f6504d,animal;exploitable;reaction,29,to convey an incredulous reaction. [convey/reaction],False,-0.17159,0.58572,0.93382,0.86683
+Why Would You Say Something So Controversial Yet So Brave,6823cecc,catchphrase,41,used as a reaction image on Tumblr humorously in response to relatively banal statements. [use_as/reaction] || in response to relatively banal statements. [response/statement],False,-0.27248,0.34902,0.89364,0.87847
+Boom Pregnant,6874dd12,,91,in response to a photo of a handsome man. [response/photo],False,-0.08703,0.70935,0.91735,0.93764
+What Are You Waiting For,6bbac8b6,exploitable;pop culture reference,33,is often used as a reaction image to express longing and sadness. [use_as/reaction],False,-0.17385,0.4925,0.90659,0.91769
+Deaf People Reacting to Subtitles,6d01335c,parody,33,Reacting to Subtitles refer to a series of images which parody and hyperbolize reactions which deaf people experience when reading film subtitles and captions. [react/subtitle],False,-0.19108,0.53761,0.89598,0.93239
+We All Make Mistakes In the Heat of Passion Jimbo,6d28446b,image macro;reaction,28,has been used as a reaction image. [use_as/reaction],False,-0.24947,0.48205,0.83788,0.8551
+i lik the bred,6ea609df,,41,in response to a storytime thread about the worst code violations that public health inspectors have seen while on the job. [response/thread],False,-0.18335,0.55402,0.90699,0.83109
+Trainers Hate Him,6f2a436d,,59,in response to implausible claims related to fitness and bodybuilding. [response/claim],False,-0.17404,0.59229,0.91509,0.87413
+Another One,6fe078d9,catchphrase,20,is often used to caption a reaction image of Khaled seated in a car. [caption/reaction],False,-0.35196,0.43844,0.89854,0.82677
+I Like Your Funny Words Magic Man,716bbdb9,"image macro, reaction",37,has been used as a reaction [use_as/reaction],False,-0.22852,0.42479,0.85545,0.87791
+DURR PLANT,72a3f623,,25,in response to the 'Damn Daniel' meme to make fun of its frivolous nature. [response/damn],False,-0.29382,0.48548,0.84909,0.80631
+Ow The Edge,73532455,catchphrase;reaction,29,in response to images [response/image],False,-0.21184,0.54235,0.86559,0.82282
+Jamie Lee Curtis Argument,757c82d2,reaction,26,has been used as a reaction image to express frustration and anger at various situations. [use_as/reaction],False,-0.19872,0.69239,0.95785,0.9103
+Feels Good,75b468a9,exploitable,85,in response to another post. [response/post],False,-0.12613,0.73163,0.95091,0.909
+Ackchyually  Actually Guy,75fa41cc,reaction,26,is usually used as a reaction image to humorously express doubt at hopeful captions. [use_as/reaction],False,-0.16928,0.60321,0.93347,0.79232
+Joe Rogan Daniel Cormier and Jon Anik UFC 248 Reaction,7701f8cd,"image macro, reaction",37,reacting to Beneil Dariush knocking out Drakkar Klose during a UFC 248 match. [react/beneil],False,-0.25684,0.50455,0.94497,0.85887
+That Really Rustled My Jimmies,7731db93,catchphrase,100,in response to someone else's post on image boards and discussion forums [response/post],False,-0.09479,0.81035,0.94218,0.87996
+Wojak,79138005,character,100,is often used as a reaction image to represent feelings such as melancholy [use_as/reaction],False,-0.05294,0.88494,0.9817,0.93956
+You Are Not Normal,7c3d90a8,"exploitable, image macro, reaction",28,was used as a reaction image and an exploitable in early June 2021. [use_as/reaction],False,-0.30114,0.45636,0.89276,0.80181
+Bugs Bunnys No,7d1a7736,exploitable,31,has been used as a reaction [use_as/reaction],False,-0.21925,0.48585,0.9179,0.88933
+Sadge,7e7f82bc,copypasta;emoticon;reaction,24,is commonly used as a reaction to convey sadness or depression in chats on Twitch [use_as/reaction] || as a reaction to convey sadness or depression in chats on Twitch [reaction/sadness],False,-0.22514,0.49607,0.92593,0.88649
+Shart in Mart,7ec410b8,,30,in response to several photographs of grocery store shoppers with brown stains on their pants submitted to the site in late August 2016. [response/photograph],False,-0.16569,0.30088,0.87727,0.86457
+Y Tho,7f78b606,"image macro, reaction",31,in response to a senseless action or statement. [response/action],False,-0.21179,0.65626,0.92519,0.87406
+Ive Won But At What Cost,7fb09c93,reaction,41,has been used as a reaction image with scenarios where a person achieves a minor a victory but suffers a more pressing loss in the process. [use_as/reaction],False,-0.20895,0.43222,0.84501,0.87309
+Do Want  Do Not Want,806f321f,catchphrase,100,typically used in reaction image macros to express one's opinion on an image [use_in/reaction],False,-0.44198,0.2329,0.82359,0.88849
+Gay Silence,8082433f,reaction,28,in response to any presumptive question or statement about one's own sexual orientation. [response/question],False,-0.26519,0.36631,0.802,0.87774
+Egg Transgender,818525d9,slang,41,used when referring to a state of secrecy and insecurity about one's homosexuality [use_when/state] || used when referring to a state of secrecy and insecurity about one's homosexuality [use_when/state],False,-0.12451,0.70063,0.88598,0.91807
+Oh No The Bra Fell Off,821f78f0,image macro;pop culture reference;reaction,30,often used as a reaction image alongside jokes about people getting turned on. [use_as/reaction],False,-0.29133,0.31837,0.80453,0.82006
+Get Nae Naed,828f2448,"image macro, reaction, slang",26,used as a reaction image macro featuring the frog character Touch Me from the video game Final Fantasy VII. [use_as/reaction],False,-0.2705,0.45187,0.84992,0.86212
+Mother of God,82fe192c,,100,in response to a shocking image or a video. [response/image],True,-0.0772,0.74475,0.94253,0.8923
+Top Gun Hat,835b85bb,exploitable,45,used as a reaction image to indicate quality content while the cap itself has been featured as an exploitable image and spawned a photoshop meme of its own. [use_as/reaction],False,-0.62651,0.30494,0.88055,0.83584
+Masterful Gambit Sir,85dddc6a,catchphrase,22,in response to negative news stories about Musk and his endeavors. [response/news],False,-0.11978,0.77977,0.89168,0.79099
+The Wisdom Juice Is Kicking In,85f4fb07,image macro;reaction,26,is used as a reaction image to express feelings of intelligence. [use_as/reaction],False,-0.17952,0.4813,0.89294,0.90708
+Cant Argue With That  Technically Not Wrong,8780804a,exploitable,68,is typically used as a reaction image to highlight the utter lack of logic behind an absurd statement. [use_as/reaction],False,-0.07253,0.80537,0.97568,0.93662
+I Dont Care Who the IRS Sends Im Not Paying Taxes,8798034e,catchphrase;snowclone,34,has been used as a reaction for images and videos of attractive people. [use_as/reaction],False,-0.20818,0.62152,0.92082,0.91974
+Your Politics Bore Me,881af885,catchphrase;exploitable;image macro,33,used to react to situations that are perceived as mundane or trivial to the meme creator. [react/situation] || react to situations that are perceived as mundane or trivial to the meme creator. [react/situation],False,-0.30916,0.52653,0.8716,0.87569
+Huzzah A Man of Quality,8916a007,image macro;reaction,21,used as a reaction image macro to express sincere or sarcastic admiration for another. [use_as/reaction],False,-0.2151,0.50755,0.90773,0.89045
+Reaction Images,892bad4d,reaction,99,in response to something that has been said. [response/nan],False,-0.08837,0.74535,0.97722,0.95374
+Oof Stones,8bd853a9,reaction,29,used to simply react to a caption or image with “oof” but can also refer to another subject that relates to their facial expressions. [react/caption] || react to a caption or image with “oof” but can also refer to another subject that relates to their facial expressions. [react/caption],False,-0.21075,0.647,0.94221,0.83386
+Its a Simple Spell But Quite Unbreakable,8c5422e8,image macro;reaction,32,has been used in reaction images and image macros featuring the quote as a punchline to various jokes about easy-to-do protective measures. [use_in/reaction],False,-0.2477,0.46778,0.82586,0.85883
+Expanding Pupil,8e0091c7,image macro,57,in reaction to various humorous photographs. [reaction/photograph],False,-0.25593,0.37106,0.86198,0.9365
+Blinking White Guy,8f8e5f58,reaction,85,is used as a reaction image to express incredulity. [use_as/reaction],False,-0.12023,0.80973,0.97236,0.94733
+Motion Blur,91766a82,visual effect,30,has been used in various reaction images and image macros to convey a sense of urgency [use_in/reaction],False,-0.22079,0.67327,0.94593,0.94608
+Im Sorry Little One,91b54504,pop culture reference;reaction,25,has been used as a reaction image taken out of context and paired with humorous captions. [use_as/reaction],False,-0.17879,0.53878,0.89685,0.93095
+Oh Yeah Its All Coming Together,91fb35b0,reaction,39,has been used as a reaction [use_as/reaction],False,-0.22614,0.40884,0.865,0.90366
+Jesus Christ How Horrifying,9217e11d,,39,is typically used as a reaction image to a shocking or disturbing post [use_as/reaction],False,-0.27302,0.2746,0.80718,0.8752
+Titus Get The Cross,92594eee,image macro,100,is often used as a reaction image as an expression of anger or frustration. [use_as/reaction],False,-0.27777,0.42479,0.90331,0.92809
+Its Magic I Aint Gotta Explain Shit,93fc6c35,,41,in response to a request for an explanation. [response/request],False,-0.4733,0.23894,0.77706,0.87219
+I Reject My Humanity JoJo,949dccfe,"reaction, snowclone",41,has been used as reactions [use_as/reaction],False,-0.27535,0.54912,0.8929,0.80663
+Ah Yes The Negotiator,952021ae,catchphrase;reaction,41,react to something above that involves someone attempting to make a deal or negotiate [react/deal],False,-0.14148,0.50388,0.84801,0.85333
+Dont Give Me Hope,956265b5,image macro;reaction,41,has been used as a reaction image macro. [use_as/reaction],False,-0.27705,0.37214,0.87425,0.85489
+Sweetie Belle Derelle,97eb8bee,,100,is usually used to derail a forum or image board thread [derail/forum],False,-0.11493,0.67428,0.97391,0.90583
+Go To Horny Jail,98670ba6,image macro;slang,100,has been used as a reaction to people being horny on main on social media. [use_as/reaction] || as a reaction to people being horny on main on social media. [reaction/people],False,-0.08637,0.83577,0.92,0.92316
+We Should All Know Less About Each Other,989fd30a,catchphrase;reaction,21,is typically used to reply to posts or media that are considered to be 'Too Much Information [reply/post],False,-0.14721,0.64725,0.93824,0.81415
+Everyone I Dont Like Is Hitler,9b909a39,,79,is often used as a reaction image in online political discussions when Godwin's Law is invoked. [use_as/reaction],False,-0.23353,0.38324,0.85987,0.81792
+Based on What  Slang Misinterpretation,9c115e1e,catchphrase;parody;slang,41,used to react to various slang expressions. [react/slang] || react to various slang expressions. [react/slang],False,-0.3314,0.40369,0.90933,0.91174
+Thats Crazy Man Have You Ever Done DMT,9ce29d62,exploitable;image macro,22,reacts to a variety of unrelated statements by saying 'That's crazy. [react/variety],False,-0.25723,0.27255,0.82397,0.82763
+So Youre Telling Me Theres A Chance,9d17d191,catchphrase;exploitable;image macro;pop culture reference;reaction,22,has been commonly used as a reaction image for a situation when one is hopeful for an outcome with exceedingly low odds. [use_as/reaction],False,-0.22582,0.47318,0.89033,0.90343
+Shrugging Tom,9d7820c5,reaction,27,has been used as a reaction image and in image macros [use_as/reaction],False,-0.17311,0.59977,0.94561,0.92835
+Macs Through God All Things Are Possible,9d82cc54,exploitable;image macro;pop culture reference;reaction,20,is typically used as a reaction image [use_as/reaction] || in response to claims that something is impossible or outlandish. [response/claim],False,-0.26077,0.30729,0.8713,0.84106
+Jeffrey Epsteins Suicide Conspiracy Theories,a0327afe,conspiracy theory,39,in response to the suicide of billionaire Jeffrey Epstein. [response/suicide],False,-0.14166,0.73615,0.87963,0.91473
+Yao Ming Face  Bitch Please,a148670f,character,100,is typically used as a reaction face to convey a dismissive attitude towards someone else's input in online discussions [use_as/reaction],False,-0.08938,0.7797,0.98369,0.91185
+What Do Your Elf Eyes See,a429560c,"exploitable, image macro, pop culture reference, reaction",79,is used in reaction images and GIFs in addition to image macro memes. [use_in/reaction],False,-0.33858,0.31523,0.72559,0.77421
+I Am Never Gonna Financially Recover From This,a48b6b66,image macro;reaction,41,has been used as a reaction image to express feelings of fiscal distress. [use_as/reaction],False,-0.24489,0.34295,0.88337,0.84367
+Are You Fucking Kidding Me,a48b8e29,,92,is typically used in reaction to someone else's extreme stupidity [use_in/reaction] || in reaction to someone else's extreme stupidity [reaction/stupidity],False,-0.07529,0.73262,0.94771,0.8967
+Sad Linus,a4e14190,exploitable;reaction,27,has been used as a reaction image and in ironic memes on Reddit and iFunny. [use_as/reaction],False,-0.19033,0.57137,0.9307,0.9061
+Seong Gihuns ID Photo,a52b62be,exploitable;reaction,25,were used as reaction images and source material for memes [use_as/reaction],False,-0.18762,0.56666,0.95298,0.86997
+Welcome to The Internet,a69ffa09,catchphrase,37,in response to someone being disgusted by something they saw online or reposted outdated content. [response/content],False,-0.27246,0.36602,0.83338,0.8553
+Hey Ive Seen This One,a9152eef,exploitable,39,as a reaction to reposted content. [reaction/content],False,-0.24116,0.54802,0.88035,0.87553
+Ill Never Forgive the Japanese,a947fb7d,image macro,39,used as a reaction. [use_as/reaction],False,-0.16957,0.36663,0.78559,0.84485
+For Legal Reasons Thats a Joke,a949aa52,reaction,20,used as a reaction image paired with captions describing a potentially offensive or illegal scenario. [use_as/reaction],False,-0.23743,0.38477,0.81443,0.85186
+Principal Skinners Pathetic,ab34ee5f,"exploitable, image macro, pop culture reference, reaction",48,is often used as a reaction image [use_as/reaction],False,-0.11832,0.59259,0.91628,0.90735
+Mom I Threw Up,aba7a2f3,catchphrase;cliché;image macro,44,paired with a humorous reaction image of a character standing in a doorway. [pair/reaction],False,-0.36959,0.38074,0.82316,0.8958
+Drowning High Five,ac695329,exploitable,26,has been used as a reaction image and object labeling exploitable. [use_as/reaction],False,-0.2611,0.61614,0.93019,0.85222
+Doing Hurtful Things To Your Waifu Chart,ac945f33,,100,reacting to various distressing circumstances. [react/circumstance],True,-0.1355,0.53925,0.85952,0.70864
+Stop Glamorizing The Grind And Start Glamorizing Whatever This Is,ad4d1638,catchphrase,49,as a reaction to earnest [reaction/nan],False,-0.12319,0.68035,0.96781,0.9492
+Pilk,b2c12f38,"participatory media, slang",26,reacting to it [react/nan],False,-0.26553,0.59468,0.84884,0.82951
+My Brain is Full of Fuck,b2e213d6,,100,in response to a post or thread that is deemed unworthy or pointless [response/post],False,-0.13653,0.54002,0.89817,0.92437
+Assburger,b364150a,image macro;reaction,21,in response to an awkward comment or situation [response/comment],False,-0.33498,0.57368,0.94846,0.87539
+Didnt Read LOL,b4bc5437,,26,in response to someone else's post that is deemed too long or uninteresting [response/post],False,-0.62192,0.14842,0.76331,0.85813
+Roof Koreans,b5995d43,slang,25,as a response to discourse about the ICE Protests in Los Angeles [response/ice],False,-0.1997,0.71151,0.91107,0.80029
+Disappointed Muhammad Sarim Akhtar,b6973174,image macro;reaction;viral video,37,commonly used as a reaction image and exploitable to express disappointment or frustration in memes. [use_as/reaction],False,-0.16334,0.65588,0.96445,0.90034
+Gavin,b6e096a7,,35,used as reaction images to express disbelief [use_as/reaction],False,-0.18339,0.63433,0.95002,0.90208
+Wat,b83dc5ae,,99,used to caption reaction face images or peculiar images that would evoke similar responses. [caption/reaction],False,-0.08317,0.69645,0.96469,0.9364
+U WOT M8,b99dd130,,45,in response to an incoherent proposition put forth by someone else [response/proposition],False,-0.19089,0.6254,0.87261,0.86557
+Genius,bace342a,,40,used to marvel at someone's stupidity. [marvel/stupidity],False,-0.12598,0.75558,0.94024,0.87728
+I Get It Now,bae9ea7c,image macro;reaction,24,has been used as a reaction meme to situations in which someone finally understands a certain phenomenon or obsession. [use_as/reaction],False,-0.15127,0.49479,0.93806,0.83874
+Bad Hombres,bb035db8,,39,in response to a comment made by Donald Trump during the third 2016 United States Presidential Debate in which he said 'We have some bad hombres here and we have to get them out.' [response/comment],False,-0.17559,0.6955,0.88902,0.77491
+Math Lady  Confused Lady,bbab3193,reaction,98,are often used as reaction images to express confusion. [use_as/reaction],False,-0.09133,0.5949,0.87931,0.90594
+That Escalated Quickly,bbe192f5,,70,in response to a remark or a situation that has quickly gotten out of hand. [response/remark],False,-0.08505,0.68327,0.93707,0.8922
+Do You Trust Me With Every Cell Of My Body,bc9e5239,exploitable;image macro;pop culture reference;reaction,42,has been used as a reaction image [use_as/reaction],False,-0.27107,0.45278,0.89725,0.86753
+Out of Touch Thursday,bc9fae5d,hashtag;reaction;remix;song,22,used as reactions to reply to statements or situations someone deems “out of touch [use_as/reaction],False,-0.3674,0.44967,0.91876,0.83329
+Sorry Not Beautiful And No Amount Of Authoritarian Tolerance Is Going To Chang,bcf9b89c,catchphrase;copypasta,24,in reaction to the 2022 Sports Illustrated Swimsuit Issue cover featuring model Yumi Nu. [reaction/sports] || In response to the tweet [response/tweet],False,-0.3074,0.38148,0.86573,0.75805
+All Right Then Keep Your Secrets,bd3b185d,reaction,41,has been used as a reaction image. [use_as/reaction],False,-0.21498,0.58918,0.91062,0.89629
+Visible Confusion,bd4b6a8c,"image macro, reaction",39,has been used as a reaction image expressing bewilderment [use_as/reaction],False,-0.17783,0.47042,0.918,0.88843
+Grandma Finds the Internet,bd8d93b0,,39,reacts to famous videos [react/video],False,-0.14601,0.61585,0.95895,0.82857
+Looks Like They Couldnt Handle the Neutron Style,be46dd49,catchphrase;reaction,40,typically used as a reaction image to express sarcastic coolness and swagger about an above caption or image in the top panel [use_as/reaction],False,-0.15456,0.67594,0.94255,0.92343
+Pepe the Frog,bea99579,"character, exploitable",100,used as reaction faces [use_as/reaction],False,-0.05641,0.71375,0.97572,0.8895
+Dafuq,bfe3829c,"catchphrase, image macro, reaction, slang",100,typically used in reaction to that which makes no sense or provokes severe confusion. [use_in/reaction] || in reaction to that which makes no sense or provokes severe confusion. [reaction/sense],False,-0.05616,0.87905,0.97646,0.93537
+Kim Theres People That Are Dying,c1b4612d,image macro;viral video,20,reacting to her sister Kim Kardashian West being upset over a lost earring during a 2011 episode of the reality show Keeing Up With the Kardashians. [react/sister] || in response to a petty action or statement. [response/action] || in response to ads. [response/ad],False,-0.13297,0.68033,0.84797,0.75667
+Girls Reacting to Bikinis,c2c9e010,character;exploitable;fan art,30,Reacting to Bikinis refers to a fan art trend inspired by an illustration of Hatsune Miku holding up a string bikini on a hanger [react/bikinis],False,-0.131,0.64551,0.92885,0.90429
+Thank You Kanye Very Cool,c3f7d1d1,"catchphrase, exploitable",37,in response to a tweet posted by Kanye West in late April 2018. [response/tweet],False,-0.20382,0.56976,0.81317,0.8277
+NO Rage Face,c443c695,,34,used as a standalone reaction image in a similar context to other negative rage faces like 'Are You Serious' face [use_as/reaction],False,-0.14812,0.63544,0.96829,0.88877
+Will You Shut Up Man,c5a7b231,"catchphrase, exploitable, image macro, reaction",41,as a reaction to someone who won’t stop speaking. [reaction/nan],False,-0.18098,0.68376,0.91988,0.89265
+Had It Not Been For the Laws of This Land,c640a56c,,28,has been used as a reaction image [use_as/reaction],False,-0.29846,0.37302,0.83386,0.85736
+There Is Another,c75a3fb2,image macro;reaction,43,used as a reaction image macro online. [use_as/reaction],False,-0.15547,0.72288,0.95404,0.94622
+Is This a JoJo Reference,c90515fa,,100,in response to pictures that include allusions to the manga and anime series JoJo's Bizarre Adventure. [response/picture],False,-0.16726,0.59244,0.94171,0.86148
+Family Guy Skin Color Chart,cc35ea9a,exploitable;photoshop,23,is often used as a reaction image on sites like Twitter to criticize perceived forms of racism. [use_as/reaction],False,-0.23977,0.58901,0.93953,0.9106
+Holy Shit You Fucking Killed Her Dude,cd346340,image macro;reaction,22,has been used as a reaction image on Reddit in response to examples of people owning others online. [use_as/reaction] || in response to examples of people owning others online. [response/example],False,-0.22405,0.41145,0.883,0.91463
+SpongeGar  Primitive Sponge  Caveman Spongebob,ce665d49,"character, photoshop",99,has been used as a reaction image on the /mu/ (music) board on 4chan and in a series of Black Twitter image macros. [use_as/reaction],False,-0.12604,0.65641,0.96137,0.91225
+Well Yes But Actually No,d1e3fcc7,,39,has been used as an reaction image. [use_as/reaction],False,-0.23762,0.36532,0.92746,0.90455
+Guillotine,d1f89ef3,image macro;reaction,51,in reaction to tone-deaf actions or statements from those with a high income. [reaction/tone],False,-0.13734,0.75461,0.93936,0.93611
+I Dunno LOL ¯°o¯,d36b80aa,,60,in response to 'How do I shot web?' or any other question that only brings more questions into the conversation. [response/web],False,-0.24185,0.51011,0.87425,0.89132
+Porgs,d4800591,character,21,has been used in various reaction images and photoshops. [use_in/reaction],False,-0.15149,0.70212,0.89468,0.85815
+Absolutely Barbaric,d4ab6950,image macro,26,used in reaction to examples of one person trolling or owning another [use_in/reaction] || in reaction to examples of one person trolling or owning another [reaction/example],False,-0.56845,0.31879,0.81456,0.79763
+Shocked Black Guy,d53a064e,reaction,30,has been used as a reaction image meme on Twitter and Discord [use_as/reaction],False,-0.15675,0.64999,0.94321,0.88797
+A Blessing From The Lord,d69476bc,"image macro, reaction",33,in response to God tasking King Arthur with the quest for the Holy Grail. [response/god],False,-0.29099,0.43705,0.85781,0.8629
+OMG a Hit Tweet,d7835767,exploitable;image macro;reaction,29,as a reaction to one's own viral tweets [reaction/tweet],False,-0.33987,0.32408,0.81501,0.85059
+God I Wish That Were Me,d7c7acc1,exploitable,39,in response to an adult baby fetish digital art image. [response/adult],False,-0.49114,0.2811,0.80738,0.87205
+Skeleton Calcium,d802ead4,image macro,50,in response to Moth Lamp and Spooktober memes. [response/moth],False,-0.0956,0.79653,0.94625,0.92724
+How Dare You Stand Where He Stood,d83110ac,reaction,28,is used as a reaction image to express disappointment and anger at a person or thing replacing someone or something beloved. [use_as/reaction],False,-0.14255,0.5792,0.89727,0.91906
+Kowalski Noted,d85972f3,image macro;reaction,53,is used as a reaction image and in image macros. [use_as/reaction],False,-0.18373,0.59609,0.95029,0.88243
+Its a Meme You Dip,d881d649,,26,as a response to someone who shows confusion towards a typically well known internet meme. [response/confusion],False,-0.24376,0.23739,0.86986,0.90979
+Why Dont You Have a Piece of Bread and Maybe Youll Calm Down,d893d4a4,exploitable;reaction,21,used in reaction images primarily on Tumblr before users edited the line to read other texts. [use_in/reaction],False,-0.18762,0.43409,0.92878,0.8966
+Jeremiah Johnson Nod of Approval,da5398e9,,37,is often used as a reaction image indicating a form of approval. [use_as/reaction],False,-0.16088,0.60516,0.93448,0.91783
+It Smell Like Bitch In Here,dc9d9de3,"exploitable, image macro, photoshop, reaction",33,used as a simple reaction image. [use_as/reaction],False,-0.21599,0.57845,0.88856,0.89952
+I Am Four Parallel Universes Ahead Of You,dd3329a4,reaction,22,has been used as a reaction image to imply someone is thinking well ahead of their opponent. [use_as/reaction],False,-0.23139,0.34671,0.88095,0.85359
+WhatsappPrivacy,dd9ea980,hashtag,28,react to WhatsApp's announced privacy policy changes [react/whatsapp],False,-0.22127,0.60199,0.81105,0.83511
+Peter Griffin At The Door  Holy Crap Lois Its X,de328d81,cliché;exploitable;parody;photoshop;pop culture reference;snowclone,43,reacting to various characters at the door of his house. [react/character],False,-0.23984,0.54457,0.96251,0.82352
+Tony Kornheisers Why,dfa31336,"image macro, reaction",100,are often used as reaction images to patronize others' opinions or viewpoints. [use_as/reaction],False,-0.15966,0.58084,0.96604,0.93484
+Thats Where Youre Wrong Kiddo,e2278b13,exploitable,80,is typically used as a reaction image to preface one's rebuttal to a statement put forth by another poster [use_as/reaction],False,-0.22949,0.39999,0.84916,0.91537
+Everyone Is Stupid Except Me,e331ef3d,image macro;pop culture reference,28,has been used as a reaction image-macro to express self satisfaction. [use_as/reaction],False,-0.16703,0.44811,0.91971,0.92794
+Pain Hub,e4029426,catchphrase;parody;reaction,20,as a reaction to or alongside sad [reaction/nan],False,-0.2394,0.44184,0.86733,0.81298
+But I Didnt Listen,e40d4d52,exploitable,79,often used as a reaction image. [use_as/reaction],False,-0.28117,0.32023,0.83648,0.84215
+Are You Serious Face  Seriously,e53de56c,reaction,32,used as a reaction to overwhelming ignorance or stupidity. [use_as/reaction] || as a reaction to overwhelming ignorance or stupidity. [reaction/ignorance],False,-0.08098,0.77669,0.96855,0.83835
+Emperor Palpatine Ironic,e56004a6,image macro;reaction,33,has been used as a reaction image. [use_as/reaction],False,-0.13905,0.67692,0.94995,0.93096
+How Do You Do Fellow Kids,e6d34ebc,catchphrase;photoshop;reaction,99,commonly used to respond to users pretending to be part of a community that they are clearly unfamiliar with. [respond/user],False,-0.11876,0.68338,0.94633,0.9466
+Nailed It,e707cf5e,slang,70,in response to attempts at recreating recipes or craft projects. [response/attempt],False,-0.22197,0.56362,0.88926,0.86932
+Yelenas Face,e76f4d9a,exploitable;fan labor;photoshop;reaction,24,in reaction to the character Armin voicing his support for the Yeagerists. [reaction/character],False,-0.22261,0.52428,0.93082,0.85804
+What Is This I Dont Even,e86e8114,copypasta;image macro,36,in response to a post so shocking or stupid to express speechlessness. [response/post],True,-0.32403,0.40018,0.84693,0.90013
+Am I So Out Of Touch,eb155e1b,,42,is typically used as a reaction image on image boards and discussion forums to express a disconnect with contemporary youth a culture. [use_as/reaction],False,-0.17551,0.61597,0.91638,0.89506
+Yes Chad,eb4a2092,"exploitable, reaction",100,has been used as a reaction and an exploitable on Twitter [use_as/reaction],False,-0.05493,0.83943,0.98024,0.93897
+You Dare Oppose Me Mortal,ec05c7c4,image macro,35,reacting to insolence or disagreements. [react/insolence],False,-0.2669,0.39105,0.88098,0.8722
+He A Little Confused But He Got The Spirit,ec0bfa95,"catchphrase, image macro",24,is used as a reaction image to situations which is well-intended but executed improperly. [use_as/reaction],False,-0.18579,0.4745,0.89691,0.84451
+Mind Size  Brain Size,eca86f08,reaction,39,are typically used as reaction images to show the intellect or wittiness of the above caption or image in the top panel. [use_as/reaction],False,-0.1174,0.56248,0.93627,0.88211
+KnowItAll,ed98c190,"character, reaction",35,was used as a reaction image making fun of people with nerdy opinions. [use_as/reaction],False,-0.16212,0.69527,0.94702,0.87859
+Did I Stutter Stanley  The Office,f3df3fb2,image macro;reaction,33,has been used as a reaction image macro to express frustration toward having to repeat one's self. [use_as/reaction],False,-0.12234,0.6567,0.94589,0.94228
+Ironic Memes,f3f02fbb,"image macro, parody",100,as a response to overuse with time [response/overuse],False,-0.05491,0.80484,0.98809,0.97978
+Confused Private,f3f4cae0,animal;image macro;photoshop;pop culture reference;reaction,50,is used as both a reaction image [use_as/reaction],False,-0.14468,0.57005,0.93246,0.89314
+My Disappointment Is Immeasurable And My Day Is Ruined,f4b79991,"copypasta, reaction",41,was used as a reaction image and the text was used as a copypasta expressing disappointment. [use_as/reaction],False,-0.25033,0.2948,0.85912,0.88819
+60s SpiderMan Rhino,f59a82e0,"character, exploitable, reaction",31,has been used as a reaction image and an exploitable [use_as/reaction],False,-0.24905,0.58094,0.95237,0.9113
+Jonathan Frakes Beyond Belief Supercuts,f87571b3,"reaction, viral video",20,used as a reaction video [use_as/reaction],False,-0.27244,0.40099,0.7656,0.84799
+I Hope Mom and Dad Dont Find Out,fb1deec7,reaction,26,is used as a reaction image and paired with captions expressing guilt over a secret. [use_as/reaction],True,-0.29327,0.33246,0.81047,0.84185
+Selfie Stick,fc0ef71d,,35,is used to support a mobile device or camera to take a 'selfie' photograph from an extended distance. [support/device],True,-0.13463,0.68262,0.93367,0.90787
+Helth,fc50fd1e,image macro,24,is used as a reaction image to joke about making poor health decisions. [use_as/reaction],False,-0.24069,0.46884,0.88319,0.83458
+Stop Posting,fc89e8c3,,57,in response to another participant's spam or post that is deemed uninteresting or irrelevant to the thread topic. [response/participant],False,-0.21315,0.36049,0.85762,0.88732
+What the Fuck Did You Just Bring Upon This Cursed Land,fcef283d,"image macro, reaction",41,as a reaction to disturbing content and as an image macro. [reaction/content],False,-0.24403,0.42475,0.90164,0.88688
+Sad Affleck,fe8efe4b,,22,in response to a question concerning its lukewarm reception from the critics. [response/question],False,-0.24356,0.5682,0.87026,0.89522
+You May Live to See ManMade Horrors Beyond Your Comprehension,ffa1b378,catchphrase,41,in response to a question about militarizing his radio-controlled model rowboat invention. [response/question] || in response to cringeworthy or cursed content. [response/cringeworthy],False,-0.20992,0.55034,0.85466,0.87871

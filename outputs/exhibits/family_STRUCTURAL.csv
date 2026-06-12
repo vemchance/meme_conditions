@@ -1,0 +1,707 @@
+title,entry_id,types,n_instances_prepared,clauses,sensitive_badge,sim_fw_centroid,sim_pos_centroid,sim_content_centroid,sim_visual_centroid
+Goatse,016c74d6,shock media,36,used for bait-and-switch pranks or website vandalisms to provoke reactions of disgust. [use_for/bait],False,-0.14751,0.78984,0.95084,0.89633
+Big Steppy,017c09af,parody,27,has been used in numerous photoshops. [use_in/photoshop],False,-0.29793,0.54147,0.93263,0.86359
+Where Is Your God Now,01a4a792,catchphrase;snowclone,39,often used as a caption for cursed or menacing images or pictures that depict something defying the normal order of things. [use_as/caption],False,-0.40228,0.20146,0.7959,0.86902
+Brainlet,01afb090,slang,92,used as a pejorative on 4chan when referring to those with limited intelligence [use_as/pejorative],False,-0.06753,0.87257,0.98336,0.93365
+You Shall Not Pass,01ef3d29,"catchphrase, image macro, snowclone",78,used in reference to a famous quote attributed to Gandalf in J.R.R. Tolkien's 'The Fellowship of the Ring' from The Lord of the Rings trilogy. [use_in/reference],False,-0.28934,0.37869,0.85436,0.84404
+Shut Seagull,01f9a589,image macro,36,is often used in image macros and as a reaction image. [use_in/image],False,-0.22803,0.47009,0.90588,0.85398
+Cringe Ass Nae Nae Baby,03e5e503,exploitable,25,has been used in shitposting on Instagram and Reddit. [use_in/instagram],False,-0.28017,0.51734,0.89764,0.87825
+You Dumb Bitch,03efe7e2,image macro;reaction,31,often used in reference to situations in which someone is being tricked or is failing to act intelligently. [use_in/reference],False,-0.18811,0.4909,0.89686,0.8693
+Vector,04088e86,character;photoshop,29,has been used in memes [use_in/meme],False,-0.23011,0.62324,0.94933,0.85134
+The Blueprint,046cb4b0,slang,22,used in stan culture in which people claim their idol was the first person to start a fashion or pop culture trend [use_in/stan],False,-0.29572,0.51929,0.85191,0.7822
+Electoral College Map Parodies,06892431,,74,used in presidential elections to project and see which state will vote for which candidate. [use_in/election],False,-0.12333,0.54795,0.93305,0.9148
+Smithers Scared of Strippers,070bbb51,image macro,24,has been used in a series of object labeling memes about expressing fear from something other people enjoy. [use_in/series],False,-0.25148,0.56585,0.94512,0.82529
+Deal With It,072e8d4f,reaction,100,used as a retort in response to someone's disapproval. [use_as/retort],False,-0.35722,0.34687,0.89063,0.91892
+We Should Replace Oxygen With Swag,086578a9,catchphrase;exploitable;snowclone,24,used in similar image macros for its cringeworthy sentiment. [use_in/image],False,-0.43213,0.31718,0.85063,0.83185
+This Is X Bitch We Clown In This Muthafucka Betta Take Yo Sensitive Ass Back to,08b26012,exploitable,65,used as a caption in memes about unprovoked competitiveness [use_as/caption],False,-0.40908,0.34757,0.88659,0.83571
+Succ,09667c85,slang,52,typically used as an alternate spelling of the word 'suck' in reference to the act of fellatio. [use_as/spelling],False,-0.12866,0.76913,0.93799,0.90435
+Delete Your Account,09941044,,39,commonly used as an insult by calling on an individual to voluntarily excommunicate him/herself from an online community or social networking site that requires membership registration. [use_as/insult],False,-0.20443,0.65735,0.88944,0.85468
+I Fucking Love Cocaine,0a6cb4d2,,67,often used in image macros where the subject has a powdery white substance on the face [use_in/image],False,-0.2304,0.40657,0.79068,0.82105
+Every Day Im Shufflin,0ad0ca32,,87,used in image macro captions and animated GIFs. [use_in/image],False,-0.3016,0.40915,0.85003,0.88951
+I Can Count to Potato,0ad327dd,,57,used in image boards and forums in reacting to comments that are deemed unintelligent. [use_in/image],False,-0.11735,0.65402,0.89892,0.89275
+What Am I Doing With My Life,0b1d8d9c,,29,typically used as a caption in image macros of sullen-looking people or animals in state of despair or exhaustion. [use_as/caption],False,-0.33535,0.43412,0.89398,0.90227
+Best Korea,0bf96226,catchphrase,41,is often used as a sarcastic response to the North Korean government's communist utopian propaganda posters and videos that are circulated online. [use_as/response],False,-0.25103,0.69229,0.84323,0.84108
+Pspspsps,0c3c4ea5,catchphrase,39,has been used in a series of jokes and memes about futile attempts to attract a cat [use_in/series],False,-0.26046,0.63955,0.90576,0.88582
+Really Makes You Think,0ca3791e,,30,often used as a joking way to mock shallow artwork [use_as/way],False,-0.14827,0.6994,0.8928,0.9318
+BelAir Fresh Prince,0caf8f45,,34,used as a verb [use_as/verb] || is used as a popular “bait and switch” copypasta. [use_as/bait],False,-0.06101,0.744,0.93615,0.9168
+Spongebob Cops,0cc01395,reaction,30,is used in response to scenarios where a person needs to be chastised. [use_in/response],False,-0.11102,0.74453,0.9584,0.92313
+Can I Get Uhhh,0d6dcef2,catchphrase,41,used as a copypasta. [use_as/copypasta],False,-0.32439,0.37005,0.92575,0.92012
+If You Cant Handle Me at My Worst,0d82d0ef,,41,is most often used in the early stages of romance. [use_in/stage] || used in parody. [use_in/parody],False,-0.32327,0.23022,0.84279,0.90168
+Bleach Drinking,0e3ee13a,,35,commonly used in household bleach product [use_in/household],False,-0.17926,0.721,0.89024,0.86982
+Oh Crap  OMG Rage Face,0e5f0b5c,,100,used in rage comics to express an array of feelings including astonishment [use_in/rage],False,-0.03811,0.83919,0.98102,0.89502
+Andy Slang,0f77e350,"slang, snowclone",24,is usually used as a snowclone nickname with the form 'X Andy.' [use_as/snowclone] || is typically used for streamers that often react to other people’s content. [use_for/streamer],False,-0.19217,0.75583,0.894,0.8669
+We Saw You From Across the Bar and Really Dig Your Vibe,0f9529c9,catchphrase;snowclone,30,used in various image caption memes. [use_in/image],False,-0.34566,0.36372,0.82114,0.77211
+No Thoughts Head Empty,100f027e,"catchphrase, image macro, slang",39,has been used as a caption on numerous image macros that feature a character with a blank expression. [use_as/caption],False,-0.39588,0.26765,0.75833,0.83846
+Ohhh Thats Fucking Filthy,1074c3e0,reaction,22,is used in response to incredible situations [use_in/response],False,-0.26534,0.45652,0.8769,0.73605
+Eeby Deeby,10b3644a,catchphrase,39,used in a series of edited comics whose speech bubbles have been edited to have one character say 'Your dick cold' and the other say 'Eeby Deeby.' [use_in/series],False,-0.24721,0.55399,0.90232,0.89993
+FAIL  Epic Fail,10de36a1,slang,100,commonly used as an interjection to point out a person’s mistake or shortcoming [use_as/interjection],False,-0.0624,0.88923,0.9821,0.9455
+I Am A Girlboss I Am A War Criminal,10e8cab2,copypasta;image macro,20,has been used in numerous image macros that misattribute it to a fictional character. [use_in/image],False,-0.45187,0.28661,0.78203,0.79701
+Pizza Time,11256f67,pop culture reference,36,has been used in various remix memes and shitposts as well as a reaction image. [use_in/remix],False,-0.27103,0.51998,0.88478,0.88678
+Full of Soup Cat,1183d1b9,animal;exploitable;image macro,42,has been used as source material for exploitable image macro memes [use_as/source],False,-0.47508,0.17994,0.82859,0.82164
+No No Hes Got a Point,11e6139d,reaction;slang,81,is used in response to a caption above the bottom frame to show that someone or something makes a good point. [use_in/response],False,-0.14649,0.53617,0.90986,0.87671
+You Do Not Under Any Circumstances Gotta Hand It To Them,12eebaad,catchphrase;snowclone,22,is usually used as a joke to make fun of a poster who appears to have praised a villainous person or organization. [use_as/joke],False,-0.11541,0.7739,0.93798,0.85194
+breath in Boi,130c3312,reaction,91,are commonly used in shitposting. [use_in/nan],False,-0.21883,0.40684,0.90187,0.9005
+My Eyes Are Up Here,13aaecb0,,78,is commonly used in feminist commentaries [use_in/commentary],False,-0.18162,0.52909,0.89417,0.88906
+Homer Simpson in a Lesbian Bar,140b51fc,image macro;photoshop,56,used for the purposes of object labeling to express outsiderness or an unpopular opinion. [use_for/purpose],False,-0.08671,0.83948,0.96974,0.93685
+Youve Got To Be Kidding,14422196,copypasta;exploitable;snowclone,30,was used as an exploitable meme which replaces the characters' dialogue [use_as/meme],False,-0.08352,0.53087,0.87226,0.7414
+The Cool Zone,1451cfc2,slang,22,used in Leftist Twitter circles for the period of social unrest in American history defined by the coronavirus pandemic and the 2020 George Floyd Protests. [use_in/leftist],False,-0.22336,0.52393,0.86409,0.74092
+Not Bad Obama Face,148a9c9e,character,53,is used as a positive response to a pleasant surprise or an outcome of an event that has surpassed one's expectation [use_as/response],False,-0.06261,0.79824,0.95653,0.90291
+Nurgle,14dfd431,character;exploitable;fan art;image macro;pop culture reference;reaction,39,used in humorous content featuring the Lord of Pestilence [use_in/content],False,-0.15461,0.67235,0.94103,0.88518
+Kung Pow Penis,150460a8,catchphrase,24,used as a way to troll a user on Tumblr who claimed he would block any user who replied to his posts with the phrase. [use_as/way],False,-0.10405,0.75725,0.89802,0.8748
+ShinSang  Statue of God,1556e72f,image macro,22,is used as an object labeling template [use_as/object],False,-0.57259,0.48378,0.8931,0.79376
+Hypnotoad,156a137a,catchphrase;character;exploitable;fan art;photoshop;pop culture reference,26,is typically used as an interruptor in image macros alongside the catchphrase 'All glory to the Hypnotoad [use_as/interruptor] || used in Photoshop edits to imply Hypnotoad's mind-controlling abilities having an effect on either the viewer or a subject in the meme. [use_in/photoshop],False,-0.23524,0.6812,0.88564,0.84818
+Dummy Thicc,15e66ff1,,28,is typically used as a synonym for 'Extra Thicc'. [use_as/synonym],False,-0.22233,0.5201,0.90074,0.89992
+Eggdog,16ffe092,character,22,has been used in a variety of remix videos [use_in/variety],False,-0.34542,0.44711,0.85252,0.77219
+Mongolian Throat Singing,1715f419,exploitable;pop culture reference;viral video,41,used for meme purposes. [use_for/meme],False,-0.08133,0.83304,0.94778,0.93835
+Cha Cha Real Smooth,179e5af5,catchphrase;image macro,41,has been used as a shitpost. [use_as/shitpost],False,-0.20508,0.43914,0.87568,0.85187
+ThreeHeaded Dragon,18272607,exploitable,48,used in object-labeling memes. [use_in/object],False,-0.22176,0.62882,0.9343,0.81503
+Great Gatsby Reaction  Leonardo DiCaprio Toast,189ca9e2,pop culture reference;reaction,56,used as an image macro in memes. [use_as/image],False,-0.16919,0.59274,0.92641,0.83739
+Were All Gonna Die,18f5e084,catchphrase;reaction,23,used in a more genuine context. [use_in/context],False,-0.19914,0.52756,0.9131,0.91527
+Travis Scotts Batman Costume,194fb55f,"exploitable, pop culture reference",66,used in memes in the following days. [use_in/meme],False,-0.27706,0.65346,0.96098,0.86475
+Jeb Wins  Jeb Bush Flawless Victory,1969c17f,exploitable,100,has been used as a meme in various other elections across the globe and has been turned into an exploitable in which Bush is replaced with various other characters. [use_as/meme],False,-0.28075,0.38218,0.87028,0.82774
+Hotel Mario,1971f511,,68,used in various parodies and remix videos on YouTube. [use_in/parody],False,-0.14033,0.78835,0.94329,0.85753
+OMG X Hi,1988b781,exploitable;image macro,46,used as an exploitable image macro in memes. [use_as/image],False,-0.4834,0.24229,0.85475,0.82755
+Connecticut Clark,19e8692f,character;exploitable;image macro,60,used as an exploitable in memes. [use_as/exploitable],False,-0.1078,0.63803,0.9155,0.86143
+Hitler Did Nothing Wrong,1a18bd4b,,82,used for trolling purposes to deny that the acts Adolf Hitler was responsible for during his reign were morally wrong. [use_for/trolling] || used as a snowclone 'X did nothing wrong'. [use_as/snowclone],False,-0.23796,0.65923,0.87289,0.91482
+Abandon Thread,1a979980,,98,is used in online forums to indicate that a discussion thread has degraded in quality and should be abandoned. [use_in/forum],False,-0.31259,0.54827,0.88968,0.87238
+Salty,1b0343a1,hashtag;slang,100,typically used as an insult in player-vs.-player (PvP) games to suggest that the opponent feels mad or frustrated due to pwnage. [use_as/insult],False,-0.11288,0.83704,0.87451,0.8947
+My Zombie Apocalypse Team,1b4b5e6e,,80,used as the roster template for an eight-member survival team in the hypothetical event of a zombie apocalypse. [use_as/roster],False,-0.34543,0.28591,0.72043,0.80019
+Scout Face,1b8c5023,,38,used as profile avatars [use_as/profile],False,-0.10076,0.5385,0.92764,0.84436
+I Think Were Gonna Have To Kill This Guy Steven,1bb0bc3f,exploitable;fan art,68,has been used in several redraws and fan edits [use_in/redraw],False,-0.19338,0.47864,0.87868,0.9333
+Leaf a Like  Hisss,1c060ceb,,37,used in the comments section of YouTube [use_in/comment],False,-0.07462,0.56687,0.89295,0.8021
+Femalepresenting Nipples,1c284eab,catchphrase,41,used in Tumblr's updated community guidelines which ban adult content. [use_in/tumblr],False,-0.08679,0.6629,0.84819,0.8857
+My Wifes Son,1cc231df,,41,used in replies to insult the original poster (OP) and oftentimes paired with references to other memes [use_in/reply],False,-0.10223,0.55445,0.90236,0.90448
+Pennis and Also Dicke and Balls,1d702797,,39,used as a nonsensical retort on image boards [use_as/retort],False,-0.37259,0.53134,0.8743,0.87937
+Nick Fury Looks at Pink Guy,1d7bafb0,exploitable,37,has been used as an object labeling format [use_as/object] || often used in reference to out-of-place characters and outlandish behavior. [use_in/reference],False,-0.29232,0.5029,0.9362,0.87442
+Intensifies,1d8e1aea,,100,is typically used in audio descriptive image macros and vibrating GIFs to denote a drastic build-up of a particular action [use_in/image],False,-0.19695,0.34129,0.87921,0.91375
+Mesothelioma Ad Copypasta,1d91e9a7,advertisement;copypasta;image macro,41,is often used as a non-sequitur punchline in various image macros online. [use_as/punchline],False,-0.27403,0.35978,0.76389,0.82397
+Simp,1e52bf8d,slang,81,is often used in a meaning similar to a white knight or an 'orbiter [use_in/meaning],False,-0.05729,0.76291,0.96394,0.95048
+This Is How I Win,1e8fddbb,"image macro, reaction",26,has been used in a series of reaction images and GIFs have been used to express victory by nefarious means. [use_in/series],False,-0.23431,0.37684,0.89471,0.76887
+Sauce,1ea296ce,slang,84,often used in all caps along with 'ZOMG [use_in/cap],False,-0.11756,0.78025,0.90282,0.90877
+Beaned,1f48a7b7,,39,is often used in various edits and shitposting. [use_in/edit],False,-0.3473,0.31767,0.91889,0.88052
+Animated Text,1f70e8aa,,100,used in place of plain text to place an extra emphasis [use_in/place],False,-0.08643,0.83945,0.97712,0.94193
+Mormon Soaking  Jump Humping,1fd27da9,"parody, participatory media, slang",24,is used as a loophole to get around rules in the Mormon faith against having premarital sex. [use_as/loophole],False,-0.20533,0.5868,0.88732,0.84204
+I Am Living in Your Walls,2009a77b,catchphrase,41,used as a way of provoking mentally ill individuals [use_as/way],False,-0.34553,0.20364,0.84136,0.87493
+X in the Y What Will He Do,2025b7ac,snowclone,35,used in image macros [use_in/image],False,-0.21032,0.68861,0.93061,0.91912
+Thanks I Hate It,2058dad9,"catchphrase, cliché",100,used in comments [use_in/comment],False,-0.03738,0.87236,0.98528,0.96099
+Look at My Lawyer Dawg Im Going to Jail,20bfcef8,catchphrase,26,often used as a caption for images of various unusual-looking people and creatures. [use_as/caption],False,-0.38791,0.39424,0.76691,0.81801
+Trashy,2199472f,slang,100,used in a derogatory manner to describe something particularly low-quality or inappropriate. [use_in/manner] || is used as an antonym of 'classy' and typically refers to human behavior that is undesirable. [use_as/antonym],False,-0.03543,0.88798,0.96927,0.90504
+With This Characters Death,21baaa95,"copypasta, photoshop, pop culture reference",39,has been used in parodies online when people die in real life. [use_in/parody],False,-0.31016,0.29461,0.67362,0.74904
+The Trickster,22810209,image macro,26,has been used as an image macro placed in reaction to a caption involving a cheat or a deceiving action. [use_as/image],False,-0.16613,0.41172,0.91641,0.91433
+F40PH,22a261a4,,62,used as a counter-response to the contentious Furry Friday threads. [use_as/counter],False,-0.15119,0.63129,0.88628,0.81883
+Falcon Punch,22a55928,"catchphrase, pop culture reference",57,is commonly used in image macros as a verb for someone punching someone else intensely and has been used in joked about aborting a pregnancy. [use_in/image] || has been used in joked about aborting a pregnancy. [use_in/pregnancy],False,-0.14021,0.68304,0.88605,0.84318
+Tits or GTFO,22b4c1e6,axiom,35,used in chat rooms [use_in/chat],False,-0.26763,0.42558,0.87784,0.88428
+Pop Cat,22dc1265,,21,used to create videos in which the cat lip syncs various songs [create/video],False,-0.33663,0.47571,0.9221,0.89282
+There Is No Queen of England,233a7539,"image macro, snowclone",39,used as a two-panel meme format [use_as/panel],False,-0.44231,0.43195,0.74672,0.83187
+Pixar Lamp  Luxo Lamp Jr,23423a72,character,33,used as American computer animation film studio [use_as/computer],False,-0.18212,0.7177,0.96166,0.93208
+Porky,2391c284,character,29,is used in similar way as the Happy Merchant meme without the anti-semitic overtones. [use_in/way],False,-0.15259,0.7298,0.94063,0.91536
+Fight Like Youre the Third Monkey on The Ramp to Noahs Ark and Brother Its Startin to Rain,23af314b,catchphrase;participatory media,24,used in a 2016 Tweet by MMA fighter Tim Kennedy and appearing in the comedy novel Rash'Tor'Ri by Christopher Woods [use_in/tweet],False,-0.35124,0.3445,0.69329,0.72577
+Not Yet Ferb,23f52290,image macro,33,has been used in reference to situations when a generally unlikable person or organization does something likable [use_in/reference],False,-0.18505,0.53621,0.93323,0.91704
+Staring Animals,240efb55,"image macro, reaction",28,used in memes on Instagram [use_in/meme] || used in memes. [use_in/meme] || has been used in image macros and as an exploitable. [use_in/image],False,-0.19077,0.58022,0.95034,0.92059
+The Burger King,2412fd8d,,30,was used in a variety of YTMNDs [use_in/variety],False,-0.1946,0.68913,0.92641,0.86274
+Tips Fedora,2598d107,,70,used in mocking response to a statement of opinion thought to be held by a young adult male who probably wears fedora as a fashion accessory. [use_in/response],False,-0.10415,0.85205,0.95758,0.922
+Anime Mom Hair  Dead Mom Hair,27310a9c,cliché,22,commonly used in manga and anime to demonstrate that the character is a housewife. [use_in/manga],False,-0.29172,0.59146,0.91367,0.79673
+Omg JENNY,274dd9eb,cliché,24,was used in a tweet by @bashfulcoward making fun of the trope [use_in/tweet] || used in subsequent jokes about the trope. [use_in/joke],False,-0.16473,0.70033,0.93889,0.88778
+Born to X Forced to Y,279814e2,snowclone,37,is often used in the design of various clothing [use_in/design],False,-0.29029,0.33324,0.87416,0.88158
+Yiiking Out,27fe7281,parody;slang,26,used as the online slang counterpart for 'freaking out.' [use_as/online],False,-0.3647,0.40071,0.93863,0.87749
+Pony ReImaginings,285dd012,,100,is used in other fandoms. [use_in/fandom] || commonly used in threads and comments. [use_in/thread] || used for a different effect. [use_for/effect],False,-0.077,0.83503,0.97215,0.85948
+Derp,289508f7,,98,are often used in rage comics to replace nondescript names or parts of conversation. [use_in/rage],False,-0.09945,0.85568,0.95056,0.91935
+States Rights To What,28e83f7b,axiom;catchphrase;copypasta;viral debate,50,is often used in object-labeling and comparison formats. [use_in/object],False,-0.24366,0.50252,0.73107,0.84612
+Uohhhhhhhhh 😭,292f1e9e,"catchphrase, copypasta, emoticon, reaction",51,commonly used as a joking reply to underaged characters or art before seeing more ironic usage in the early 2020s. [use_as/joking],False,-0.1269,0.54142,0.97071,0.93635
+Jotaro Hat,29a82e84,character;exploitable;pop culture reference,73,is often used as an exploitable where it's added to other meme formats or various images and image macros. [use_as/exploitable],False,-0.10577,0.7797,0.8963,0.88576
+Drakes Hot Sauce,29e07310,pop culture reference,30,used for impregnation. [use_for/impregnation],False,-0.2146,0.63524,0.87151,0.7528
+Cuck,2a999359,slang,66,is often used as a pejorative to condescendingly describe a male who is sexually inadequate or sexually submissive. [use_as/pejorative],False,-0.07354,0.83027,0.94098,0.93914
+Slav Cat  Slav Cheebs,2ac3d65d,animal;character,42,has been used in image macros and other memes since December 2018. [use_in/image],False,-0.22293,0.59874,0.95132,0.8511
+HOW,2b190269,slang,37,used as a part of Illegal Minecraft Building Techniques memes in early 2019 [use_as/part] || used as a response to Minecraft Bee Is Trans arguments and trans-related posts in general. [use_as/response],False,-0.11024,0.42816,0.94688,0.94838
+A Wild X Appears  Wild X Appeared,2bb3a078,,39,used in reference to a preceding post made by another user. [use_in/reference],False,-0.20919,0.52945,0.88955,0.88282
+Smug Anime Face,2bb43dfa,reaction,56,are often used in manga and anime-related discussions. [use_in/manga],False,-0.12758,0.62531,0.96993,0.85368
+Bing Bing Wahoo,2bee9a52,catchphrase,26,has been used as an insult for Nintendo fans. [use_as/insult],False,-0.1974,0.41027,0.86692,0.83068
+The Jig,2bf6002a,"image macro, reaction",24,used in demotivational posters and other jokes [use_in/poster],False,-0.32412,0.50656,0.94068,0.87504
+Kid Getting Choked,2c5a0897,"image macro, reaction",24,has been used as an object labeling meme in which the hand and child are labeled different things. [use_as/object],False,-0.33739,0.49162,0.9528,0.89758
+Dab Pen,2c956d77,cliché;exploitable;pop culture reference;slang,48,are often used as exploitables in such memes [use_as/exploitable],False,-0.11687,0.7171,0.90213,0.87711
+Snorting the Blue Pill and Red Pill,2c95bc29,exploitable;image macro;pop culture reference,32,used in this meme comes from the “Matrix Revisited” xkcd [use_in/meme],False,-0.17334,0.69574,0.92107,0.88476
+Psych Ward Socks,2ce4720a,catchphrase;cliché;exploitable;image macro;pop culture reference,42,used in a blog post from March 2012 but received more attention as a term and group concept on Redditreddit starting in January 2016. [use_in/blog],False,-0.104,0.70813,0.90014,0.82643
+Aerodynamics of an Elephant,2d1517dd,image macro,28,has been used in various contexts [use_in/context],False,-0.19683,0.65152,0.92772,0.90963
+Crying Laughing Emoji 😂,2d6ceaeb,emoticon,45,was used in a similar fashion. [use_in/fashion] || used in a similar vein to the crying laughing emoji was :'-).[8] [use_in/vein],False,-0.08598,0.80705,0.97661,0.92545
+Fight Me IRL,2dbcee0b,,22,used as a response to threatening responses or to express disagreement with someone else's opinions. [use_as/response],False,-0.25096,0.2782,0.90524,0.91131
+Let The Bodies Hit The Floor,2e545911,song,39,often used in dubbed remix videos online in a similar vein to the 2002 nu metal song 'Crawling' by Linkin' Park. [use_in/remix],False,-0.286,0.33595,0.88598,0.88817
+Send Me An Angel,2e88adf7,exploitable;image macro;photoshop;pop culture reference,42,is used as an exploitable image macro with various characters and pop culture references being swapped in place of Stitch [use_as/image],False,-0.29306,0.32912,0.8212,0.82211
+Yotube,2ed1d308,character;exploitable,31,used in memes. [use_in/meme],False,-0.20075,0.72808,0.96963,0.92326
+Sheeeit,2eee10bd,catchphrase;character;exploitable,88,is used in MS Paint templates [use_in/ms],True,-0.15606,0.73474,0.93563,0.88456
+Im Not a Robot,2f1a6354,,74,is often used as a punchline in webcomics featuring cyborg or robot fictional characters. [use_as/punchline],False,-0.12807,0.61551,0.90039,0.93873
+Let The Hate Flow Through You,2f6b8c37,reaction,35,is typically used in the form of a reaction image as a bait to further incite anger or aggravate those engaged in flame wars or other arguments of hostile nature. [use_in/form],False,-0.40937,0.29675,0.84972,0.73544
+Youre a Villain Alright Just Not a Super One,2fafe821,image macro,34,has been used as an image macro. [use_as/image],False,-0.20833,0.47508,0.92783,0.9214
+Amber Heard Revenge Poop,2fbf8f0d,exploitable;pop culture reference;shock media,33,were used as evidence against Heard in both 2020 and 2022 amid the Amber Heard vs. Johnny Depp trial. [use_as/evidence],False,-0.21735,0.66778,0.91483,0.91284
+Anime Glasses,2ff1f0fe,exploitable,25,has been used in reference to narrow [use_in/reference],False,-0.3122,0.59555,0.94565,0.87977
+Nothing To Do Here  Jet Pack Guy,308d37d5,,100,is used in a similar fashion to the jet pack sprouting 'Spontaneous Snail' featured in abandon thread images. [use_in/fashion],False,-0.10291,0.67637,0.92395,0.87897
+Living in 1984,31383cda,"image macro, photoshop, remix",41,has been used as an exploitable online with users replacing the wife's text. [use_as/online],False,-0.12388,0.42041,0.91429,0.78173
+Amen and Awomen,3140a87f,catchphrase,52,was used in a mostly mocking fashion. [use_in/fashion],False,-0.18629,0.69986,0.89423,0.90545
+Sus Among Us,31916ddb,slang,41,is used in the same context. [use_in/context],False,-0.14982,0.75189,0.95596,0.90603
+Zach Galifianakis Math,31a9f630,exploitable;image macro;reaction,20,used in image macros to similarly depict confusion. [use_in/image],False,-0.20587,0.44339,0.88368,0.86838
+LOLWUT,334ad539,"catchphrase, image macro",76,used in online conversations to indicate feelings of confusion or bewilderment about something another person has shared. [use_in/conversation],False,-0.19393,0.70855,0.93502,0.87637
+SpongeBob In Silent Hill  Aw Hell Naw Spunch Bob,339f1be1,exploitable;snowclone,20,used as an exploitable template alongside the phrasal template 'X's subplot.' [use_as/template],False,-0.13559,0.59616,0.93351,0.90267
+Bee Movie Script  According To All Known Laws Of Aviation,33b95c49,copypasta,41,is typically used in spamming and shitposting on various social media sites [use_in/medium],False,-0.1535,0.56988,0.79188,0.87223
+Swag,33f16a3d,,100,used as a synonym for 'swagger [use_as/synonym],False,-0.09079,0.84308,0.92989,0.90113
+Look At All The Fucks I Give,34b7ff69,,100,often used in image macros and animated GIFs to show how little one cares about what someone else is talking about. [use_in/image],False,-0.20759,0.42741,0.87144,0.91393
+Unsee Juice,34bd4160,catchphrase;reaction;slang,40,is typically used as a catchphrase in replies and comments below. [use_as/catchphrase],False,-0.18143,0.48538,0.85553,0.83437
+Cant Have Shit In Detroit,355b0784,catchphrase,41,used in memes about certain objects being stolen or damaged. [use_in/meme],False,-0.22798,0.59699,0.88431,0.88192
+Reject Modernity Embrace Tradition,35757871,"catchphrase, image macro",79,has been used in memes to humorously point out the change to an object or place over time [use_in/meme],False,-0.23184,0.57347,0.84766,0.87749
+You  Heres Your You,35843bae,,71,is often used in response to posts perceived as bait with the expression 'Here's Your (You)'. [use_in/response],False,-0.12912,0.42843,0.89051,0.9179
+Hello There,35c582aa,catchphrase;image macro;pop culture reference;remix,79,has been used to create various remix videos and image macros [create/remix],False,-0.15331,0.6094,0.90944,0.90033
+Boss Makes a Dollar I Make a Dime,362acc5f,catchphrase,30,used as a snowclone where 'poop' is replaced with a different activity a worker might use to shirk their duties while on the job. [use_as/snowclone],False,-0.2217,0.55887,0.83963,0.82747
+Periodt,36a5d539,slang,20,is commonly used in the expression 'and that's on peridot.' [use_in/expression],False,-0.21469,0.50445,0.89822,0.85031
+This Is Beyond Science,3783530b,image macro;reaction,37,has been used in image macros as a reaction to baffling situations. [use_in/image],False,-0.20855,0.39018,0.88837,0.85118
+Im Gonna Be Honest Im Kind of Retarded,37e4dec3,image macro,26,has been used as an image macro in reference to situations in which one's intellectual abilities could be questioned. [use_as/image],False,-0.25921,0.27421,0.8668,0.8487
+Outstanding Move  Maravillosa Jugada,38016599,"catchphrase, image macro, reaction",41,often used as to express a genuine or [use_as/nan],False,-0.14008,0.58729,0.95275,0.84627
+Love Is in the Air Wrong,38d4fb3b,catchphrase;exploitable;image macro,28,used in a series of recaption memes based on an image macro of The Big Bang Theory character Sheldon Cooper (portrayed by Jim Parsons) paired with a misattributed joke quote. [use_in/series],False,-0.42818,0.27575,0.78249,0.84086
+Only One Business in the Galaxy Gets You This Rich,393c6384,exploitable,31,has been used in an exploitable featuring the quote as a set up to various jokes about absurd professions. [use_in/exploitable],False,-0.27665,0.49436,0.85419,0.86819
+Everyone Disliked  Liked That,39905c22,image macro;reaction,41,used in the image [use_in/image],False,-0.23146,0.57116,0.89164,0.90417
+HABEEB IT,39e87d73,,37,has been used as a comical retort to a poster's reaction of disbelief (i.e. 'I don't believe it'). [use_as/retort],False,-0.26259,0.55438,0.87374,0.88003
+My Reaction To That Information,3a933716,catchphrase;reaction,22,used in various images and GIF captions. [use_in/image],False,-0.51752,0.29437,0.77287,0.87103
+Uno Reverse Card,3ab3767b,exploitable;image macro;photoshop;slang,33,is used as metaphorical term for a comeback or a karmic change of events. [use_as/term],False,-0.20491,0.57884,0.95754,0.92889
+Nikocado Avocados Coinslot,3ada7d77,"exploitable, photoshop",13,has been used as a shock image to be sent to unsuspecting victims. [use_as/shock],False,-0.19501,0.51776,0.92652,0.89302
+Depicted As a Soyjak,3b03c4ea,catchphrase;parody;pop culture reference,29,typically used in these memes is 'I've already depicted you as the Soyjak and me as the Chad [use_in/meme] || often is used as a last-ditch effort in which the one who would be losing the argument is the one ironically trying to portray the winner as the Soyjak as a way of clutching a victory. [use_as/ditch],False,-0.16616,0.56482,0.87913,0.91051
+I Understood That Reference,3b5dc5e3,pop culture reference,37,typically used in online forums and comments as an affirmative acknowledgement of a pop culture reference or technical jargon said by another. [use_in/forum],False,-0.25788,0.54632,0.851,0.874
+Edgy,3bd02bab,slang,88,is commonly used as an insult online [use_as/insult],False,-0.07037,0.80735,0.93064,0.91534
+Scrimblo Bimblo,3bd29256,character;fan labor;participatory media,28,used in a viral tweet to exaggeratedly describe how angry some Super Smash Bros. [use_in/tweet] || used in reference with Crash Bandicoot [use_in/reference],False,-0.24129,0.69221,0.85474,0.84614
+Im The Invisible Man,3c2bec56,image macro;reaction,23,is used as the punchline to posts about successfully appearing secretive. [use_as/punchline],False,-0.13621,0.52279,0.90548,0.89762
+Ouhhh Husbant Now We Are Homeress,3c751660,"character, parody",70,used in the format is of Shirose standing outside in snowy weather looking sad while staring into the camera. [use_in/format],False,-0.23439,0.5985,0.93523,0.77108
+Et Tu Brute,3cc4a922,,30,used in the English-speaking world to signify the utmost unexpected betrayal by a person [use_in/english],False,-0.12241,0.63927,0.94047,0.92865
+One Weird Trick  Doctors Hate Him,3d05b145,advertisement;parody;pop culture reference,41,used in online advertisements dating back to the late 2000s [use_in/advertisement],False,-0.28385,0.39029,0.85746,0.88953
+Schizoposting,3d431802,parody;slang;social game,41,is often used in relation to the word 'shitposting [use_in/relation],False,-0.15896,0.24026,0.92602,0.94535
+Wheres Timmy Oh God No,3dad466f,exploitable,32,has been used as a meme format since 2018. [use_as/meme],False,-0.40006,0.19977,0.83432,0.79271
+My Face When MFW  That Face When TFW,3e32b4c9,,40,is used in forum discussions to discuss how users would respond to a given situation [use_in/forum],False,-0.11309,0.7251,0.97464,0.97013
+Its Dangerous to Go Alone Take This,3e66e1d6,catchphrase;exploitable;pop culture reference,100,is typically used as a stock caption for image macros in which an animal or an object is offered to the viewer as a kind gesture. [use_as/stock] || commonly used as an exploitable meme format in which people replace the sword the old man gives Link with different objects by editing the image. [use_as/meme],False,-0.33551,0.25607,0.78599,0.86515
+Bomboclaat,3ee91dac,slang,41,is used as an insult or an interjection expressing disgust or anger. [use_as/insult],False,-0.1366,0.70953,0.89862,0.78207
+Billy Its Time You Learn About Money,3f5f095e,exploitable,45,has been used to create memes. [create/meme],False,-0.27621,0.25456,0.84496,0.7887
+Me and the Boys,3fe857e8,"catchphrase, snowclone",99,used in memes about various activities. [use_in/meme],False,-0.15381,0.41816,0.91192,0.9223
+I Have No Idea What Im Doing,40038ef7,,96,often used in image macro captions featuring photos of animals [use_in/image],False,-0.3316,0.32389,0.79467,0.84728
+Chicanery Copypasta,4020a6c8,"copypasta, viral video",41,has been used as a copypasta in which various people accuse others of scheming and plotting against them [use_as/copypasta],False,-0.16455,0.49181,0.88521,0.78345
+Amogus,40d46da1,catchphrase,79,used in the memes. [use_in/meme],False,-0.1341,0.78352,0.95296,0.92252
+Pee Is Stored in the Balls,40dcc39d,copypasta,39,is typically used as a humorous caption in various image macros. [use_as/caption],True,-0.24084,0.5215,0.81223,0.89905
+Chihuahua in Hat Balancing on Four Loko Cans,42b1a02c,image macro,26,has been used in a number of object labeling expressing the instability and precariousness of a situation. [use_in/number],False,-0.25798,0.51553,0.9396,0.83025
+Alright Bro Im Boutta Head Out,4346b111,slang,41,used as captions for images in which individuals seemed to either be leaving abruptly or be preparing to depart. [use_as/caption],False,-0.34542,0.28247,0.87665,0.88304
+America Fuck Yeah,43d24939,catchphrase;song,83,used as an authentic display of strong approval or an ironic response to extreme or unwarranted patriotism toward the United States of America. [use_as/display],False,-0.10094,0.67003,0.894,0.87476
+Perfect for the Switch,43f2a0cd,copypasta,31,is often used as a derogatory phrase to mock people who beg for certain games to be ported to the Switch. [use_as/phrase],False,-0.08225,0.7867,0.90247,0.92574
+Guess Ill Die,43f80fe1,reaction,95,used in situations where the poster jokingly resigns themselves to death due to a minor inconvenience. [use_in/situation],False,-0.08976,0.59049,0.88533,0.93791
+Oh God Why,4458130e,,76,is often used as the final panel in a comic that tells a horrifying [use_as/panel],False,-0.05932,0.77719,0.94121,0.80615
+KYMtan,44e8c80c,character,99,was used as the face of the spoiler tags. [use_as/face],False,-0.08603,0.80533,0.96365,0.86761
+Implying Implying Implications,452efde9,slang,32,used in a mocking manner to challenge an 'implication' that has been made [use_in/mocking] || used as a joke in itself. [use_as/joke],False,-0.11927,0.43557,0.94973,0.92869
+Why Are You Scared Isnt This What You Wanted,45638372,catchphrase;image macro,28,is often used as a humorous caption in image macros for photographs of people wearing anime girl masks. [use_as/caption],False,-0.46272,0.12331,0.69414,0.84071
+Lets Go Bowling,45fa0ff4,catchphrase,20,has been used in memes and referenced online. [use_in/meme],False,-0.08055,0.69737,0.84584,0.88117
+Success Kid  I Hate Sandcastles,461a661e,image macro,99,has been used in image macros to designate either success or frustration. [use_in/image],False,-0.12488,0.70147,0.96756,0.86211
+Based Department,464e06f8,slang,100,used as if a person is receiving a phone call from a fictional 'Based Department [use_as/person],False,-0.15067,0.65958,0.87708,0.90042
+14FCali,467703f1,slang,22,is used in response to the initialism 'a/s/l' requesting someone's age [use_in/response],False,-0.34705,0.43193,0.87454,0.85268
+I Studied the Blade,474c342c,copypasta;image macro;snowclone,39,is used in copypastas accompanied by photographs of men wielding katanas meant mock peers for attending social gatherings while they train sword fighting. [use_in/copypastas],False,-0.21569,0.51864,0.89574,0.92777
+U Jelly,47e5fee2,,28,used as a shorthand for 'you jealous?' [use_as/shorthand],False,-0.26321,0.40329,0.88194,0.87659
+Bitch I Might Be,47e6a462,,40,is often used in text posts and image macro captions shared on the microblogging site Tumblr. [use_in/text],False,-0.20697,0.51719,0.9173,0.92186
+Thot Patrol,48abeedf,slang,94,is used in reference and direct calls to action by anime characters. [use_in/reference],False,-0.24455,0.48847,0.93054,0.92629
+Crayon Eater  Marines Eat Crayons,49295fec,catchphrase;cliché;parody,20,used in jokes to mock the intelligence of United States Marine Corps members [use_in/joke],False,-0.11321,0.83896,0.8751,0.85742
+She Wasnt Lying That Ass Can Fart,495e3190,catchphrase,39,often used in ironic Brap -themed image macros depicting various characters either feeling a powerful gust of air or having something smudged over their face. [use_in/brap],False,-0.42211,0.43334,0.84558,0.85965
+You Fell Victim to One of the Classic Blunders,4a0638df,image macro,28,has been used in image macros featuring the quote as a punchline to various jokes about one's mistake. [use_in/image],False,-0.19789,0.50684,0.8558,0.81671
+I Made This,4afb2751,,41,is used in reference to scenarios where people steal other's creations. [use_in/reference],False,-0.31407,0.31914,0.8931,0.87545
+Petty Skai Jackson  Skai Jackson Sitting,4bcf1086,image macro;reaction,30,has been used in combination with dialogues or descriptions of social interactions illustrating common acts of pettiness and pretentiousness driven by perfectionism [use_in/combination],False,-0.18502,0.54211,0.9136,0.75003
+This Does Put a Smile on My Face,4cc42adc,reaction;slang,39,is used in conjunction with a caption or photo placed above that evokes happiness and satisfaction as a response. [use_in/conjunction],False,-0.09718,0.75053,0.94151,0.93481
+Vince McMahon Surprised  X When Y Walks In,4d4276f5,image macro;reaction;snowclone,87,was used in memes predominantly on iFunny and Reddit in the early 2020s. [use_in/meme],False,-0.1715,0.67609,0.93938,0.92579
+It Defines Who I Am,4d55710f,image macro,25,has been used in image macros featuring the quote as a punchline to various jokes about one's personal interests. [use_in/image],False,-0.22812,0.48391,0.93412,0.91274
+Raiden Punching Armstrong  Standing Here I Realize,4e005650,"image macro, reaction, song",31,has been used as source material for image macros [use_as/source],False,-0.34612,0.43926,0.94485,0.89617
+The Loneliest People,4e054948,catchphrase;image macro,38,used in motivational images and as the caption in image macro memes. [use_in/image],False,-0.30685,0.56598,0.87828,0.91942
+Girls That I Like vs Girls That Like Me,4e167ee4,image macro,26,used as the subject of the picture responded to a version of the meme on Twitter. [use_as/subject],False,-0.14043,0.54941,0.91275,0.93366
+The Feminine Urge,4e4393ff,catchphrase,41,used in memes to ironically describe female tendencies and traits. [use_in/meme],False,-0.25546,0.44082,0.87953,0.87332
+Okay Guy,4e510be9,,100,is often used in the final panel of comics meant to convey a feeling of hopeless resignation. [use_in/panel],False,-0.05389,0.85008,0.97816,0.90961
+We Dont Do That Here,4e64bd45,"image macro, reaction",41,has been used as the punchline to jokes about social faux pas [use_as/punchline],False,-0.24658,0.39191,0.87997,0.8804
+Im Fuckin Ballin,4e81200c,catchphrase;viral video,24,used in conjunction with Your Honor snowclone. [use_in/conjunction],False,-0.42111,0.40882,0.89688,0.88262
+Shrek TV,4ed92d21,pop culture reference,53,is often used in conjunction with the Watching the Way Nolan Intended meme. [use_in/conjunction],False,-0.29276,0.52489,0.85859,0.70598
+Pregnant Pussy,4f1d2135,copypasta;song,24,used in various memes. [use_in/meme],True,-0.12922,0.55344,0.90285,0.85582
+Based God,4f816dc2,catchphrase;image macro,93,often used in image macros referring to rap artist Lil B. [use_in/image],True,-0.1808,0.31776,0.83529,0.87716
+There Is Nothing About This I Understand,50610fea,exploitable,26,has been used in a similar manner to Why Is Millennial Humor So Weird? [use_in/manner],False,-0.2841,0.3602,0.87173,0.91024
+These Are Confusing Times,5072fae5,reaction,23,commonly used in reference to situations which may appear confusing. [use_in/reference],False,-0.19198,0.69483,0.89586,0.87718
+Cock and Ball Torture,50a56b3e,"character, copypasta",39,has been used as a pranking device. [use_as/device],False,-0.21015,0.54056,0.87811,0.89853
+I Will Not Eat the Bugs,5126c8c2,"catchphrase, copypasta, viral debate",41,often used in Schizoposting under the belief that there is a growing global initiative to push the world into eating bugs instead of meat due to environmental concerns of livestock. [use_in/belief],False,-0.17521,0.64882,0.83684,0.84424
+Pake Nanya,51823d22,exploitable;image macro;reaction,23,has been used as an exploitable. [use_as/exploitable],False,-0.2999,0.49677,0.91325,0.8796
+Crying Cat,5193f21d,"exploitable, photoshop, reaction",65,used in memes is a photoshopped version of the Serious Cat meme [use_in/meme],False,-0.12207,0.71272,0.96136,0.89722
+Screw the Rules I have Money,51b9872e,,38,is used as a sarcastic response to an argument or in an exchange where someone has broken a rule intentionally. [use_as/response] || used as a snowclone where 'money' is changed into another word that is appropriate to the situation. [use_as/snowclone],False,-0.20445,0.65048,0.90753,0.85979
+Enslaved Moisture,51bb8ab3,slang,41,is used in an image macro featuring Meme Man looking at a water bottle and has been used as a reaction image and exploitable. [use_in/image],False,-0.36558,0.29384,0.89239,0.86983
+Glowie  Glowposting,51f255e4,slang,23,used in reference to CIA or other governmental agents posing as ordinary 4chan users in order to bait others into sharing incriminating information. [use_in/reference],True,-0.22039,0.63621,0.94999,0.91215
+Sike Nigga You Thought,523240c4,"image macro, reaction",28,has been used in the title of YouTube videos and various reaction images [use_in/title],False,-0.46511,0.36957,0.82051,0.85003
+Like A Boss,52dbe128,,100,often used in image macros or GIFs that feature a person completing an action with authority and finesse. [use_in/image],False,-0.16849,0.45078,0.87059,0.90335
+How You Age When You Are Unproblematic,52fb627f,catchphrase;cliché;pop culture reference,20,often used in stan circles to post photos of their favorite 'unproblematic' celebrities. [use_in/stan],False,-0.23404,0.50838,0.91566,0.89588
+The Rot Consumes,532f4b01,catchphrase,32,was often used as a text caption in memes. [use_as/text],False,-0.23198,0.32166,0.86629,0.9045
+Just As Planned,535bc2db,,100,used in imageboards and forum conversations for trolling purposes [use_in/imageboard],False,-0.1755,0.49416,0.83595,0.86524
+Minimal Movie Posters,5450fe82,,100,used in the said movies and TV shows. [use_in/movie],False,-0.13575,0.57631,0.90228,0.8102
+Black and Pink Meme Houses,545951d1,exploitable;image macro,24,used as an object-labeling meme and in image macros since as early as 2016 [use_as/object],False,-0.44128,0.3129,0.90191,0.76961
+Photoshop Bob Ross,54b78adf,exploitable,33,is most often used as an exploitable to frame various images in the blank canvas as if they were drawn by Ross. [use_as/exploitable],False,-0.26886,0.57956,0.89795,0.71514
+Please Do Not The Cat,551f9ea1,image macro,22,has been used in several images parodying the verbless wording of the caption. [use_in/image],False,-0.39228,0.14185,0.80608,0.84692
+Hacker Stock Photos,55700ca5,,29,Most often used as a generic visual aid in articles and publications about hacking-related news [use_as/aid],False,-0.12168,0.46801,0.9457,0.88074
+Ariana Grandes Japanese BBQ Tattoo,55a9ba7b,pop culture reference,28,used in Japan. [use_in/japan],False,-0.16693,0.71976,0.93153,0.87123
+Right In Front Of My Salad,55ff33d2,catchphrase,28,is used in various situations where one is indignant. [use_in/situation],False,-0.37491,0.31419,0.85152,0.84224
+This Poster Is a Skeleton,560d3d22,,69,used as forum weapons to mock other posters in discussion threads. [use_as/forum],False,-0.20718,0.49869,0.92887,0.94641
+How It Started vs How Its Going,564c2327,exploitable;image macro;parody;participatory media,41,is used in place of 'How It's Going.' [use_in/place],False,-0.33133,0.48465,0.8777,0.89526
+Sweating Towel Guy,56de714e,exploitable,30,is often used in 'my face when' stories (MFW) on 4chan. [use_in/face],False,-0.17887,0.71549,0.96693,0.91105
+tfw no gf,56ed583a,,58,often used in online discussions and comments to describe one's fragile emotional state as a result of loneliness and lack of companionship. [use_in/discussion],False,-0.09895,0.79598,0.92041,0.94259
+Insidious LipstickFace Demon,570f9178,exploitable;image macro,21,used in image macro memes about the film in the early 2010s before seeing a resurgence in object labeling memes in late 2019. [use_in/image],False,-0.15512,0.62506,0.92876,0.88006
+Good Heavens Just Look At The Time,575b4ab1,,100,used as a trolling or threadjacking device in forum and imageboard threads. [use_as/trolling] || commonly used as a warning before flooding the thread with the said content. [use_as/warning],False,-0.40781,0.56681,0.84857,0.86046
+Kai Cenat Tongue Out Face,580884d4,exploitable;image macro;reaction,35,used as exploitables or were paired with captions that used the screenshots to describe an emotion. [use_as/exploitable],False,-0.12433,0.68653,0.95251,0.93049
+Updog,5838deeb,,30,is commonly used as a practical joke to elicit the question 'what's updog?' from someone [use_as/joke],False,-0.15518,0.65641,0.89264,0.89912
+Anti Bully Ranger  No Bulli,58b112ca,"catchphrase, parody",41,Used as response to someone 'bullying' another user or when posting an opinion [use_as/response] || used in a similar way. [use_in/way],False,-0.2939,0.55317,0.8977,0.85673
+Bitches Be Like,58b3d1ff,,39,is typically used as a preface to describe various cliché behaviors and catchphrases associated with a specific group of people. [use_as/preface],False,-0.27104,0.37146,0.88475,0.86303
+Girls Laughing,58f7da20,,43,are commonly used as replies on imageboards to mock or dismiss original poster's thread [use_as/reply],False,-0.13982,0.73073,0.97012,0.89964
+My Skin Is Clear,59225d52,,24,used as one of many positive things the person says about themselves as a result of seeing the object of their fandom. [use_as/thing],False,-0.3267,0.27926,0.7642,0.80153
+So You Have Chosen Death,5966df0c,image macro,41,used as part of a reaction image and a catchphrase online. [use_as/part],False,-0.23577,0.47726,0.86403,0.85369
+SpongeBob Roller Coaster,59d9c317,image macro;reaction,44,was used in memes on Twitter and elsewhere as a way to mock people who over-react or over-dramatize a situation or belief that's seen as not scary [use_in/meme],False,-0.11632,0.7877,0.96437,0.91348
+Infinity War Is The Most Ambitious Crossover Event In History,5ab34160,copypasta;image macro,100,is used as a humorous comparison to the 2018 Marvel superhero film Avengers [use_as/comparison],False,-0.26544,0.48273,0.78208,0.83668
+LA Noire Doubt  Press X To Doubt,5abd4f7a,pop culture reference;reaction,39,used in memes to express disbelief in a headline or a thread's previous statement. [use_in/meme],False,-0.19564,0.63916,0.94857,0.90378
+Smol,5aef8147,slang,31,has been used as a common descriptor or hashtag on major social network platforms. [use_as/descriptor],False,-0.2021,0.55329,0.92365,0.91538
+Capitalism Ho,5b57fa81,catchphrase,22,is often used in memes [use_in/meme],False,-0.28321,0.59515,0.90469,0.83521
+Hatsune Miku Admires a Snail  Woah Pipe Bomb,5b8d2247,exploitable;fan art;fan labor,26,was used as an exploitable on Tumblr [use_as/exploitable],False,-0.3609,0.49552,0.8846,0.89967
+Skull Cow Isnt Real It Cant Hurt You,5bbf4873,snowclone,100,used for photographs of bizarre-looking cows and otherwise cursed images. [use_for/photograph],False,-0.2388,0.44024,0.84753,0.92205
+Supply Chain,5bda9096,exploitable;photoshop,22,used in object labeling [use_in/object],False,-0.44371,0.45077,0.8018,0.6399
+Fren,5be76fcb,slang,22,is often used in the context of interior monologue caption images featuring animals. [use_in/context],False,-0.19866,0.56676,0.90288,0.86447
+Silence Is Violence,5c4cc61e,catchphrase;exploitable;image macro;reaction,32,used to create humorous circumstances in certain contexts. [create/circumstance] || typically used in the context of deaf or mute individuals [use_in/context],False,-0.32973,0.25986,0.7666,0.85603
+That Is My Fetish,5cbbc4f9,reaction,79,used in defense or approval of a sexual obsession or fandom [use_in/defense],False,-0.23957,0.265,0.80564,0.90523
+I Got 99 Problems But a Bitch Aint One,5cbdc211,,99,used in various image macros. [use_in/image],False,-0.12713,0.48758,0.82845,0.88788
+Tom Shoots Himself,5d0f7421,exploitable;photoshop,29,used in object labeling memes to comment on a particular subject that is unknowingly doing harm to themselves. [use_in/object],False,-0.26535,0.63449,0.94709,0.88368
+Giornos Theme  Giornos Piano,5d23521b,song,33,has been used in a variety of videos [use_in/variety],False,-0.18599,0.67795,0.92493,0.87125
+With Great Power Comes Great Responsibility,5d26567c,catchphrase,32,used in its whole form [use_in/form],False,-0.19661,0.37725,0.84882,0.83696
+But Can You Do This,5d4883c8,catchphrase,24,used as an in-joke among fans to mock the chair's expensive price point. [use_as/joke],False,-0.20634,0.4431,0.9145,0.94012
+Who Wants Change Who Wants to Change,5d8e5a3a,exploitable;image macro,62,is typically used as an exploitable image macro to parody people's unwillingness to make sacrifices necessary to achieve their desired goal by changing the text in the original cartoon's word bubbles. [use_as/image],False,-0.33537,0.42986,0.88425,0.87314
+I Was Today Years Old,5d93e743,catchphrase;snowclone,41,typically used in the title of a post or discussion thread when introducing an interesting fact or trivia that had been previously unknown to the poster [use_in/title],False,-0.1945,0.52116,0.90437,0.84329
+Blaming the Rothschilds,5e142e40,conspiracy theory;parody;pop culture reference,37,is often used in conjunction with the Saruman Magically Summoning meme format. [use_in/conjunction],False,-0.20449,0.40212,0.79684,0.84341
+In The Future Entertainment Will Be Randomly Generated  Weed Eater,5eac6b7d,exploitable;image macro;viral video,22,were used in image macros. [use_in/image],False,-0.23938,0.5566,0.88146,0.86779
+Oh You,5fde0fbd,,43,used as a reply to a clever or brash statement. [use_as/reply],False,-0.13052,0.54536,0.92668,0.907
+tldr,6005ed31,,37,commonly used in discussion forums as a shorthand response to previous posts that are deemed unnecessarily long and extensive. [use_in/discussion],False,-0.07814,0.7159,0.9108,0.90633
+Coughing Cat,6012a75f,animal;exploitable;image macro;photoshop;reaction,20,used as an exploitable image macro and a reaction image around the web. [use_as/image],False,-0.29082,0.45361,0.8777,0.81166
+Seems Legit  Sounds Legit,609b4e61,,99,used as a sarcastic retort to a suspected attempt at deception and is often used to caption image macros depicting factually questionable statements and scenarios. [use_as/retort],False,-0.08819,0.87354,0.9576,0.93373
+Im Not Gay Greg,61c7c60d,catchphrase;character;parody,35,used as a shitpost. [use_as/shitpost],False,-0.23566,0.46674,0.87822,0.81358
+Bruh,61db2d74,sound effect,31,is often used as an interjection to convey frustration or disappointment at something. [use_as/interjection],False,-0.19315,0.63488,0.95098,0.94535
+James Franco “First Time”,62213d56,exploitable;image macro;pop culture reference;reaction,41,has been used in image macros as the punchline to jokes about one's inexperience usually to emphasize an uncommon or ridiculous occurrence in normal society that has become a regular occurrence in a community. [use_in/image],False,-0.25614,0.60813,0.92648,0.89507
+Cover Myself in Vaseline and Pretend Im a Slug,625c3f0c,,24,is often used as an example of a Google Search Suggestion [use_as/example],False,-0.21135,0.45702,0.7902,0.768
+Toothless Presents Himself,625fc742,exploitable,39,has been used as an exploitable for object-labeling memes. [use_as/exploitable],False,-0.25034,0.53471,0.9321,0.86285
+Based,62ec25d9,slang,33,Often used as part of the wider catchphrase Based and Redpilled [use_as/part] || used as a standalone term [use_as/term],False,-0.32585,0.61817,0.91267,0.88114
+Hackerman,6323c37e,"character, image macro",33,is used in jokes regarding a person's inflated sense of self-esteem when they solve a simple technical issue. [use_in/joke],False,-0.23226,0.54945,0.90541,0.86483
+Muito Real,632c7ba0,catchphrase;pop culture reference,38,has been used as a meme by SMT Portugal and Portuguese SMT fans since as early as 2018. [use_as/meme],False,-0.17491,0.69752,0.9018,0.84985
+Your Argument Is Invalid,63329b3b,,100,often used as a playful counter-response in online discussions. [use_as/counter],False,-0.28956,0.4072,0.86797,0.89902
+Out Pizza the Hut,6335c9c1,catchphrase,63,used in a series of surreal and ironic memes [use_in/series],False,-0.1191,0.7787,0.9345,0.94622
+Of Course You Have Blue Hair And Pronouns,634f9230,catchphrase;cliché,41,used in image macros to poke fun at people who use preferred pronouns. [use_in/image],False,-0.32808,0.2741,0.81355,0.86617
+That Awkward Moment,64ecd868,,77,often used as a preface when sharing stories about socially uncomfortable experiences on Twitter and other social networking sites. [use_as/preface],False,-0.11527,0.5654,0.90402,0.9013
+My Brother in Christ,6555fcde,image macro;slang,41,used as an enhancement on existing images where meme creators replace the text with the phrase but also spread to become a standalone catchphrase or punchline on Twitter in early 2022. [use_as/enhancement],False,-0.15024,0.54114,0.92671,0.8962
+The Signs As,656cd7a2,,33,used in a series of novelty horoscopes on Tumblr [use_in/series],False,-0.11633,0.59072,0.79372,0.82964
+Truckkun,66218f82,parody,39,used as plot devices [use_as/plot],False,-0.17533,0.7614,0.90176,0.84349
+You Must Be X If You Think We Fuckin,664a5fff,snowclone,48,used as a caption for images [use_as/caption] || used as an enabler format for posting any media. [use_as/enabler],False,-0.42823,0.32853,0.87069,0.80054
+Verbose  Classy Memes,66b2d23d,,35,used as the name of a thing [use_as/name],False,-0.09844,0.64553,0.94924,0.92518
+I Always Say Morning Instead of Good Morning,66d51d74,catchphrase;snowclone,57,often used in image macros and memes in which a person explains that they only would consider their morning to be 'good' if a certain criterion was met [use_in/image],False,-0.37648,0.31263,0.76022,0.83848
+Mha Hart Mah Sole,66d7de09,image macro,22,is often used in image macros to express longing [use_in/image],False,-0.24918,0.5029,0.889,0.80709
+Sitting Alone In the VIP,6765cde3,catchphrase;copypasta;image macro;song,28,commonly used in text posts and image macros [use_in/text],False,-0.35727,0.40178,0.83206,0.71199
+Trigger,681b28e6,,100,commonly used in the context of Post Traumatic Stress Disorder (PTSD) [use_in/context],False,-0.04116,0.90874,0.94681,0.94319
+Yeonmi Park on Joe Rogan Parodies,684c50d9,exploitable;image macro;parody,52,is used to create memes that reference national or regional stereotypes [create/meme],False,-0.09159,0.77945,0.96246,0.88596
+Meme Man,6863ac5d,character,31,used in absurd edits [use_in/edit],False,-0.12211,0.68739,0.95725,0.91918
+Whos Awesome Youre Awesome  Sos Groso Sabelo,6933983d,,37,used in image macros wherein the subject is pointing at the camera while smiling [use_in/image],False,-0.4782,0.20422,0.77962,0.84848
+It Hurt Itself in Its Confusion,69c27f65,image macro;reaction,42,used in Pokémon Red and Blue. [use_in/pokémon],False,-0.21531,0.72305,0.9588,0.9221
+Handheld Pupper,6a75c2d0,animal;exploitable,37,used as an exploitable for various memes. [use_as/exploitable],False,-0.16666,0.63999,0.95045,0.86939
+This Aint It Chief,6a8761c0,slang,26,used in forums as a way to tell the poster that the thing they posted isn't as cool as they think. [use_in/forum] || is used in a similar friendly-but-insulting way as Imma Keep It Real With U Chief. [use_in/way],False,-0.15436,0.58595,0.90235,0.88923
+I Dont Understand This Meme And At This Point Im Too Afraid To Ask,6ace0dda,exploitable,22,used in the Afraid to Ask Andy image macro series. [use_in/afraid],False,-0.38388,0.23831,0.77706,0.84832
+Dr Livesey Walk,6b3dba9f,"exploitable, fan labor, reaction, viral video",21,has been used as a reference for fan animations or redraws and as a video caption format. [use_as/reference],False,-0.4263,0.29934,0.93747,0.81591
+Red Pepper With Face  Peppa Mane,6b622577,character;image macro,35,used as an exploitable in memes [use_as/exploitable],False,-0.1586,0.67558,0.93088,0.91159
+Thick Thighs Save Lives,6ba6963a,"catchphrase, slang",24,typically used in praise of women with voluptuous figures [use_in/praise],False,-0.36147,0.38722,0.7896,0.81642
+Be the X the Japanese Think You Are,6cbf398a,catchphrase;snowclone,36,used in a series of memes showcasing stereotypical depictions of characters who are American [use_in/series],False,-0.09432,0.74526,0.92459,0.8939
+Gary Spivey Psychic Medium Healer,6cd3e596,image macro,37,has been used in a series of image edits [use_in/series],False,-0.12291,0.74742,0.93738,0.91275
+Begone Thot,6d7163fc,catchphrase,62,used as a dismissal of someone who is considered a 'thot' (a synonym for hoe or slut) [use_as/dismissal],False,-0.10071,0.65022,0.90395,0.93243
+Dog Smothering Owner,6dc0adfa,exploitable;image macro,33,typically used as an object labeling macro with the first three panels of the comic consisting of dialogue that ultimately results in the dog being forced to kill its owner due to the despicable nature of his master’s phone conversation. [use_as/object] || used in traditional meme format [use_in/meme] || used as an anti-meme intended to be ironic. [use_as/meme],False,-0.1535,0.62089,0.93165,0.85374
+I Lied,6e661269,,100,is often used as the punchline of rage comics and is meant to indicate that the subject in the comic has been dishonest in some way [use_as/punchline],False,-0.04083,0.7973,0.97071,0.86787
+Knuckles,6eaab028,"exploitable, parody, photoshop, pop culture reference",100,has been used as a joke among the gaming community [use_as/joke] || is used as an exploitable by photoshopping various elements of the character or title into other pop culture references where Knuckles is a featured guest to create a parody. [use_as/exploitable],False,-0.2104,0.7157,0.85443,0.78511
+Cancel Culture,6ef85b01,slang,63,typically used in light of actions that have been deemed problematic. [use_in/light],False,-0.09746,0.73107,0.92781,0.95388
+Tripping Balls,6f2a7704,,57,used in captioning images of people and animals with wide eyes and enlarged pupils. [use_in/image],False,-0.11736,0.66686,0.84093,0.84427
+Ive Seen Enough Hentai To Know Where This Is Going,6f6266ff,catchphrase,100,often used in image macros to suggest that tentacle rape is imminent. [use_in/image],False,-0.19799,0.41663,0.85579,0.88159
+They Had Us In the First Half,70661dd4,reaction,41,has been used as a pairing with captions in which the first half of the text sounds good [use_as/pairing],False,-0.16386,0.52169,0.9219,0.87957
+Weve Been Tricked Weve Been Backstabbed and Weve Been Quite Possibly Bamboozled,70d498a9,"image macro, reaction",41,has been used as a macro [use_as/macro],False,-0.31373,0.27204,0.87002,0.81214
+My Daughter Loves Him I Think He Looks a Little Gay But Whatever Makes My Princess Happy,70d7e23d,catchphrase;copypasta;exploitable;image macro,36,used as a standalone copypasta without the image. [use_as/copypasta],False,-0.49445,0.27392,0.76467,0.76257
+Thanos Did Nothing Wrong,71bd8ea1,catchphrase,41,used in memes and online discussion about the actions of Thanos in the film Avengers [use_in/meme],False,-0.13872,0.6702,0.9506,0.92795
+Litmus Test For Social Class  Which Is More Attractive,721ff001,catchphrase;viral debate,22,used in meme captions (primarily on Twitter) in which the participant is asked to choose between two or more different things [use_in/meme],False,-0.23941,0.5415,0.8974,0.86061
+Bottom Text,72868153,,39,commonly used as the default filler text for blank templates on image macro generator websites. [use_as/default],False,-0.37172,0.44277,0.91363,0.8856
+Ow The Edge,73532455,catchphrase;reaction,29,used in response to images [use_in/response],False,-0.21606,0.54343,0.86682,0.83279
+Thats the Evilest Thing I Can Imagine,74116765,image macro;reaction,39,is used as an expression to highlight juvenile pranks or trolling schemes in a similar vein to Some Men Just Want to Watch the World Burn. [use_as/expression],False,-0.10993,0.68735,0.89565,0.84934
+Logical Fallacy Referee,74820b80,,41,used in online debate. [use_in/debate],False,-0.23309,0.54647,0.83889,0.7771
+Natsukis News,74f33a9b,exploitable,36,was used in dozens of memes in /r/DDLC [use_in/dozen],False,-0.13968,0.75287,0.96583,0.90805
+Simon Cowells Face,75d25982,image macro,35,used as a meme. [use_as/meme],False,-0.18144,0.60953,0.8943,0.82782
+Its Over 9000,7617534b,catchphrase,100,is typically used as an innumerable quantifier to describe a large number of something like 'several' [use_as/quantifier],False,-0.13347,0.70596,0.92635,0.91534
+Day of the Pillow,76236acf,slang,21,has been used as a way of expressing a strong dislike for and wishing harm onto members of the Baby Boomer generation. [use_as/way],True,-0.058,0.61636,0.86097,0.813
+George Glass  Sure Jan  Sküle,77a6d964,image macro,24,used in image macros featuring Jan or Marcia Brady [use_in/image],False,-0.21389,0.5096,0.88986,0.81915
+What Zero Pussy Does to a MF,782bd373,catchphrase,41,used as a caption in memes and as a way to mockingly comment on someone's posts. [use_as/caption],False,-0.19963,0.6586,0.86786,0.87494
+Jim Halpert Smiling Through Blinds,788e63f0,image macro;reaction,41,has been used in a series of image macros to deflect blame for comedic effect. [use_in/series],False,-0.16982,0.60089,0.94847,0.90842
+I Forgor 💀,798616a4,slang,35,is used as a humorous response and in shitposting. [use_as/response] || is used as a direct antonym to I Forgor 💀. [use_as/antonym],False,-0.18987,0.5285,0.94818,0.91963
+Rapper Mario,7a15288a,character;dance,33,has been used in numerous edits [use_in/edit],False,-0.15349,0.68409,0.94048,0.92637
+Due To Personal Reasons,7abcb45e,snowclone,26,is used for the purposes of absurdist humor. [use_for/purpose],False,-0.24429,0.59272,0.90187,0.88558
+Matt Damon Aging,7ac859c2,reaction,20,used as a way to show how someone is waiting for prolonged amounts of time for something to happen [use_as/way],False,-0.25138,0.3761,0.87991,0.82983
+The Lion The Witch And The Audacity Of This Bitch,7b802fbe,"image macro, parody, photoshop, reaction",28,used as a title and caption in various posts across social media [use_as/title],False,-0.13076,0.48661,0.87015,0.83424
+Colonel Toad,7c1f0632,exploitable;image macro,100,is used as an exploitable in image macros. [use_as/exploitable] || used in a meme on Facebook and Instagram in 2017 but received more attention starting in 2020 on Twitter and Reddit. [use_in/meme],False,-0.14918,0.37833,0.87491,0.81359
+Dank Memes,7c2197d2,slang,95,used as a synonym for “cool.” [use_as/synonym],False,-0.07411,0.67414,0.92779,0.94074
+The Jews Fear The Samurai,7c4d12df,catchphrase;exploitable;image macro,20,is often used in an antisemitic light [use_in/light],True,-0.20742,0.44104,0.69824,0.79723
+Wood Sitting on a Bed,7c864993,exploitable,31,used in bait and switch pranks and has been circulating on since 2012 [use_in/bait],False,-0.19395,0.6427,0.89381,0.8366
+Rantsona,7cd1ba2c,reaction,100,used in YouTube reaction videos featuring rants or controversial topics. [use_in/youtube],False,-0.10928,0.68846,0.92988,0.9264
+Nina Tucker,7cff47f7,character,60,is often used as a troll tactic to anger the series' fans. [use_as/troll],False,-0.08788,0.78861,0.97096,0.9045
+I Just Wanna Grill for Gods Sake,7d2e1a7e,image macro;photoshop,37,has been used as an ironic image to mock the sense of humor associated with baby boomers online. [use_as/image],False,-0.20579,0.54404,0.93382,0.8792
+Hi I Got My Account Back,7d77a5bd,copypasta;exploitable,25,used as blackmail against him. [use_as/blackmail],True,-0.19394,0.49758,0.90904,0.87112
+If You Know What I Mean,7df4fb89,slang,89,used in vertical comics in a similar manner to the You Don't Say? [use_in/comic_strip],False,-0.1274,0.43541,0.95202,0.88807
+MLK Didnt Die For This,7ee8f51f,,33,often used in jest to highlight images and videos that can be interpreted as unintentional metaphors for racism against black people [use_in/jest],False,-0.22885,0.6566,0.94769,0.87362
+Laughing Wolves,7f651d16,animal;exploitable;image macro;photoshop;reaction,37,is typically used as an object labeling meme where each wolf is labeled as someone or something [use_as/object],False,-0.15146,0.73844,0.96435,0.89108
+Are You A Bad Enough Dude,7f831ad9,"catchphrase, exploitable, image macro, parody, pop culture reference, snowclone",37,used in memes as an exploitable image macro where the dialogue and character are changed for comedic effect. [use_in/meme],False,-0.25329,0.37405,0.8404,0.84503
+Thats Enough Internet for Today,7f943b18,,29,typically used in comment sections of online communities to emphasize the disturbing [use_in/comment],False,-0.42167,0.30296,0.84406,0.84016
+SheHer TheyThem Cool Hat,7fb86964,exploitable;reaction,31,has been used as an image caption format [use_as/image],False,-0.53922,0.19717,0.71546,0.74951
+Dramatic Crossroads,7ff6a80b,exploitable;image macro,100,has been used as source material for object-labeling memes showing an individual faced with two choices [use_as/source],False,-0.12997,0.76806,0.97282,0.86788
+Morb,804775da,catchphrase;pop culture reference;slang,41,used in a nonsensical fashion [use_in/fashion] || used in conjunction with other Morbius memes [use_in/conjunction],False,-0.12221,0.66472,0.91308,0.91855
+Pope Francis Holding Things,80b0781c,exploitable;image macro;photoshop,41,used in a series of image edits depicting a photograph of Pope Francis during communion while holding a Eucharist wafer. [use_in/series],False,-0.33671,0.45996,0.90775,0.81002
+Again Seriously,80f4f42f,exploitable,26,has been used as an object labeling meme [use_as/object],False,-0.1282,0.69441,0.94539,0.91654
+Frank Castles Face,812d07e7,,55,is often used as an exploitable in which character's faces are swapped with the Frank Castle's [use_as/exploitable],False,-0.10873,0.71238,0.96422,0.94268
+This Is Ultra Lord,8203e924,exploitable;image macro;photoshop,58,is used as object labeling meme [use_as/object],False,-0.15651,0.64798,0.90988,0.90758
+Thoughts and Prayers,82603b77,"catchphrase, cliché, parody",41,used in place of meaningful action. [use_in/place],False,-0.09879,0.71288,0.89968,0.87968
+Mother of God,82fe192c,,100,used in the context of rage comics [use_in/context],True,-0.07644,0.78101,0.94323,0.89551
+Unalive,83111a5f,slang,40,is used in many cases to avoid censorship on sites like TikTok [use_in/case],False,-0.13009,0.55113,0.90691,0.93743
+Haters To The Left,83123bae,reaction,50,often used in image macros and animated GIFs where people are making pointing gestures. [use_in/image],False,-0.34873,0.38062,0.80613,0.84915
+Anton Chigurhs Call It,833139b1,exploitable;image macro;pop culture reference,20,used as an exploitable. [use_as/exploitable],False,-0.33611,0.45949,0.95051,0.86787
+Squidwards Lounge Chair,83761b19,exploitable,43,has been used as a drakeposting format. [use_as/format],False,-0.12082,0.75142,0.97033,0.89872
+Chinese Cartoons,843b82c0,slang,35,used as a way to ridicule anime fans and japanophiles. [use_as/way],False,-0.09878,0.68182,0.92232,0.91379
+Everyday We Stray Further From Gods Light,84d2c54e,,41,often used in combination with various images and videos that are deemed cringeworthy. [use_in/combination],False,-0.15364,0.61289,0.89218,0.90992
+Oh Thats Real Nice  SpongeBob Fish Looking Into Toilet,84ecf2ea,exploitable;image macro;reaction;snowclone,24,used as the caption for the screencap and thus became a reaction image. [use_as/caption],False,-0.22925,0.45877,0.92702,0.86566
+Galaxy Brain,853de306,exploitable,100,often used in an ironic sense to imply the opposite [use_in/sense],False,-0.06762,0.86065,0.97368,0.89298
+Designated Shitting Streets  Poo in the Loo,85c488a2,,41,used as shitposting practice. [use_as/practice] || has been used in similar way. [use_in/way],False,-0.08235,0.64356,0.87986,0.87156
+Bran Stark Stare,869b3e5f,exploitable;parody,39,used as exploitables. [use_as/exploitable],False,-0.1556,0.72059,0.96663,0.92272
+This Is Snek,86a14858,,33,used as a caption of a photo of a Indian woman holding a giant snake. [use_as/caption] || is used as a hashtag or to caption other humorous photos of snakes. [use_as/hashtag],False,-0.34488,0.4631,0.88872,0.85783
+Sephiroth Impaling Mario,86e3dd4d,exploitable,30,was used as an object labeling meme template. [use_as/object],False,-0.25862,0.5107,0.96115,0.8738
+EyeAmTheFool,8701a79e,hashtag,34,used in a coordinated 2019 April Fools Day gag by the indie webcomics community in which artists drew their characters with hyper-realistic eyes. [use_in/april],False,-0.10143,0.74437,0.95562,0.91221
+Kevin Smith Crying,87342b3a,image macro,28,used as image macro memes for jokes about fan culture. [use_as/image],False,-0.15867,0.71093,0.92094,0.76305
+I Cant Take It Anymore Seriously Im at My Limit,875cc7f4,"catchphrase, image macro",41,used as a caption in a series of image macros featuring various characters and individuals [use_as/caption],False,-0.44899,0.2369,0.79065,0.87821
+Damn Shawty OK,875f011c,exploitable;image macro,33,has been used as an exploitable in image macros and photoshops. [use_as/exploitable],True,-0.29652,0.44062,0.93138,0.85016
+Im Something of a Scientist Myself,87a578e0,"copypasta, image macro",41,has been used in image macros featuring the quote as a punchline to various jokes about one's scientific expertise. [use_in/image],False,-0.20865,0.40736,0.8822,0.8869
+Mid Slang,88198d28,slang,63,used in cannabis culture to define the grade of marijuana [use_in/cannabis],False,-0.08747,0.66946,0.89987,0.85909
+Gamer Girl,88e11f0f,,83,used as a pejorative for women who are perceived as embracing gaming for attention from their male counterparts or to build an online following on platforms like Twitch. [use_as/pejorative],False,-0.04857,0.81048,0.921,0.8894
+Reaction Images,892bad4d,reaction,99,are commonly used in discussion threads in a similar fashion to emoticons. [use_in/discussion],False,-0.08909,0.73143,0.97547,0.96233
+Why Is She So Perfect,89507765,,30,typically used as the opening line in waifu threads that are often posted on anime-related discussion forums [use_as/opening],False,-0.24024,0.47018,0.90705,0.91898
+Its Coming Home  Three Lions,8956db52,catchphrase;pop culture reference;song,43,has been used in memes designed to jokingly mock those who get overexcited at positive progress for England in international football. [use_in/meme],False,-0.1541,0.17233,0.94045,0.91915
+Ostagram Spaghetti Mashups,89935eae,,20,has been used to create a variety of humorous pictures [create/variety],False,-0.2774,0.53947,0.93667,0.7489
+Make Anime Real,89be8a15,,41,used in tongue-in-cheek endorsements of political candidates [use_in/tongue],False,-0.20892,0.62552,0.85799,0.85369
+Hammer Time  U Cant Touch This,8a5fecc3,,32,are commonly used in a variety of contexts online [use_in/variety],False,-0.32691,0.46327,0.90685,0.88911
+Glo Up,8ab260ec,slang,24,used in the context of puberty. [use_in/context],False,-0.17306,0.54218,0.87545,0.81016
+Woomy,8b76fc91,catchphrase;exploitable;pop culture reference;remix;sound effect,31,was used as an exploitable in various remixes and image macros. [use_as/exploitable],False,-0.31453,0.63915,0.88134,0.84462
+Im Stuff,8bb060c2,"exploitable, parody",39,used for ironic edits [use_for/edit],False,-0.21733,0.53086,0.94937,0.93312
+Nice Meme,8bc900cf,,31,often used as a dismissive response to poorly received content posted in circle jerk communities online in a similar vein to the phrases 'dank memes' and 'well meme'd'. [use_as/response],False,-0.26386,0.65174,0.93794,0.93908
+Oof Stones,8bd853a9,reaction,29,used in the same fashion. [use_in/fashion],False,-0.20947,0.62169,0.93972,0.82559
+Wait I Thought It Was a Joke,8cbc7ca8,image macro;reaction;snowclone,60,often used in image macros and as a snowclone accompanied by a variation of the text [use_in/image],False,-0.23549,0.33017,0.84652,0.84937
+Im Over Here Stroking My Dick I Got Lotion On My Dick Right Now,8d29f6d8,"catchphrase, sound effect",35,used in videos. [use_in/video],False,-0.31899,0.39103,0.86993,0.87683
+What Happened to Him,8d7e0aa8,catchphrase;exploitable;image macro,24,used in image macro formats such as Dead Baby Voldemort and Uncle Ben What Happened? [use_in/image],False,-0.41398,0.31926,0.81028,0.81441
+This is Nice Board  Bury Pink Gril,8da38174,,71,often used as a form of shitposting on 4chan's /s4s/ (shit 4chan says) board. [use_as/form],False,-0.1373,0.78629,0.963,0.81905
+Am I Disabled,8de12133,,41,is used as a self-deprecating reaction image when the poster discovers they enjoy something they believe is beneath them. [use_as/self],False,-0.25788,0.46719,0.8664,0.87375
+Waiting for OP,8e1e8cc6,,39,is often used in threads to warn posters of the futility of tracking a topic where the original poster (OP) has promised to provide evidence to support a story or claim. [use_in/thread],False,-0.28512,0.36937,0.85796,0.85697
+The Ol Razzle Dazzle,8ea6501c,catchphrase,29,used in image macros highlighting images of various characters that seem to be performing a dance routine. [use_in/image],False,-0.27333,0.45032,0.84164,0.84722
+I Dont Wanna Be Horny Anymore I Wanna Be Happy,8ef6f52a,catchphrase,37,often used as a caption for memes in which various characters are depicted looking tired and somber as to emphasize the meaning of the phrase. [use_as/caption],False,-0.2793,0.36519,0.82983,0.88761
+Oprahs Shocked Reaction,900daa72,reaction,26,has been used in memes in which people provide humorous captions indicating what might prompt such a reaction. [use_in/meme],False,-0.20347,0.60392,0.92149,0.8006
+You Dont Say,901c0ca1,,100,is used as a sarcastic response to an obvious observation or statement [use_as/response],False,-0.09433,0.71174,0.9325,0.91556
+Hulk Gives AntMan a Taco,9103e749,exploitable;pop culture reference,63,used as an exploitable for object labeling. [use_as/exploitable],False,-0.13378,0.70694,0.97448,0.92349
+Come Closer I Need,9154c645,exploitable;image macro,40,used as an object labeling macro with the fish and/or SpongeBob being labeled as someone or something. [use_as/object],False,-0.2616,0.30556,0.87631,0.84077
+Mary Jane Defending Peter Parker,91f7e238,image macro;reaction,44,has been used in combination with humorous lines in which Mary Jane defends Peter from harassment or corrects another person talking to him. [use_in/combination],False,-0.19874,0.51801,0.89422,0.74247
+Oh Yeah Its All Coming Together,91fb35b0,reaction,39,often used in reference to fortunate circumstances or the resolution of complex problems. [use_in/reference],False,-0.23178,0.39304,0.86176,0.89052
+Fus Ro Dah,9210b1f0,,73,used in a dragon shout that summons a powerful force from the speaker's throat in the video game Elder Scrolls V [use_in/dragon],False,-0.08357,0.78302,0.90624,0.88369
+The Club Cant Even Handle Me Right Now,923495b1,,36,typically used in image macros and animated GIFs depicting a character dancing wildly or carelessly. [use_in/image] || are used in similar vein of Party Hard GIF animations to express a person's excitement [use_in/vein],False,-0.43493,0.15054,0.75982,0.85112
+Does This Look Like The Face of Mercy,928bd1a1,,58,is often used in image macro captions featuring an unimposing or harmless-looking subject. [use_in/image],False,-0.42629,0.25594,0.69482,0.85776
+Waiting for Dad,93076b9c,advertisement;exploitable,29,has been used as an exploitable [use_as/exploitable],False,-0.37852,0.59545,0.9493,0.83177
+Goodbye Mom,930e8237,image macro,55,has been used as an ironic addition to images showing map locations. [use_as/addition],False,-0.16006,0.75913,0.93401,0.92259
+Ok So Basically Im Very Smol,931db0b6,image macro,48,used in a series of image edits. [use_in/series],False,-0.21755,0.41335,0.91743,0.90888
+Literally Me Copypasta,93599ee5,,24,often used in tandem with images that the poster believes represent them metaphorically. [use_in/tandem],False,-0.21005,0.47262,0.79869,0.7856
+Yuu Buys a Cookie,938ee241,exploitable,33,has been used as an exploitable [use_as/exploitable],False,-0.30189,0.60631,0.95413,0.83003
+Ive Only Had Arlo For A Day And A Half,93ede62d,"catchphrase, exploitable, pop culture reference, snowclone",39,used as an exploitable depicting fictional characters' reactions to a new character or thing. [use_as/exploitable],False,-0.33472,0.32217,0.85638,0.8296
+Its Magic I Aint Gotta Explain Shit,93fc6c35,,41,used in response to a request for an explanation. [use_in/response],False,-0.47131,0.23495,0.77191,0.87931
+Michelangelo OpenMouthed Stare Reaction,93ff60d2,image macro;reaction,42,has been used as a vibrating GIF [use_as/gif],False,-0.22419,0.40371,0.92318,0.87844
+Skips Sitting Next To Graves,94169977,"exploitable, image macro",31,is typically used as an object labeling macro with various subjects placed on top of the characters in the first image [use_as/object],False,-0.30576,0.61617,0.90093,0.85877
+Tired of Living Through Major Historical Events,9433db7c,catchphrase;exploitable;reaction,38,has been used in memes [use_in/meme],False,-0.23062,0.39691,0.79995,0.87273
+Froggy Chair,946b839b,image macro,29,has been used in a series of wholesome memes. [use_in/series],False,-0.23579,0.61117,0.84192,0.82682
+I Reject My Humanity JoJo,949dccfe,"reaction, snowclone",41,used as a snowclone. [use_as/snowclone],False,-0.26886,0.55592,0.89443,0.82089
+Repost,95abd894,,43,used in message boards and social bookmarking sites to describe duplicate posts [use_in/message] || used in online communities with a rapid post cycle and a daily active userbase such as 4chan and Reddit. [use_in/community],False,-0.11724,0.74541,0.91111,0.92763
+Hes too Dangerous to be Left Alive,95e7692b,catchphrase;reaction,100,used as a catchphrase without the image. [use_as/catchphrase],False,-0.09172,0.6566,0.95781,0.92128
+Tehc,960e9d69,character,26,used for tasks for which one might feel disproportionately proud of doing [use_for/task],False,-0.2202,0.20885,0.88293,0.81697
+Drake The Type Of Guy,96909f6d,catchphrase;image macro;pop culture reference;snowclone,56,used as a phrasal template by swapping out 'Guy' for other terms such as 'Person.' [use_as/phrasal],False,-0.13644,0.60366,0.85975,0.8623
+Shots 15 Clearly Missed,9696e39f,copypasta,41,is often used as a humorous way to poke fun at moments when lag or poor game optimization prevents a kill. [use_as/way],False,-0.23379,0.56816,0.84325,0.74658
+Doom Paul  Its Happening,96f060ac,"image macro, reaction",100,used in combination with Doom Paul image macros is 'It's Happening!' [use_in/combination],False,-0.11715,0.6453,0.91701,0.90288
+Holy Shit Go Outside,97b66681,catchphrase,32,used in posts making fun of overly intricate image macros [use_in/post],False,-0.20121,0.53761,0.9326,0.87475
+Thrembo,98669b11,conspiracy theory;hoax;slang;viral debate,37,used as an exploitable reference. [use_as/reference],False,-0.1265,0.52867,0.90931,0.89705
+Thats On Me I Set the Bar Too Low,98955218,"pop culture reference, reaction, snowclone",41,has been used as a meme template to illustrate that a certain category of entities has a couple of very obvious or similarly-named members [use_as/meme],False,-0.20479,0.42646,0.9025,0.85488
+Hello Darkness My Old Friend,989564d0,song,41,is often used as background music in a variety of parody and remix videos for dramatic effect. [use_as/background],False,-0.14706,0.61172,0.89894,0.89961
+I Am Speed,98b7e71b,,41,is often used as the punchline in an image macro series popularized on /r/dankmemes. [use_as/punchline],False,-0.23827,0.40854,0.93446,0.87587
+J Cole Went Platinum With No Features,992e8797,catchphrase,24,commonly used in situations not related with J. Cole [use_in/situation],False,-0.17561,0.65509,0.77609,0.75114
+Lady Gaga AAAA Tweet,994077da,exploitable;reaction,63,has been used as an image macro and reaction image to express the feeling of speechlessness. [use_as/image],False,-0.15069,0.35181,0.90105,0.90531
+My Body Is Ready,996969c5,catchphrase,100,used in counter-response to other Internet colloquialisms like Prepare Your Anus. [use_in/counter],False,-0.34086,0.21515,0.80717,0.89315
+My Peanus Horts So Bad,99ecf413,catchphrase,40,used in shitposting [use_in/nan],False,-0.12601,0.63585,0.88289,0.86773
+Knife Cat,9aa573e8,,24,used in photoshops and artwork. [use_in/photoshop],False,-0.23135,0.50655,0.95301,0.86594
+No I Dont Think I Will,9aef01de,"image macro, reaction",41,has been used as a macro and a reaction [use_as/macro],False,-0.19784,0.43684,0.87496,0.87016
+Im Not the Step Dad Im the Dad That Stepped Up,9b09c8b2,catchphrase;exploitable,31,has been used as a humorous caption for images. [use_as/caption],False,-0.24498,0.47984,0.81873,0.82021
+No Russian  Remember  no Russian,9c981c05,,41,has been used as a snowclone on the internet. [use_as/snowclone],False,-0.35496,0.53618,0.89694,0.83428
+My Horny Ass Could Not X,9dcdffe6,snowclone,70,used in memes wherein creators replace the X with a scenario or setting their horniness would not allow due to satirically uncontrollable infatuation. [use_in/meme],False,-0.10371,0.78083,0.96712,0.9582
+Zamn Shes 12,9dd57c57,"exploitable, photoshop",80,used for a February 2021 upload by The Prince Family titled 'GUESS HER AGE CHALLENGE **WE FAILED**' that shows Damien Prince and his wife Biannca reacting in shock to an image of a supposedly 12-year-old girl taking a selfie in her underwear [use_for/february],False,-0.45717,0.27346,0.84099,0.85496
+Fuck The Police,9e30b025,"catchphrase, song",99,commonly used in times of contempt for authority figures and/or general disregard for public opinion in similar vein to the expression Haters Gonna Hate. [use_in/time],False,-0.26623,0.44072,0.81996,0.88324
+Grandpa Simpson Walking In and Out,9ec36dd8,exploitable;photoshop;pop culture reference;reaction,18,used as an exploitable image macro in a two-panel variant. [use_as/image],False,-0.28637,0.4071,0.93597,0.86138
+Shut the Fuck Up Liberal  Silence Brand,9f163aca,image macro;photoshop;visual effect,100,has been used as a snowclone as people have changed the word 'liberal' to other things. [use_as/snowclone],False,-0.40297,0.35886,0.85937,0.89979
+Desu,9f1b9eea,slang,100,is used in spam attacks and thread derailments on forums and image boards alike. [use_in/spam],False,-0.09878,0.50751,0.93343,0.85908
+Taylor Swift Is a Snake,9f47d533,,37,used in the form of emoji and comment spamming on her Instagram account. [use_in/form],False,-0.17198,0.66364,0.89679,0.85375
+Awaken My Masters,9f511d3c,catchphrase;exploitable;pop culture reference;remix;song,21,was used as a catchphrase early on in memes [use_as/catchphrase] || used in various remixes and videos on YouTube in the following years. [use_in/remixe],False,-0.34098,0.50824,0.93627,0.83844
+How Many Times Do We Have to Teach You This Lesson Old Man,9ff30ffc,image macro;photoshop;reaction,39,has been used as a joke about having to repeat one's self aggressively. [use_as/joke],False,-0.28073,0.39241,0.89468,0.86808
+Dogwater,a0411c1c,catchphrase;copypasta;slang,22,used in video game trash talk to insult another player's skill. [use_in/video],False,-0.275,0.58906,0.8873,0.80375
+The Glorious PC Gaming Master Race,a1bd703c,character;slang,100,used in the context of PC vs. console debates [use_in/context],False,-0.05149,0.78604,0.90566,0.89282
+Karen,a230a65b,slang,100,used as an antagonistic female character in memes. [use_as/character],False,-0.02537,0.82923,0.96385,0.90841
+YOLO,a31c95a9,,98,is often used as a hashtag on Twitter to bring attention to exciting events or excuse irresponsible behaviors. [use_as/hashtag],False,-0.10456,0.72456,0.9519,0.92454
+Anyas Heh Face  Anya Smug Face,a4160dfb,"exploitable, fan art",23,has been used in redraw memes since it's print. [use_in/redraw],False,-0.41972,0.54076,0.94035,0.82368
+Slaps Roof of Car,a47c57a1,"image macro, snowclone",100,used as the caption to an illustration of a car salesman and the buyer. [use_as/caption],False,-0.29382,0.50632,0.91247,0.90898
+Obama Awards Obama a Medal,a51fd953,"exploitable, parody, photoshop",33,has been used in memes about the former president and circulated as a reaction. [use_in/meme],False,-0.24603,0.62558,0.93721,0.90082
+First World Problems,a5492608,"catchphrase, hashtag, image macro",100,is typically used as a tongue-in-cheek comedic device to make light of trivial inconveniences. [use_as/tongue],False,-0.10061,0.74078,0.94169,0.90825
+Im Thinking About Thos Beans,a54d0acb,,35,often used in tandem with an image featuring baked beans [use_in/tandem] || is used in shitposting. [use_in/nan],False,-0.34558,0.47443,0.88068,0.88613
+Whoops Cant Show That in a Christian Manga,a60b3fa6,,32,used for shitposting purposes on discussion sites and image boards such as 4chan. [use_for/purpose] || is often used in order to get away with the posting of Rule 34 artwork or hentai on theoretically safe-for-work boards. [use_in/order],False,-0.35287,0.4143,0.76702,0.79351
+Dust My Wets,a638eb71,catchphrase;participatory media;slang,24,used in a viral 2019 tweet [use_in/tweet],False,-0.2316,0.44406,0.89261,0.83134
+384,a67b1b3f,copypasta,30,used in ironic posts and comments [use_in/post],False,-0.31961,0.43962,0.88244,0.87563
+Welcome to The Internet,a69ffa09,catchphrase,37,used as a sarcastic insult to mock those who are not familiar with how internet culture works [use_as/insult],False,-0.2615,0.3508,0.8373,0.86198
+This Is Brilliant But I Like This,a74049ea,image macro,41,has been used in object label image macros featuring the quote to express appreciation for one thing over another. [use_in/object],False,-0.37242,0.28355,0.87787,0.82389
+Thot,a7482b3e,slang,31,used as a synonym for hoe or slut [use_as/synonym],False,-0.09195,0.66906,0.91597,0.94213
+WTF,a755c15d,,100,is commonly used in a wide range of contexts in online conversations [use_in/range],False,-0.09421,0.80476,0.97121,0.92383
+Is Jacking Off a Sport,a7e8d285,copypasta;viral video,22,used in various memes. [use_in/meme],False,-0.35335,0.36078,0.81501,0.8514
+Bruh Moment,a803469d,"catchphrase, slang",29,used in a similar sense to Epic Fail. [use_in/sense],False,-0.28894,0.51455,0.91186,0.90084
+Manlet,a822e202,slang,39,is often used in a similar fashion to 'beta male' in reference to reproductive success [use_in/fashion],False,-0.19392,0.48163,0.868,0.91589
+Angry Psychologist,a8ef14de,exploitable,32,has been used as an meme format in Russia since 2013. [use_as/meme],False,-0.11088,0.72859,0.94668,0.8141
+Allow Us To Introduce Ourselves,aa5cd34a,image macro,41,has been used as the punchline to various jokes. [use_as/punchline],False,-0.28174,0.3747,0.89651,0.89016
+Snowgrave  Weird Route,aa81c82c,fan art;fan labor,99,used for the Weird Route [use_for/weird],False,-0.07427,0.75779,0.96445,0.88005
+I Came,ab12acad,,98,often used in image macros wherein the subject is making an elated facial expression as if sexually aroused. [use_in/image],False,-0.19846,0.51896,0.87758,0.91528
+Well Whadya Know,ab283ad1,catchphrase,22,used in conjunction with screenshots from the film to express feigned surprise [use_in/conjunction] || used as the subject line for Star Wars-related posts. [use_as/line],False,-0.11941,0.65388,0.95339,0.93233
+This Is a Flammenwerfer It Werfs Flammen,ab69289b,,39,is often used in reference to Flammenwefer [use_in/reference],False,-0.36323,0.30299,0.87169,0.85611
+Gawk Gawk  Gawk Gawk 3000,ab99650a,"image macro, pop culture reference, slang",41,typically used in an intentionally exaggerated way for humorous effect. [use_in/way],False,-0.21349,0.62573,0.87596,0.73163
+You Look Lonely,abe5b038,"exploitable, image macro, photoshop, pop culture reference",24,used as an image macro expressing sadness and despair. [use_as/image],False,-0.19814,0.53684,0.93906,0.89292
+Piccolo vs Spaghetti,acdc2894,,41,has been used as an object labeling meme. [use_as/object],False,-0.07761,0.83139,0.96872,0.91724
+Im a Brave Boy,ad0cba98,image macro;reaction,30,is used in a three-panel meme [use_in/panel] || has been used in a series of video remixes. [use_in/series],False,-0.24739,0.45237,0.90306,0.91938
+My Ancestor,ad64085b,catchphrase;character;cliché;exploitable;parody,100,used for race-related and racist jokes [use_for/race],False,-0.26121,0.49429,0.80773,0.85092
+You Either Die A Hero Or You Live Long Enough To See Yourself Become The Villai,ae11e10f,,39,used in various commentaries to describe the fall from grace of a well-known and popular public figure [use_in/commentary],False,-0.30232,0.41331,0.80461,0.87602
+Bitches Love Smiley Faces,ae15fb4b,image macro;snowclone,100,is used as a mass noun to address any group of audience or viewers [use_as/mass],False,-0.22968,0.49619,0.87993,0.90183
+Hype Train,ae5b2c33,"reaction, slang",27,used in a positive light to express one's excitement [use_in/light],False,-0.20014,0.74533,0.91789,0.87486
+But Our Princess is in Another Castle,ae5dde0d,pop culture reference,78,is typically used in replying to another user who is searching for a particular person or object in the wrong place. [use_in/user] || used as a mockng response and enjoyable resource for image macros and parodies [use_as/mockng],False,-0.21706,0.53451,0.86622,0.82727
+Correct Madam,af07dd23,image macro;reaction,39,used as a meme in late 2018. [use_as/meme],False,-0.17257,0.68193,0.94137,0.92571
+You Get What You Fucking Deserve,af204d64,"image macro, reaction",35,has been used in a series of image macro about comeuppance. [use_in/series],False,-0.27802,0.34707,0.88474,0.87242
+Dr Manhattan Kills Rorshach,af3ba9d5,exploitable;image macro;photoshop;pop culture reference,37,is used as both a reference to the scene itself [use_as/reference],False,-0.18649,0.6264,0.96643,0.85171
+What If It Was Purple,af7b8fa1,exploitable,54,has been used in four-panel exploitables where an object is rendered in purple or is replaced with a purple replacement. [use_in/panel],False,-0.16942,0.56667,0.92768,0.9479
+Very Erotic Very Violent 很黄很暴力,afadaab8,,57,commonly used as a sarcastic comment regarding obscene images [use_as/comment],False,-0.5222,0.51148,0.86594,0.79589
+I Herd U Liek Mudkips,b04d2b1a,catchphrase,68,is commonly used as an identifier amongst 4chan users outside of the imageboard community [use_as/identifier],False,-0.10241,0.64258,0.91977,0.85451
+Drawings Made By People With Mental Illness,b079fb53,"exploitable, photoshop",33,are used in the format do not have mental illnesses despite the association with the meme. [use_in/format],False,-0.53608,0.20379,0.70829,0.76677
+Im The Goddamn Batman,b20eb864,catchphrase,38,has been used in critiques and memes about the character [use_in/critique] || is usually used in images showing a figure who is attempting (usually failing) to look menacing. [use_in/image],False,-0.15464,0.5362,0.86903,0.84329
+I Was Not Expecting That,b21c9eb9,image macro,32,were used in a series of image macros [use_in/series],False,-0.2117,0.5078,0.93383,0.91549
+No Fun Allowed,b236ddc6,,77,is often used in Internet forums to mock those who insist others stay on topic in discussion threads. [use_in/internet],False,-0.18403,0.36291,0.81914,0.86308
+ONG  On God,b2539b3d,slang,28,used in memes that dates back to the early 2000s online. [use_in/meme] || used in online discourse and in memes until 2014 on Twitter. [use_in/discourse],False,-0.20781,0.52481,0.91243,0.9161
+My Brain is Full of Fuck,b2e213d6,,100,is often used in response images [use_in/response] || used in response to a post or thread that is deemed unworthy or pointless [use_in/response],False,-0.13514,0.5451,0.89815,0.9293
+Ive Connected the Two Dots,b34f8763,catchphrase;exploitable;reaction,22,has been used as an exploitable template and reaction image to posts where a person claims to make a point. [use_as/template],False,-0.2708,0.36908,0.80348,0.85186
+Coolyori  Sayori Drake Meme,b3de2548,exploitable;fan art,100,was used to create a variant of Drakeposting. [create/variant],False,-0.07487,0.71499,0.90964,0.89648
+The Masculine Urge,b44e029d,catchphrase;image macro;snowclone,89,used in memes to describe common stereotypically male urges [use_in/meme] || is often used in ironic memes that make light of and criticize the mental and physical health struggles of men and the idea that men hide their true emotions [use_in/meme] || used as a phrasal template by swapping out the last word [use_as/phrasal],False,-0.12426,0.47134,0.8485,0.87415
+U MAD,b4671708,catchphrase;reaction,99,is often used in discussion threads to imply that someone is losing their temper during the course of an argument [use_in/discussion],False,-0.13946,0.55034,0.86745,0.90821
+Didnt Read LOL,b4bc5437,,26,commonly used in response to someone else's post that is deemed too long or uninteresting [use_in/response],False,-0.63213,0.13174,0.75834,0.86115
+Penis Music,b4d0b3dd,"catchphrase, exploitable",25,often used in GIF captions to humorously describe GIFs of various characters dancing. [use_in/gif],False,-0.33644,0.3703,0.80894,0.87607
+Elonchan,b5922ee3,,33,used in jokes referencing the entrepreneur's appreciation for anime. [use_in/joke],False,-0.16411,0.72883,0.8871,0.83197
+Barack Obama Watching TV,b62e0343,,25,is often used as an exploitable with various humorous images edited over the original television screen. [use_as/exploitable],False,-0.21795,0.64491,0.96178,0.85679
+Clickbait,b63a593b,slang,99,is typically used as a pejorative for viral media and stories that spread through social networking sites despite their perceived lack of depth [use_as/pejorative],False,-0.06176,0.75987,0.95056,0.94463
+Fuck Me Yourself You Coward,b7e1bbd0,copypasta,32,was used in memes and imagined as dialogue between fictional characters. [use_in/meme],False,-0.48537,0.29612,0.83352,0.89709
+First Class,b82d4b1f,exploitable,41,used as an exploitable template in which the boy responds to the teacher about a variety of other humorous subjects. [use_as/template],False,-0.27748,0.42134,0.86763,0.65939
+Wat,b83dc5ae,,99,used as an interjection without a question mark [use_as/interjection],False,-0.08394,0.74535,0.96541,0.94433
+All I Know Is That I Must Kill,b85960c8,image macro,41,is used in a similar capacity to the Stealth is optional for this mission meme and is related to the Lord Tachanka meme as they both a similar look by wearing the Maska SCh1 helmet. [use_in/capacity],False,-0.26934,0.32774,0.8701,0.84517
+Can I Offer You a Nice Egg In This Trying Time,b86daa23,catchphrase;exploitable;snowclone,39,has been used as a snowclone and the screenshot from the Always Sunny scene has been used as an exploitable. [use_as/snowclone] || has been used as an exploitable. [use_as/exploitable],False,-0.31188,0.30544,0.85095,0.90652
+U WOT M8,b99dd130,,45,is typically used in response to an incoherent proposition put forth by someone else [use_in/response],False,-0.1869,0.66418,0.87237,0.86864
+Choke Me Daddy,b9e49045,catchphrase;image macro,41,is often used in image macros featuring various characters being assaulted [use_in/image],False,-0.23664,0.49734,0.87394,0.90359
+Wayfair Human Trafficking Conspiracy Theory,ba572ea3,conspiracy theory,41,used for the purposes of human trafficking [use_for/purpose] || used as placeholders for sold humans. [use_as/placeholder],False,-0.13776,0.71413,0.79503,0.77448
+Yeah This Is Big Brain Time,bab0c203,image macro,41,has been used in memes [use_in/meme],False,-0.14233,0.48061,0.87029,0.87647
+Ariana Grande Licking a Lollipop,bac0e6d7,,30,was used in numerous object labeling memes in the weeks following its publication. [use_in/object],False,-0.31611,0.53963,0.93829,0.77672
+Steal Her Look  Steal His Look,bb17bd8c,image macro;parody,41,used in fashion magazines and seasonal catalogues. [use_in/fashion],False,-0.39778,0.3563,0.78348,0.77347
+Record Scratch Freeze Frame  Yep Thats Me,bb238e9e,"catchphrase, cliché, pop culture reference, sound effect",41,used in 4chan greentext stories. [use_in/greentext],False,-0.18077,0.61921,0.86271,0.89515
+Juan  Horse On Balcony,bb65ba91,"animal, exploitable, image macro, photoshop",31,has been used in various image macros and photoshops since at least 2015 [use_in/image],False,-0.24595,0.51639,0.91339,0.88171
+That Escalated Quickly,bbe192f5,,70,used in response to a remark or a situation that has quickly gotten out of hand. [use_in/response],False,-0.08907,0.67686,0.93453,0.88885
+Bronze Medal,bc2f75bb,exploitable;image macro;reaction,39,typically used as an object labeling macro with the bronze-medal winner being labeled as different things and the first-place and second-place winners labeled as someone or something who actually deserves the admiration or recognition. [use_as/object],False,-0.32341,0.58148,0.92435,0.87117
+Thats Racist,bc548d3b,,69,often used in jest to point out the politically incorrect or racially insensitive nature of a post or comment online. [use_in/jest],False,-0.10223,0.7431,0.92185,0.91505
+Woody Holding Sora Back,bc59f5f8,exploitable;image macro;pop culture reference,20,used in various video memes. [use_in/video],False,-0.21742,0.60319,0.94187,0.86054
+Unsheathing the Sword,bcafe91e,exploitable,31,has been used as an exploitable [use_as/exploitable],False,-0.10353,0.70353,0.95914,0.92907
+Bongo Cat,bd144008,image macro;remix;viral video,20,has been used in various remix videos to make it appear as though the cat is playing along to different songs. [use_in/remix],False,-0.22642,0.66817,0.95696,0.8813
+Ay Tone,bd7ad3ff,photoshop;pop culture reference,32,used in anti-semitic memes [use_in/meme],False,-0.17479,0.65873,0.92455,0.88123
+This Little Maneuvers Gonna Cost Us 51 Years,bda5288b,"image macro, reaction",26,has been used in a series of reaction image macro to express great consequence. [use_in/series],False,-0.28896,0.30805,0.76684,0.80073
+SpongeBobs Wallet,bdb667f7,image macro,35,used as a variant of the Futurama meme Shut Up And Take My Money! [use_as/variant],False,-0.34451,0.38467,0.90519,0.8799
+Its Morbin Time,be87c119,catchphrase,91,has been used as titles in numerous Morbius memes on Reddit [use_as/title],False,-0.09313,0.77931,0.90918,0.91978
+It Will Be Fun They Said,befe316b,snowclone,39,typically used in image macros with the snowclone template 'X [use_in/image],False,-0.27915,0.41851,0.87198,0.9179
+Groyper,bf186857,exploitable,44,are commonly used as profile avatars among the alt-right and new right on Twitter and the alternative social networking service WrongThink. [use_as/profile],False,-0.14174,0.82945,0.96354,0.91566
+Nico Nico Nii,bf1e5b95,catchphrase,37,used as a source in YTPMVs or MAD videos [use_as/source],False,-0.20714,0.65876,0.90603,0.84331
+Why Is It When Something Happens Its Always You Three,bf46a07c,image macro;reaction,44,has been used for various jokes indicating blame for various faults. [use_for/joke],False,-0.2588,0.47528,0.89983,0.9301
+Dafuq,bfe3829c,"catchphrase, image macro, reaction, slang",100,has been used in memes [use_in/meme],False,-0.05743,0.88654,0.97906,0.94707
+Can a Robot Write a Symphony,c02bab02,image macro,30,has been used in a series of memes usually captioning the response of actor Will Smith as a punchline. [use_in/series],False,-0.30917,0.56503,0.90107,0.91943
+Peter I Told You,c02c806b,exploitable;image macro;photoshop;pop culture reference,24,used as an NFT art piece [use_as/nft],False,-0.32035,0.52756,0.86749,0.87548
+Strongest Man vs Weakest Man,c09bbdd5,snowclone,44,is used as ironic praise or insult towards a country or a group. [use_as/praise],False,-0.39892,0.32815,0.81277,0.8394
+Its Showtime,c0b3f947,image macro,33,has been used in image macros featuring the quote as a punchline to various jokes about preparing for danger. [use_in/image],False,-0.14211,0.56755,0.93546,0.90326
+Pepperidge Farm Remembers,c1250665,catchphrase;image macro,39,used in an advertisement for the commercial bakery Pepperidge Farm. [use_in/advertisement],False,-0.23599,0.39105,0.81685,0.72701
+Fuck Logic,c12fc52c,,100,used as a sarcastic response to another person's statements or actions. [use_as/response],False,-0.08566,0.88877,0.95518,0.94128
+Thats How Mafia Works,c14400e8,"advertisement, catchphrase",41,is commonly used as an ironic meme caption [use_as/meme] || often used in conjunction with Mafia City memes [use_in/conjunction],False,-0.27787,0.48599,0.87991,0.90064
+If You See This Image While Scrolling  You Have Been Visited By,c15d8a66,exploitable,100,Used in forums like 4chan [use_in/forum],False,-0.24081,0.48945,0.92615,0.91991
+Nathan,c161fb2d,slang,32,used as a derogatory term to describe those who dislike 'mumble' rap and express preference for rappers which they consider lyrically or technically superior [use_as/term],False,-0.07343,0.77781,0.93052,0.87831
+Tier Lists,c22f88a8,exploitable,80,used as modes of parody [use_as/mode],False,-0.13758,0.61069,0.92173,0.80694
+Sapiosexual,c33d020c,,24,used in mainstream media following OKCupid's change in identity options on user profiles. [use_in/mainstream],False,-0.12282,0.70357,0.89513,0.90962
+April No,c340e7c1,image macro,24,has been used in an image macro series about April 2020. [use_in/image],False,-0.30606,0.47399,0.85454,0.85622
+Bronns Id Fuck Her,c3540a00,"image macro, pop culture reference",26,has been used in image macros and reaction images to express attraction. [use_in/image],False,-0.4301,0.44796,0.82041,0.88444
+Mini Keanu Reeves,c38d59e6,exploitable,33,used as an exploitable. [use_as/exploitable],False,-0.21275,0.58748,0.94352,0.85839
+Netflix and Chill,c3b76e22,"hashtag, image macro, slang",100,is often used in image macros and as a hashtag on social media. [use_in/image],False,-0.18194,0.51153,0.90479,0.93454
+Nobody Is Born Cool,c3f1bfc1,exploitable,41,has been used as an exploitable. [use_as/exploitable],False,-0.30185,0.26808,0.80959,0.81828
+Feel Old Yet,c44581b2,image macro,100,often used in image macros featuring photographs of celebrities past their prime or pop culture trivia that evoke feelings of nostalgia for the reader [use_in/image],False,-0.36048,0.24745,0.83426,0.90233
+LOL,c4d7eb48,slang,40,used in messages to convey laughter. [use_in/message],False,-0.15641,0.71605,0.95385,0.93319
+Spunch Bob,c5062b1d,copypasta;parody;slang,28,has been used in shitposting memes on Twitter and other social media sites. [use_in/meme],False,-0.43434,0.37374,0.88666,0.84621
+In a Nutshell,c514de0f,,35,is often used as a phrasal template to summarize a particular topic or event in a concise manner. [use_as/phrasal],False,-0.08406,0.81798,0.962,0.94654
+Just Dropped Down to Say,c5374dd8,image macro;snowclone,26,used in tandem with an ASCII Art helicopter featuring a character who expresses an opinion led by the phrase 'just dropped down to say.' [use_in/tandem],False,-0.1237,0.57999,0.89341,0.84175
+Will You Shut Up Man,c5a7b231,"catchphrase, exploitable, image macro, reaction",41,is used as an exploitable image macro series to express annoyance or irritation [use_as/image],False,-0.17673,0.67779,0.91496,0.88108
+King Harkinian,c5dccb84,character,43,used in YouTube Poops. [use_in/youtube],False,-0.22864,0.68649,0.97074,0.91574
+Monika TPosing Over Sans,c66f66f1,exploitable,37,has been used as an object labeling meme [use_as/object],False,-0.31148,0.50965,0.93798,0.87544
+WAGMI  NGMI,c69831cd,catchphrase,32,used in 4chan and adjacent communities to show comradery and a willingness to keep going in life. [use_in/community],False,-0.20799,0.59372,0.89828,0.93658
+Why Is It Called The Restroom I Am Literally Fighting For My Life In Here,c6b11b94,catchphrase;image macro,26,most often used in image macros depicting a person in agony on the toilet [use_in/image],False,-0.37979,0.25912,0.75161,0.83776
+Donald Trump Staring at the Eclipse,c6c6dc1d,reaction,32,was used in numerous memes. [use_in/meme],False,-0.11954,0.62866,0.91296,0.87673
+The D,c7379829,slang,91,is often used as an euphemism for requesting intercourse [use_as/euphemism],False,-0.08788,0.82479,0.94349,0.92833
+Im Baby,c786d4d9,catchphrase,30,used as a shitpost on a variety of websites [use_as/shitpost] || used as a term of endearment and an expression of a desire for comfort. [use_as/term],False,-0.21179,0.43858,0.84241,0.87718
+Ellen Baker New Horizon,c7a7f84a,character,100,used for English-language education in middle schools. [use_for/language],False,-0.08745,0.71645,0.96112,0.80162
+Its A Trap,c7c96419,catchphrase;pop culture reference;reaction,91,are used in a variety of ways online [use_in/variety],False,-0.17349,0.59166,0.91127,0.86735
+Your Jordans Are Fake As Fuck,c8277136,catchphrase;image macro,30,used in a series of image macros in which one character tells the other their Jordan sneakers are fake. [use_in/series],False,-0.45003,0.2243,0.7533,0.85783
+Girl Crying Next to a Kissing Couple,c90c49ba,exploitable,62,used in memes [use_in/meme] || was used in a similar fashion starting in 2019. [use_in/fashion],False,-0.08718,0.80584,0.9737,0.90609
+Jeff the Killer,c9c8aa3f,"character, cliché, creepypasta, fan art, hoax, image macro, photoshop",47,used as a popular Internet Screamer along with becoming a largely popular creepypasta story. [use_as/internet],False,-0.15503,0.64925,0.93797,0.85862
+Dimitar Savatinov Lifting Giant Stone,ca341120,image macro;pop culture reference,32,has been used as both an image edit and an object labeling series. [use_as/image],False,-0.19145,0.70519,0.90436,0.88872
+If Those Kids Could Read Theyd Be Very Upset,ca4b5b0b,exploitable;image macro,41,has been used in an exploitable image macro series to mock the intelligence of the audience because of their beliefs (similar to That Sign Can't Stop Me Because I Can't Read). [use_in/image],False,-0.2624,0.42706,0.89123,0.86564
+We Should Improve Society Somewhat,ca5385b6,exploitable,41,used as a retort to people who imply one can't make complaints about capitalism or other aspects of social life while participating in those systems. [use_as/retort] || used as an exploitable. [use_as/exploitable],False,-0.15306,0.60373,0.91523,0.8337
+El Wiwi,cb1c6123,animal;character;exploitable;participatory media,21,was used in a popular Spanish image macro [use_in/image],False,-0.25765,0.53924,0.91186,0.8659
+Super Smash Bros 4 Character Announcement Parodies,cb212ed9,,100,is used in very similar ways to A Challenger Appears and the 'Super Smash Bros. Challenger Approaching' screens. [use_in/way],False,-0.24572,0.52087,0.9086,0.88639
+Bloomer,cbab82d9,character,39,is often used in contrast to Doomer as an example of a person who moved past an unhealthy lifestyle and depressed state by learning to love and accept themselves and finding motivation. [use_in/contrast],False,-0.08492,0.35433,0.87447,0.81491
+Bro,cbe8a7cf,,35,used as a prefix to associate any activity with stereotypical frat boy or guido subcultures. [use_as/prefix],False,-0.12464,0.81364,0.9281,0.90928
+Schoolgirl Spilling Her Lunch  Arigatou Obamasan,cc94368c,image macro;reaction;remix;snowclone,20,has been used in a variety of image macros and remixes throughout the years. [use_in/variety],False,-0.27746,0.35394,0.91388,0.84271
+Ugandan Knuckles,cca60180,character,100,is often used as an avatar by players in the multiplayer game VRChat who repeat phrases like 'do you know the way' or 'do you know da wae' and memes associated with the country Uganda [use_as/avatar],False,-0.06048,0.8531,0.97031,0.92061
+Monkey Sees Action  Neuron Activation,ccee4a93,exploitable,37,has been used as an exploitable [use_as/exploitable],False,-0.65816,0.23485,0.71935,0.80914
+Your Tears are Delicious,cdbb3fc9,,56,often used in online conversations as a retort to petty grievances or complaints [use_in/conversation],False,-0.15698,0.62539,0.86045,0.90161
+Showing Grandma My Shiny Dusknoir,cddb7654,"exploitable, photoshop, pop culture reference",29,is used as an exploitable and photoshopped into other pictures or memes [use_as/exploitable],False,-0.10252,0.33043,0.93764,0.89267
+Bazinga,cdfd75e8,catchphrase,100,is used in a similar manner by fans of the show. [use_in/manner],False,-0.07946,0.8185,0.96175,0.88694
+Sportsball,ce362852,"catchphrase, slang",37,is typically used in a derogatory manner by those who either dislike or has little interest in sports fandom. [use_in/manner],False,-0.1231,0.71598,0.86123,0.85443
+One Does Not Simply Walk Into Mordor,ce3a7d6c,catchphrase;pop culture reference;snowclone,100,are often used in image macros featuring Mordor [use_in/image],False,-0.29713,0.43709,0.82271,0.88725
+Copium,cf5d22e5,slang,39,used in a meme featuring Pepe the Frog hooked to an oxygen tank labeled 'copium.' [use_in/meme],False,-0.22997,0.74872,0.8926,0.87193
+Im Literally Neurodivergent and a Minor,d0384b74,catchphrase;exploitable,41,typically used in ironic memes as an excuse for reckless or criminal behavior [use_in/meme],False,-0.27999,0.46117,0.88442,0.91382
+The Face You Make,d11b781b,,24,often used in green text stories on 4chan. [use_in/text],False,-0.22607,0.32182,0.89253,0.89487
+I Came Here To Laugh At You,d19d7d83,,36,typically used as a mocking insult in reaction image of smugly smiling characters in sunglasses. [use_as/insult],False,-0.28279,0.31669,0.80403,0.88262
+Aaaaaaaa,d1a43367,"catchphrase, copypasta, photoshop, reaction",74,are often used as either a shock reaction or in a shitposting manner to derail threads. [use_as/shock],False,-0.35513,0.55668,0.89375,0.88129
+Guillotine,d1f89ef3,image macro;reaction,51,are typically used in the discussion of class wars and references to the apparatus are made in reaction to tone-deaf actions or statements from those with a high income. [use_in/discussion],False,-0.13913,0.74775,0.94019,0.93177
+Shitting Toothpaste  Pooping Toothpaste,d25c06a2,character;exploitable;image macro,24,was used as an additional punchline in another image before appearing in memes over the following years. [use_as/punchline],False,-0.34036,0.44564,0.9247,0.85748
+Two Guys On A Bus,d2fd2e6c,exploitable;image macro,100,was used as a meme template on Twitter and Reddit [use_as/meme],False,-0.10222,0.80699,0.96115,0.88221
+I Dunno LOL ¯°o¯,d36b80aa,,60,used as the superlative form of the standard 'surprised face' (O_o) [use_as/form],False,-0.23915,0.54464,0.87202,0.89811
+Triggered Feminist,d453b57f,character;exploitable;photoshop,20,are often used in image macros [use_in/image],False,-0.22588,0.18902,0.95267,0.90422
+I Hope You Step on a LEGO,d4f30c95,,55,often used as a retort in rage comics and reaction images to express one's resentment towards someone who has done something unpleasant as to deserve punishment or ill-fortune [use_as/retort],False,-0.06222,0.75929,0.93874,0.89079
+Look What They Need to Mimic a Fraction of Our Power,d575ced2,image macro;reaction,33,used as an image macro in early May 2021 [use_as/image],False,-0.24794,0.52382,0.9161,0.83969
+Meta Banner Behind Mark Zuckerberg,d59ddea7,exploitable;photoshop,22,is used as an exploitable in memes by photoshopping various images onto the billboard [use_as/exploitable],False,-0.45736,0.57875,0.86705,0.74447
+Im Already Tracer,d59f7ed2,"parody, song, viral video",32,was used in a series of lip dubbed TikTok Duet videos. [use_in/series],False,-0.22998,0.46623,0.85818,0.89835
+Yakub,d624c126,character;conspiracy theory;viral debate,53,is often used as a reference in memes depicting him found online. [use_as/reference],False,-0.10052,0.80609,0.87737,0.83895
+Testicular Torsion,d64eef48,exploitable;image macro,34,used in memes that showed characters [use_in/meme],True,-0.16454,0.707,0.94761,0.90515
+Dat Ass,d659a53c,catchphrase;image macro;reaction,99,used as a popular response to rump threads. [use_as/response],False,-0.19578,0.65626,0.9271,0.91103
+He Does Exactly What I Do But Better,d6885cc9,exploitable;image macro;photoshop;snowclone,32,is used as an exploitable image macro to show one object or thing saying that something else is exactly like it [use_as/image],False,-0.51815,0.1788,0.76381,0.8526
+You Guys Ever Had Gay Thoughts Lmao,d6a26291,catchphrase;image macro,28,has been used as a non-sequitur reply to official social media posts by Better Call Saul since October 2021 and achieved virality on Twitter in late April 2022. [use_as/reply],False,-0.41289,0.35702,0.87193,0.83875
+Doomer Boy  EBoy Wojak,d6a79a64,character;exploitable,65,used in Wojak Comics. [use_in/wojak] || used in combination with Yes Chad and other characters to present a sexual dynamic. [use_in/combination],False,-0.12675,0.79659,0.97742,0.88615
+Hes Out Of Line But Hes Right,d765b596,exploitable;image macro;reaction,37,is used in tandem with an image of Baron Zemo [use_in/tandem] || is used as an exploitable image macro [use_as/image],False,-0.31522,0.33997,0.84733,0.85645
+OMG a Hit Tweet,d7835767,exploitable;image macro;reaction,29,used in various redraws. [use_in/redraw],False,-0.34299,0.32181,0.81633,0.85911
+Scorpion and Frog,d7bafa98,exploitable,28,has been used as an exploitable image macro in which the Frog is the sympathetic one and the Scorpion is the aggressor [use_as/image],False,-0.45392,0.29495,0.70595,0.8474
+Meme Lord  Meme Master,d7e7990a,,73,is often used as a synonym.[7] [use_as/synonym.[7],False,-0.07809,0.83333,0.91819,0.84505
+Bad Acronyms,d904d998,"parody, photoshop",81,used in shitposts. [use_in/shitpost],False,-0.09551,0.78249,0.95162,0.94159
+Gnomepill,d939f7dc,participatory media;slang,22,used in the meaning 'to reveal the truth that gnomes exist [use_in/meaning],False,-0.184,0.68817,0.91247,0.87528
+IDGAF,d97563a6,catchphrase;slang,27,has been used in internet text speech since at least 2003 [use_in/internet],False,-0.14031,0.75485,0.96146,0.94823
+Youre in a Cult Call Your Dad,da0a6c9d,catchphrase,20,is commonly used in memes [use_in/meme],False,-0.34667,0.53534,0.84961,0.82959
+The Exact Moment Walter White Became Heisenberg,dad94d06,cliché;parody;snowclone,24,used for memes with characters from other series and in YouTube comments. [use_for/meme],False,-0.22084,0.47782,0.78333,0.86675
+Dont Worry Im From the Internet,dadcf0ee,,39,is typically used in message boards to reassure people that unordinary things are acceptable on the Internet [use_in/message],False,-0.31793,0.3727,0.80818,0.85623
+Trashcat Is Not Amused,db2c5394,,95,are typically used in discussion forums and imageboards to express one's verdict over the quality of previous post. [use_in/discussion],False,-0.24054,0.42091,0.82056,0.87191
+Only At Miller Grove,db43a004,"catchphrase, image macro",26,used in various memes and image macros to express either the absurdity of a location or the exaggeration of absurdity. [use_in/meme],False,-0.28457,0.50453,0.85068,0.81996
+MyersBriggs Type Indicator MBTI,dc4b712e,,41,is often used as a template for personality questionnaires in the realm of fandoms [use_as/template],False,-0.04792,0.70073,0.90678,0.85265
+We Are Not the Same,dc7c63b5,catchphrase;image macro,100,has been used in memes that parody self-aggrandizing comparisons [use_in/meme],False,-0.20856,0.49608,0.91881,0.91242
+It Smell Like Bitch In Here,dc9d9de3,"exploitable, image macro, photoshop, reaction",33,is typically used as an object labeling meme to show how someone or something is superior with the person yelling labeled as the former and the seated people labeled as the “inferior” objects. [use_as/object],False,-0.21755,0.58411,0.88664,0.88859
+I Must Go,dceecfbe,,85,often used in image macros that typically features subjects posed in mid-air. [use_in/image] || is used as a comedic device to dramatize images [use_as/device],False,-0.41596,0.31475,0.85277,0.87844
+Selfie,dd712cef,,84,is commonly used as a hashtag on photo-sharing communities to indicate that the subject in the photo is the uploader himself or herself. [use_as/hashtag],False,-0.0655,0.8867,0.95115,0.92818
+You Dare Use My Own Spells Against Me,ddc7732a,"image macro, reaction",35,used in a series of reaction image macros expressing the feeling of having one's own tactics used against them. [use_in/series],False,-0.25786,0.4044,0.80794,0.83403
+Robotnik Pressing Red Button,ddfea656,exploitable;image macro,44,is typically used in conjunction with the top panel of the Daily Struggle meme [use_in/conjunction],False,-0.21955,0.61831,0.95746,0.86305
+Ew I Stepped In Shit,de10e614,exploitable,81,is usually used in the context of discussions of media like anime or video games [use_in/context],False,-0.29859,0.29204,0.82135,0.87542
+NWord Cat,de4e213d,animal,23,used as a dogwhistle for the slur [use_as/dogwhistle],True,-0.15411,0.6231,0.95176,0.93924
+Looksmaxxing,de658bb4,slang,29,used in incel and male subcultures [use_in/incel],False,-0.13394,0.66998,0.95443,0.95805
+Nervous  Horny  Death Grip,df377c27,exploitable;image macro;photoshop;reaction,24,used in 2018 on Tumblr and saw a resurgence in 2021. [use_in/tumblr],False,-0.26451,0.50324,0.89153,0.86813
+Tyler The Creators CyberBullying Tweet,df762108,copypasta;exploitable;image macro,35,is often used as a copypasta. [use_as/copypasta],False,-0.30379,0.3889,0.86345,0.84651
+The Feet Pics Darling,dfd2e9a7,copypasta,32,used as a caption to characters creepily smiling [use_as/caption],False,-0.20613,0.56701,0.9378,0.94284
+X X Everywhere,e0b09171,,100,typically used for a wide range of cultural references [use_for/range],True,-0.49784,0.40663,0.88234,0.91337
+How Do I Shot Web,e0e5a6bc,,100,is typically used in online conversations to poke fun at n00bish behavior. [use_in/conversation],False,-0.27036,0.26444,0.86162,0.89247
+HandsFree Bubble Tea  Tapioca Challenge,e1261de7,"fan art, hashtag, participatory media",40,used for images of people or fictional characters balancing bubble tea or other drinks on their chest while drinking it [use_for/image],False,-0.27213,0.59214,0.95407,0.75495
+You Know What Im Just Gonna Say It,e17049cc,exploitable;image macro;reaction,30,used as an image macro with the top text typically captioned 'You know what? [use_as/image],False,-0.20027,0.3934,0.89556,0.9094
+But Can He Beat Goku,e1933639,catchphrase;parody;snowclone;viral debate,53,used as exploitable [use_as/nan],False,-0.15468,0.60608,0.83526,0.87392
+Dr Phil MM,e1bcca50,character,27,used in videos by YouTuber Sethical. [use_in/video],False,-0.25357,0.57992,0.95668,0.86027
+Pablo Why Arent We Alive,e1ddd21f,image macro;reaction,27,has been used as the punchline to jokes about death and exhausted trends. [use_as/punchline],False,-0.19896,0.62274,0.92041,0.90121
+He Ruined My Dream Journal  Mr Electric Send Him to the Principals Office,e236046d,"catchphrase, exploitable, image macro, pop culture reference",37,is used in various posts on Tumblr and remix videos on YouTube. [use_in/post],False,-0.30128,0.58391,0.86649,0.88934
+I Know That Feel Bro,e27a8140,slang,100,has been used as an exploitable character and is often seen in 'that feel when' (TFW) threads on image boards [use_as/character],False,-0.10458,0.72106,0.90408,0.93167
+Content Aware Scaling,e280cb7b,visual effect,24,used to create animated GIFs in which the subject is warped and distorted within the frame. [create/gifs],False,-0.18031,0.63609,0.94694,0.90507
+Think Mark,e2fdb454,exploitable;pop culture reference;snowclone,100,Used as an exploitable image macro [use_as/image],False,-0.0806,0.75527,0.9801,0.88768
+We Used To Be A Country A Proper Country,e31378a0,catchphrase,44,used in an anti-vax context [use_in/context],False,-0.32838,0.62558,0.84574,0.84108
+GOD FUCKING damnit KRIS where the FUCK are we,e391cc28,exploitable,100,used in exploitable photoshop memes that depict Deltarune characters Kris and Susie in other video games. [use_in/photoshop],False,-0.19212,0.53159,0.84554,0.81184
+The World Is Healing,e399b7b4,catchphrase,24,used in memes and tweets that identifies a situation that proves the Earth and mankind are becoming baseline again. [use_in/meme],False,-0.14723,0.66317,0.93187,0.91285
+Some Men Just Want to Watch the World Burn,e45db275,,100,is often used as an ironic caption in image macros featuring a rude gesture [use_as/caption],False,-0.30315,0.32418,0.77891,0.87338
+Whomst Has Awakened The Ancient One,e516aef4,image macro;reaction,35,used in the Cha Cha Real Smooth meme. [use_in/cha],False,-0.22402,0.5863,0.91061,0.89903
+Expression Memes,e530d249,,40,are often used as references for fan artists learning how to draw facial expressions. [use_as/reference],False,-0.17763,0.70695,0.91043,0.78593
+Are You Serious Face  Seriously,e53de56c,reaction,32,is often used in rage comics. [use_in/rage],False,-0.07878,0.76967,0.96638,0.84186
+Boku no Pico,e63cce82,shock media,24,often used as a troll suggestion to anime newcomers and as a shock video. [use_as/troll],False,-0.13338,0.60132,0.92984,0.90509
+Soy Boy,e69262d8,slang,27,is often used in right-wing online communities to describe men lacking masculine characteristics [use_in/wing],False,-0.07431,0.74796,0.95111,0.9192
+Harp Darp  Herp Derp,e6b85d3f,,100,used as a placeholder for things that cannot be recalled in online conversations. [use_as/placeholder],False,-0.0235,0.8141,0.95192,0.79534
+How Do You Do Fellow Kids,e6d34ebc,catchphrase;photoshop;reaction,99,is often used in conversation without the image. [use_in/conversation],False,-0.12297,0.67528,0.94831,0.95147
+Why Are You Gay,e7a50e5a,viral video,41,were used in remixes and as image macros. [use_in/remixe],False,-0.39307,0.41172,0.87137,0.88739
+My Little PogChamp,e7ca5529,catchphrase;viral video,91,used in memes in which various characters address the viewer in an endearing manner [use_in/meme] || used for bait-and-switch videos. [use_for/bait],False,-0.15397,0.46924,0.86277,0.87417
+I Have Crippling Depression,e83612c4,catchphrase,29,has been used in forum weapons [use_in/forum],False,-0.29354,0.42252,0.88317,0.91408
+Duck  Chick With Knife,e89f2b6b,image macro;photoshop,34,is used in image macros [use_in/image],False,-0.19889,0.57249,0.93621,0.83753
+3 Stages of a Real Nigga,e8c9eac8,exploitable;image macro,38,used in memes in 2018 [use_in/meme],True,-0.50455,0.21931,0.77474,0.81038
+You Just Activated My Trap Card,e8ca55da,catchphrase,55,is typically used as a warning from one person to another that something malicious is about to occur or someone is about to get owned. [use_as/warning],False,-0.09414,0.76244,0.90956,0.86434
+I Can Be Your Angle Or Yuor Devil,e8ecf8a2,catchphrase,41,used in combination with two-pane images highlighting two opposite sides of a fictional character or individual that are typically posted on Reddit [use_in/combination],False,-0.50524,0.28966,0.75166,0.87289
+Concerned Special Forces Guy,e96baeea,exploitable,28,has been used as a meme template [use_as/meme],False,-0.32153,0.63227,0.93759,0.83991
+Bees Are Dying at an Alarming Rate,e9b85cf4,catchphrase,22,often used as a non-sequitur image caption on Twitter in reference to news stories regarding drastically declining honey bee populations around the world. [use_as/image],False,-0.22354,0.55706,0.87489,0.88292
+Clenches Fist,e9e90dc1,,42,used in online conversations to convey a sudden rush of intense and typically undesirable feelings [use_in/conversation],False,-0.09298,0.70918,0.96247,0.92135
+SpongeBob I Fucking Love X,ea375a43,"exploitable, image macro, snowclone",60,has been used in precursor meme formats like He Don't Miss [use_in/precursor],False,-0.13333,0.55359,0.8983,0.8832
+This Is Sparta,ea453aa4,,100,usually used in images that parody the scene from the film 300 where the main protagonist Leonidas [use_in/image],False,-0.14819,0.5997,0.95232,0.91838
+Bush Did 911,eae83f41,,37,often used in jest to implicate the former United States president George W. Bush as the perpetrator behind the September 11th [use_in/jest],False,-0.14888,0.71998,0.9393,0.92607
+You Mustnt Be Afraid To Dream A Little Bigger Darling,eaf5fc8b,exploitable;image macro,28,is used as an exploitable image macro series and object labeling macro to depict one-upping something or to show when an initial attempt is lackluster and that a more extreme or intense option should be done instead to comic effect. [use_as/image],False,-0.27153,0.37492,0.88361,0.82947
+Tasque Manager,eb21ac9b,character;fan art;pop culture reference,100,used as an exploitable in various memes or recreated in numerous fan art depictions. [use_as/exploitable],False,-0.1256,0.63545,0.96023,0.71922
+Yeah We Gay Keep Scrolling,eb80b582,catchphrase;exploitable,34,used in memes and fan art depicting two same-sex people or fictional characters hugging and pointing weapons at the camera. [use_in/meme],False,-0.51276,0.54448,0.87886,0.88765
+On My Way to Steal Yo Girl,eba7ef5d,,35,is used in a similar fashion to the expression Swiggity Swooty [use_in/fashion],False,-0.34121,0.30961,0.87113,0.90921
+You Dare Oppose Me Mortal,ec05c7c4,image macro,35,has been used as the punchline to jokes about reacting to insolence or disagreements. [use_as/punchline],False,-0.26991,0.38057,0.87656,0.85607
+But Im Nothing Without This Suit,ec57dad3,catchphrase;image macro,28,has been used in a variety of memes that make jokes on the film [use_in/variety],False,-0.29087,0.41798,0.89885,0.91839
+Dress Go Spinny,ecc7bbf2,catchphrase,28,used in the LGBTQIA+ community. [use_in/lgbtqia+] || is used as a tongue-in-cheek way to deflect criticism or inquiries as to why a trans woman transitioned [use_as/tongue] || is used in the Wojak template. [use_in/wojak],False,-0.2076,0.53192,0.85362,0.85741
+Stop Right There Criminal Scum,ed16eb71,"catchphrase, copypasta",36,is used as an interruption-type meme. [use_as/interruption],False,-0.24535,0.47908,0.85939,0.86794
+WTF Is This Shit,ee14f9ae,image macro,75,used in various image macros where a character looks confused. [use_in/image],False,-0.36909,0.31242,0.84216,0.89168
+Marsey the Cat,ee2202f5,animal;character,100,used as an emote. [use_as/emote],False,-0.14432,0.54978,0.97295,0.85589
+Wololo,ee59e339,,23,is used as a taunt and an interrupter [use_as/taunt],False,-0.25861,0.623,0.92303,0.88308
+Iceberg Tiers Parodies,eeaa6e21,"exploitable, image macro",99,are often used in the context of imageboards like 4chan to ridicule outsiders [use_in/context] || is typically used as an exploitable meme format with object labeling captions added in descending order the deeper you go. [use_as/meme],False,-0.10406,0.6644,0.90199,0.79495
+Bone Tiddies,eee05f76,,24,used in reference to an image of two fake skeletons laying next to each other and one has bones shaped like breasts to show that the skeletons belonged to a man and a woman. [use_in/reference],False,-0.2808,0.69901,0.87986,0.83441
+Parkour The Office,ef12493b,image macro,41,has been used as a reference to extremely rapid changes. [use_as/reference],False,-0.32641,0.39474,0.85565,0.83968
+Now Kiss,efd3887f,,50,used for the Fap Guy often found in rage comics. [use_for/fap],False,-0.31582,0.27275,0.84838,0.87018
+Antonymic Misinterpretation  X Implies the Existence of Y,f0908ece,parody;slang;snowclone,73,used in the meme are 'casual' and 'competitive [use_in/meme],False,-0.21818,0.60291,0.93422,0.9067
+George Bush Learning About 911,f0a3c8f0,exploitable;image macro,58,has been used in image macro and caption memes in which Bush is notified about various unpleasant developments [use_in/image],False,-0.15393,0.65651,0.93537,0.78687
+Moetron,f0a94d40,,22,used to create her [create/nan],False,-0.21842,0.50304,0.93779,0.77825
+Squidward Looking Out the Window,f0b1a38d,reaction,31,has been used in situations where one is jealously observing others having fun but can't participate themselves. [use_in/situation],False,-0.31299,0.44941,0.92011,0.88076
+Im Respecting Your Privacy By Knocking But Asserting My Authority As Your Paren,f0b8594a,catchphrase;exploitable;image macro;photoshop,26,used in many memes illustrating a situation where a party imposes itself upon another [use_in/meme],False,-0.25224,0.38598,0.91211,0.87639
+Dub Bossman,f1669200,"character, slang",79,used in the context of calling the person who collected the win 'bossman [use_in/context],False,-0.15404,0.75395,0.88619,0.84303
+Buzz Lightyear In A Suit,f17e6a5b,character;cliché;image macro,24,often used as a profile picture [use_as/profile],False,-0.20617,0.51072,0.92935,0.86011
+Anime Profile Pictures,f2c08a9e,cliché,41,used as default profile pictures on various social media platforms online. [use_as/default],False,-0.15272,0.60988,0.87086,0.91505
+Spoons Rattling,f322f543,,29,used in shitposting in communities like iFunny and Tumblr. [use_in/community],False,-0.20725,0.47258,0.92917,0.90226
+The Casting Couch,f334344d,,22,often used as a set prop in adult films wherein a woman is interviewed for an acting or modeling position in an office room. [use_as/prop],False,-0.16765,0.6268,0.95605,0.87949
+600 Likes vs 15 Likes,f34d8992,exploitable,29,was used in numerous Yuri Gatekeeping edits and exploitable edits. [use_in/yuri],False,-0.27172,0.42497,0.91614,0.87071
+The Critically Acclaimed MMORPG,f38167e7,advertisement;copypasta,20,used as a copypasta meme to promote and ask about the Final Fantasy XIV free trial. [use_as/copypasta],False,-0.18742,0.54928,0.77912,0.82248
+That Post Gave Me Cancer,f38fe57b,catchphrase;snowclone,38,usually used in the comments to various posts [use_in/comment] || has been used as a metaphor for poor quality content on 4chan's /b/ and other boards. [use_as/metaphor],False,-0.14776,0.56527,0.88212,0.87135
+Upgrades People Upgrades,f3de9cd9,image macro,41,has been used in memes [use_in/meme],False,-0.21404,0.41199,0.84576,0.8454
+Today I Will Eat Two Corn Dogs,f4827e92,catchphrase;exploitable;image macro,22,typically used in a meme showing a shouting skeleton (or grim reaper) holding two corn dogs with a bottom caption that states it will be eating both of them. [use_in/meme],False,-0.35312,0.50066,0.88674,0.86924
+My Ancestors Are Smiling At Me,f49fa257,catchphrase,37,has been used as the caption for various images of people about to be decapitated. [use_as/caption],False,-0.32878,0.32065,0.78134,0.84694
+My Disappointment Is Immeasurable And My Day Is Ruined,f4b79991,"copypasta, reaction",41,was used as a copypasta expressing disappointment. [use_as/copypasta],False,-0.254,0.26562,0.85501,0.87489
+Mom Would Be Sad,f4dc4811,slang,34,often used in jokes and memes about suicide and depression. [use_in/joke],False,-0.14234,0.66553,0.91772,0.93378
+On Wednesdays We Wear Pink,f5ae9c4c,catchphrase;image macro;pop culture reference;snowclone,23,is used as a simple image macro meme depicting Seyfried's character and the line to remind people that it is Wednesday [use_as/image] || used as a phrasal template with people swapping out various parts of the quote [use_as/phrasal] || used in conjunction with other random images or by itself. [use_in/conjunction],False,-0.39665,0.14614,0.69453,0.73511
+Zoot Suit Daffy Duck  Literally Me,f65f55aa,,23,used in conjunction with copypastas like Literally Me. [use_in/conjunction],False,-0.32325,0.47711,0.9474,0.81252
+Laundry Sauce,f6b2b8f1,slang,26,used in a viral tweet in the fall of 2016 [use_in/tweet],False,-0.10557,0.77091,0.94171,0.89843
+Perfectly Balanced,f70d1445,catchphrase,39,used in memes about the film [use_in/meme],False,-0.28274,0.48048,0.89028,0.87218
+I Have The High Ground,f71e3c04,catchphrase,100,is often used in Prequel Memes [use_in/prequel],False,-0.1026,0.6286,0.84972,0.87971
+Dont Look at Them Ricky,f72d13af,exploitable,41,is often used as an exploitable template to depict other transformations in a similar vein to the 'Sweet Jesus [use_as/template],False,-0.27258,0.41236,0.87812,0.82703
+Dude Chill Thats Your Girlfriend,f774685a,catchphrase;exploitable;fan art;pop culture reference,38,was used as a template for numerous redraw memes as an exploitable image macro. [use_as/template],False,-0.46186,0.37094,0.78886,0.76062
+ExtraLong Middle Fingers,fa3233e2,exploitable;image macro;participatory media;shock media,22,used as exploitables in image macro memes. [use_as/exploitable],False,-0.33275,0.4603,0.93785,0.84001
+Dragon Dildos,fa5179fc,,47,used as shock images. [use_as/shock],False,-0.08609,0.71876,0.89165,0.9055
+BRB,fac06583,,38,is typically used in instant messaging to notify others of a brief absence from the conversation in progress. [use_in/messaging],False,-0.32955,0.46139,0.92033,0.86369
+They Called Me a Madman,fac1ed44,image macro;reaction,28,has been used in a series of reaction image macros to express feelings of persistence in the face of criticism. [use_in/series],False,-0.2436,0.44597,0.79895,0.84269
+Numale,fbcba75e,slang,25,is often used as a pejorative in a similar fashion to 'beta male [use_as/pejorative],False,-0.1992,0.69792,0.92259,0.86457
+Know Your Fucking Place Trash,fde8fd02,image macro;reaction,41,used as macros and exploitables. [use_as/macro],False,-0.19173,0.54009,0.88189,0.88776
+Die Cis Scum,fdf9d534,,38,has been used as a negative slur[9] towards those who question or dislike the choices of people who identify with non-standard gender practices. [use_as/choice],False,-0.11095,0.73093,0.89367,0.89522
+You Cheated Not Only the Game But Yourself,fe1bac4c,"copypasta, parody",37,used as a copypasta [use_as/copypasta] || used in video games and lifehacks. [use_in/video],False,-0.30103,0.50766,0.84134,0.86384
+That Wasnt Me That Was Patricia,fea93058,"image macro, reaction",26,has been used as the punchline to jokes about denying responsibility for a social infraction despite overwhelming evidence. [use_as/punchline],False,-0.30477,0.30966,0.82028,0.82178
+This Bird Keeps Itself In The Air By Sheer Force Of Anger Alone,fefb96f5,image macro,29,used in association with a picture of a Loggerhead Shrike. [use_in/association],False,-0.44818,0.37523,0.86221,0.82283
+You May Live to See ManMade Horrors Beyond Your Comprehension,ffa1b378,catchphrase,41,has been used in memes including image macros and photoshops over the course of the 2000s [use_in/meme],False,-0.21247,0.56098,0.84719,0.87586

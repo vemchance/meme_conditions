@@ -171,6 +171,14 @@ cited ~4,500 was the thresholded retrieval-evaluation class count,
   fell under the 100-within-pair floor (descriptive only), so the rule
   does not fire; the composition table and the affirmative low-coherence
   results carry the selection reading. Final paper wording in chat.
+- 2026-06-12 (05B): exhibits are read-only over the 04-prepared texts, no
+  statistics. Safety flag pass (coarse by design): better_profanity 0.7.0
+  (LDNOOBW-derived wordlist) -> OFFENSIVE; KYM 'Sensitive' badge inherited
+  as UNCLEAR (the dataset has no literal NSFW badge); else SAFE. Final
+  example selection happens in chat. Shortlist binding layers: EVALUATE/
+  LABEL on POS, EXPRESS/RESPOND on content, CAPTION/STRUCTURAL/DIRECT on
+  content as the neutral default. LABEL 'labelling construction' fills are
+  matched by recorded heuristic patterns, not a claim.
 
 ## Current stage
 

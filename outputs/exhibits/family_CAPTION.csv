@@ -1,0 +1,265 @@
+title,entry_id,types,n_instances_prepared,clauses,sensitive_badge,sim_fw_centroid,sim_pos_centroid,sim_content_centroid,sim_visual_centroid
+Acceleration Yes,01016339,reaction,21,paired with captions where a person does something clumsy or silly. [pair/caption] || with captions where a person does something clumsy or silly. [caption/person],False,-0.20394,0.49345,0.89509,0.84644
+The Worst Trade Deal,024987f1,image macro,41,captioned with the phrase 'This has been the worst trade deal in the history of trade deals [caption/phrase],False,-0.20179,0.47252,0.79722,0.87749
+Now Laugh  Laugh at the Image,02b967fd,image macro;parody,40,captioned with the request to laugh in a variety of forms. [caption/request],False,-0.14645,0.6498,0.95672,0.93506
+Moon Moon,036cfb95,,91,paired with silly interior monologues in a similar vein to the Doge meme. [pair/monologue],False,-0.11207,0.61003,0.90549,0.88346
+You Dumb Bitch,03efe7e2,image macro;reaction,31,paired with the quote has been circulated [pair/quote],False,-0.18767,0.49347,0.90136,0.87938
+Mike Pence Is Race Bannon,03f448ec,image macro,39,with captions falsely identifying him as a violently homophobic version of United States Vice President Mike Pence. [caption/version],False,-0.2408,0.57368,0.79437,0.85663
+Living in 3017,05311649,,37,used to caption a photo or video of a person demonstrating some kind of unusual pattern of thinking in solving mundane problems [caption/photo],False,-0.29081,0.49798,0.89372,0.86948
+This Pleases the Nut,0562fff5,reaction,28,paired with the text [pair/text] || with captions which turn the use of 'nut' into slang for an orgasm. [caption/use],False,-0.19043,0.5115,0.84531,0.84239
+Ralph In Danger,05880e0c,"character, reaction",41,paired with captions where one might see themselves in danger. [pair/caption] || with captions where one might see themselves in danger. [caption/danger],False,-0.18925,0.4869,0.89064,0.85421
+Im About to End This Mans Whole Career,069c22e8,image macro,41,paired with the quote was circulated as an image macro in reference to situations in which one's reputation or social status could be harmed. [pair/quote],False,-0.2545,0.40988,0.90557,0.90229
+AntiMemes,071a2b76,,100,captioned with anti-jokes and meta humor mocking a variety of internet memes [caption/anti],False,-0.05733,0.83498,0.98484,0.97783
+Scumbag Brain,07ff787f,,59,with captions that describe self-conflicting psychological experiences like sudden realizations [caption/self],False,-0.12078,0.67161,0.9343,0.80332
+Musically Oblivious 8th Grader,08f9eca5,image macro,100,with captions that are blatantly misinformed about a well-known artist [caption/artist],False,-0.12839,0.64118,0.9334,0.85613
+Call of Duty Perk Parodies,09f2c5bc,,28,captioned with jokes using the name of the perk as a punchline. [caption/joke],False,-0.13102,0.75679,0.95338,0.9523
+Carl the Hedgehog,0a34dae8,"animal, exploitable",41,paired with the text explaining that the image will only be posted once. [pair/text],False,-0.26604,0.28193,0.90851,0.86916
+I Can Count to Potato,0ad327dd,,57,paired with photographs of people who appear to have been diagnosed with learning disabilities. [pair/photograph],False,-0.11508,0.68168,0.90246,0.8993
+Snail in My Ear Telling Me,0c4281db,exploitable,22,captioned with instructions from 'a snail in the ear [caption/instruction],False,-0.36264,0.32731,0.78443,0.80443
+You Should Kill Yourself Now,0cedb86c,reaction,72,paired with his quote which was directed at an alleged stream sniper. [pair/quote],False,-0.27985,0.4245,0.89977,0.88545
+Trying to Hold a Fart Next to a Cute Girl in Class,0d1ea326,reaction,37,captioned with humorous frustrations or uncomfortable situations. [caption/frustration],True,-0.27191,0.42922,0.94745,0.91984
+Oh Crap  OMG Rage Face,0e5f0b5c,,100,paired with red or white text [pair/text],False,-0.04026,0.82524,0.97917,0.89049
+Prepare Your Anus,0e78ec51,,100,often used to caption image macros featuring photographs of intimidating-looking characters. [caption/image],False,-0.26267,0.3519,0.83968,0.87861
+If It Pleases the Crown,0f738ae5,image macro,58,captioned with the phrase 'If it pleases the crown [caption/phrase],False,-0.13724,0.68174,0.91599,0.93712
+Finally Some Good Fucking Food,0fd158c7,reaction,39,paired with what appears to be inedible or gross things to eat. [pair/thing],False,-0.35029,0.32612,0.85765,0.90358
+Welcome to the Gang  Crimes Johnson,109fb9f2,exploitable,35,captioned with various humorous descriptions of their criminal acts. [caption/description],False,-0.30254,0.45076,0.84538,0.78725
+The World If,10f98189,"image macro, snowclone",41,captioned with a variation of the phrasal templates 'The world if X' and 'society if X' had happened. [caption/variation],False,-0.37767,0.44185,0.87378,0.87527
+Full of Soup Cat,1183d1b9,animal;exploitable;image macro,42,captioned with the Full of X phrasal template. [caption/x],False,-0.47629,0.19446,0.83174,0.82327
+Twice at the Same Time,11b796ac,catchphrase;image macro;snowclone,31,captioned with variations of a phrasal template that states an action was invented when the inventor attempted to 'X at the same time.' [caption/variation],False,-0.17567,0.6535,0.90642,0.92303
+He Boot Too Big For He Gotdamn Feet,11cc9abb,"copypasta, exploitable",28,paired with images of animals wearing human shoes that are clearly much larger than what they could wear. [pair/image],False,-0.45253,0.26107,0.81533,0.8222
+Shreks Cringe Compilation,12231584,image macro;reaction,100,captioned with variations of the phrase '*SNAP* Yep. [caption/variation],False,-0.11541,0.56874,0.9165,0.90056
+Lego Doctor,134c8b77,image macro,53,with captions regarding high medical bills. [caption/bill],False,-0.13604,0.70386,0.93355,0.88402
+Kung Pow Penis,150460a8,catchphrase,24,paired with images of Bernie Sanders which are inspired by to an audio shitpost on Tumblr. [pair/image],False,-0.09876,0.73114,0.89468,0.86585
+Confession Bear,155cecd7,animal,100,captioned with confessions about taboo behaviors and controversial opinions that are often kept secret for fear of being ostracized. [caption/confession],False,-0.08164,0.74031,0.94495,0.87697
+Shark In The Woods,1572ab58,animal;character;exploitable;image macro,25,paired with text captions such as 'Deep In The Missouri Woods' and 'Heard There Was Tomfoolery Here [pair/text],False,-0.14102,0.73609,0.92972,0.88655
+Splat Tim,16acb5ab,,84,captioned with the expression 'He Does It!' [caption/expression],False,-0.19636,0.67922,0.9179,0.7999
+Abandon Thread,1a979980,,98,paired with people or animals that appear as if they are attempting to flee. [pair/people],False,-0.31277,0.53559,0.88607,0.86828
+You Are Not Immune to Propaganda,1ad03947,reaction,82,captioned with the text 'You Are Not Immune to Propaganda.' [caption/text],False,-0.33377,0.32792,0.85415,0.8938
+Gay Gay Homosexual Gay  I Can Still Hear His Voice,1c24e801,catchphrase,35,paired with images of characters from popular media [pair/image],False,-0.47725,0.44212,0.79988,0.80523
+My Wifes Son,1cc231df,,41,paired with references to other memes [pair/reference],False,-0.10508,0.52298,0.9018,0.89842
+Wuss Poppin Jimbo,20045228,,28,captioned with an AAVE variation on his catchphrase from the show [caption/aave],False,-0.50573,0.49792,0.85697,0.75697
+Megyn Kelly Essentially,221a37b0,,60,captioned with dismissive statements trivializing acts of violent crime and human rights violations. [caption/statement],False,-0.33563,0.54639,0.85766,0.79925
+There Is No Queen of England,233a7539,"image macro, snowclone",39,paired with the humorously changed quote have been used as a two-panel meme format [pair/panel],False,-0.44732,0.43823,0.74592,0.83929
+Staring Animals,240efb55,"image macro, reaction",28,paired with ironic [pair/nan],False,-0.18827,0.6111,0.95336,0.92933
+The Burger King,2412fd8d,,30,paired with the caption 'where is your God now?' [pair/caption],False,-0.19504,0.64656,0.92634,0.86073
+Inhaling Seagull,24a1d0c6,,33,captioned with the word 'inhales' while the second image is typically captioned with verbose copypastas and song lyrics. [caption/word] || captioned with verbose copypastas and song lyrics. [caption/copypasta],False,-0.13403,0.65156,0.93496,0.86516
+When Your Girlfriend Has a Twin Sister,25046fb2,copypasta,28,paired with an image of a confused penguin from Madagascar. [pair/image],False,-0.32534,0.38926,0.78301,0.87257
+Millennial Falcon,25b17ed0,image macro,33,with captions voicing the issues facing Millennials. [caption/issue],False,-0.20339,0.5484,0.89162,0.8428
+Huell Rolling In Money,27ad42c7,exploitable;image macro;pop culture reference,24,with captions of people detailing how they received a small amount of money. [caption/people],False,-0.31379,0.42922,0.91743,0.84836
+Guy Tries to Impress Girl,284a1479,image macro,59,captioned with awkward mock dialogues [caption/dialogue],False,-0.12922,0.60339,0.92735,0.93562
+Nigga Thats Kawaii,29d1f9b1,,100,is often used to caption photographs of black men displaying merchandise or engaging in activities typically associated with the Otaku subculture. [caption/photograph],False,-0.07886,0.71192,0.92342,0.92871
+I Dont Even Know Who You Are,2c6f1f38,"image macro, reaction",37,captioned with the quote has been circulated as a macro and a reaction. [caption/quote],False,-0.34107,0.3389,0.83273,0.89694
+Fight Me IRL,2dbcee0b,,22,paired with Do you even lift? [pair/nan],False,-0.24253,0.27945,0.90623,0.9077
+Surprised Pikachu,2f7869f8,reaction,100,paired with captions where a set-up leads to a predictable outcome that nevertheless leaves one surprised. [pair/caption] || with captions where a set-up leads to a predictable outcome that nevertheless leaves one surprised. [caption/set],False,-0.06844,0.3103,0.96853,0.92266
+Youre a Villain Alright Just Not a Super One,2fafe821,image macro,34,paired with the quote has been used as an image macro. [pair/quote],False,-0.20618,0.49729,0.93049,0.92351
+Bro Im Straight Up Not Having a Good Time,308b0ec0,reaction,37,with captions describing an displeasurable situation. [caption/situation],False,-0.26053,0.46893,0.89624,0.86576
+Overly Manly Man,3115d85f,,100,with captions portraying the subject as an overtly masculine alpha male with misogynistic attitudes. [caption/subject],False,-0.10427,0.67036,0.95419,0.82364
+Coaxed Into a Snafu,3138c28e,,100,captioned with variations of popular Internet catchphrases. [caption/variation],False,-0.06489,0.80182,0.96609,0.88618
+Spare Coochie,316e0a9c,catchphrase;parody,26,paired with an image of the fictional cartoon character Squidward from the animated television series SpongeBob SquarePants. [pair/image],False,-0.25399,0.52157,0.88251,0.89465
+Mentally Im Here,3279396d,catchphrase;image macro,51,paired with an image to represent a person's mental state. [pair/image],False,-0.42173,0.43812,0.86126,0.80918
+Fingers In His Ass,32ac5376,song,25,paired with animations and parodied on YouTube and Tumblr. [pair/animation],False,-0.22698,0.54101,0.93626,0.88849
+Tony Use to Eat Cheeseburgers,32b6e682,exploitable;image macro;pop culture reference,28,captioned with the phrase 'Tony use to eat cheeseburgers.' [caption/phrase],False,-0.2984,0.26913,0.76516,0.83217
+JROTC Students,33b01c42,image macro,35,captioned with jokes mocking middle and high school students in the United States who are enrolled in the Junior Reserve Officers' Training Corps (JROTC) program. [caption/joke],False,-0.23811,0.56993,0.85576,0.86223
+Merry Mexican,3424ffc7,,41,with captions often including jokes about Mexican stereotypes [caption/joke],False,-0.11886,0.79146,0.96012,0.86725
+Cheesed To Meet You,35ca96b9,catchphrase,21,paired with the Pepe Mouse became popular on various websites in August and September 2020. [pair/pepe],False,-0.28033,0.2181,0.93776,0.86217
+Gonna Cry Gonna Piss Your Pants Maybe,370295b8,copypasta,41,paired with nonsensical images. [pair/image],False,-0.30973,0.32564,0.83998,0.87372
+Im Gonna Be Honest Im Kind of Retarded,37e4dec3,image macro,26,paired with the quote has been used as an image macro in reference to situations in which one's intellectual abilities could be questioned. [pair/quote],False,-0.25766,0.30488,0.87452,0.86409
+Love Is in the Air Wrong,38d4fb3b,catchphrase;exploitable;image macro,28,paired with a misattributed joke quote. [pair/joke],False,-0.44018,0.29066,0.78707,0.84543
+My Reaction To That Information,3a933716,catchphrase;reaction,22,paired with nonsensical or absurd images as a means of parodying typical reaction image memes. [pair/image],False,-0.51962,0.33731,0.77998,0.87689
+Ouhhh Husbant Now We Are Homeress,3c751660,"character, parody",70,captioned with Engrish monologue in which she accuses her husband of spending too much money on his hobby [caption/monologue],False,-0.23433,0.55218,0.92677,0.76039
+When You Skip The Game Tutorial,3dd0f66b,image macro,30,with captions joking that the subject failed to complete a video game tutorial. [caption/subject],False,-0.31407,0.47533,0.89272,0.93006
+Perhaps,3e23428b,"image macro, reaction",35,paired with the caption 'Perhaps'. [pair/caption],False,-0.20504,0.53426,0.913,0.88855
+He Wants to Order,3f9eb399,exploitable;participatory media,100,captioned with a Snapchat banner reading [caption/snapchat],False,-0.31456,0.30605,0.816,0.77807
+Didney Worl,4080cfa0,,26,captioned with the phrase “Didney Worl [caption/phrase],False,-0.24434,0.50065,0.86336,0.85223
+Jesus Christ Its a Lion Get In The Car,413f81df,,53,often used to caption image macros featuring photos of lions or other felines [caption/image] || paired with the emoticon >:3 [pair/emoticon],False,-0.28348,0.56432,0.86649,0.85815
+Those Chickens Are Up to Something,4259cbd0,image macro;reaction,33,paired with various captions. [pair/caption],False,-0.326,0.41424,0.89142,0.91439
+Still Think Its Harmless,44c238b1,parody;slang;snowclone,49,is typically used to caption images depicting obviously false or exaggerated side effects of cannabis. [caption/image],False,-0.18579,0.59402,0.93717,0.92129
+X When You Open Their Ribcage  Violent AntiMemes,45484548,catchphrase;image macro;snowclone,40,with captions about violently disemboweling or ripping open the ribcages of obsessive fans of various properties [caption/ribcage],False,-0.20927,0.48832,0.8706,0.91329
+Success Kid  I Hate Sandcastles,461a661e,image macro,99,with captions describing a situation that goes better than expected. [caption/situation],False,-0.13015,0.7093,0.97089,0.87028
+I Bet Hes Thinking About Other Women,47e921b8,image macro,77,captioned with mock internal monologues in which the woman speculates her partner is 'thinking about another woman' while the man thinks about a variety of absurd topics. [caption/monologue],False,-0.15733,0.52131,0.82594,0.89552
+Panzer of the Lake,4a35ec25,image macro,37,captioned with variations of a phrasal template that begins with the soldier asking [caption/variation],False,-0.2063,0.59109,0.88892,0.8095
+Lazy College Senior,4b56254c,,73,captioned with unmotivated statements or behaviors that are associated with burnt out college students during their final year of school [caption/statement],False,-0.11397,0.73566,0.93046,0.81524
+It Says Youre Gay,4b8259d5,exploitable,37,paired with a painting of an elder scholar pointing a book while speaking to a child to create an image macro. [pair/painting],False,-0.34654,0.3866,0.90144,0.89737
+Feminist Frank,4bc6030d,,42,with captions that typically employ a bait-and-switch format with the top caption appearing to setup a misogynistic statement followed by a bottom caption promoting beliefs associated with contemporary feminism. [caption/bait],False,-0.12457,0.61611,0.93944,0.91221
+Big Chungus,4ca5cf4b,"catchphrase, image macro",100,captioned with the phrase 'Big Chungus' and presented as a game for PlayStation 4 console. [caption/phrase],False,-0.08699,0.80079,0.93849,0.89547
+Squinting Woman,4e27d867,reaction,35,paired with various captions. [pair/caption],False,-0.18209,0.68319,0.94565,0.81944
+Name Puns,4ebcc983,,100,captioned with his or her name [caption/name],False,-0.14945,0.60405,0.95534,0.93923
+These Are Confusing Times,5072fae5,reaction,23,captioned with the quote was circulated as a reaction [caption/quote],False,-0.18912,0.66979,0.89061,0.87648
+Michael Jordans And I Took That Personally,519ab426,reaction,41,with captions describing a small slight against another party. [caption/slight],False,-0.2178,0.47153,0.92575,0.93195
+Skyrim Skill Tree,521a88d3,photoshop;pop culture reference;reaction,100,paired with a screenshot of a corresponding skill from the leveling-up system on Skyrim [pair/screenshot] || paired with an image of Bill Clinton saying he did not have sexual relations with Monica Lewinsky [pair/image],False,-0.04261,0.80742,0.96926,0.93135
+Heard You Were Talking Shit,53d85c74,,45,paired with images of people or animals looking intently at the viewer [pair/image],False,-0.36035,0.41354,0.8213,0.90827
+The Sacred Texts,5532d54b,image macro,37,with captions sarcastically describing an old and worthless piece of writing being destroyed. [caption/piece],False,-0.3219,0.38437,0.83972,0.86338
+Im Joining the War on Drugs on the Side of Drugs,55f3e25b,catchphrase;image macro;snowclone,45,paired with an image macro of Karl Marx drawn as a superhero alongside variations of the catchphrase 'I'm Joining the War on X on the Side of Y.' [pair/image],False,-0.13914,0.67287,0.93179,0.93408
+Some of You May Die,576ffbdf,"pop culture reference, reaction",41,paired with captions describing situations where people seem to not care whether another lives or dies. [pair/caption] || with captions describing situations where people seem to not care whether another lives or dies. [caption/situation],False,-0.07274,0.71492,0.83993,0.88163
+Kai Cenat Tongue Out Face,580884d4,exploitable;image macro;reaction,35,paired with captions that used the screenshots to describe an emotion. [pair/caption] || with captions that used the screenshots to describe an emotion. [caption/screenshot],False,-0.12364,0.67668,0.94893,0.92964
+White People Have No Culture,58b69622,,35,is often used to caption photographs of white people in a variety of humorous contexts [caption/photograph],False,-0.43305,0.22624,0.7214,0.84725
+Cats Can Have a Little Salami,590490f3,image macro,41,with captions indicating that it is safe to feed cats small amounts of salami as a snack. [caption/cat],False,-0.17881,0.58869,0.84043,0.88619
+Thanks Obama,592cacaa,,27,is often used to caption animated GIFs in which the subject appears to be struggling with a rather simple task [caption/gifs],False,-0.16998,0.6474,0.86062,0.88554
+Feeling Cute Might Delete Later,59b8eead,image macro,39,captioned with messages indicating that they felt attractive but may remove the image from social media at a later date. [caption/message] || paired with variations of the phrasal template 'feeling cute [pair/variation],False,-0.3747,0.43577,0.8948,0.91433
+Big Ounce,59cc46a9,image macro,41,captioned to joke about how this is a person worthy of admiration. [caption/person],False,-0.35772,0.25705,0.80793,0.8377
+Infinity War Is The Most Ambitious Crossover Event In History,5ab34160,copypasta;image macro,100,used to caption photographs of different crossover moments between two different fictional universe from popular culture. [caption/photograph],False,-0.2766,0.45075,0.77938,0.83681
+Smol,5aef8147,slang,31,paired with lorge or bean) [pair/lorge],False,-0.20742,0.53896,0.92108,0.91061
+Sad Ant With Bindle  Homeless Ant  How It Feels To Ant,5af4746d,exploitable;reaction,36,paired with a recaptioned text caption following the phrasal template [pair/text],False,-0.10461,0.77761,0.95175,0.90248
+Cash Me Ousside  Howbow Dah,5cb0408a,catchphrase,73,captioned with various frustrating experiences. [caption/experience],False,-0.09687,0.77603,0.93799,0.91553
+Sickos Haha Yes,5e07625d,reaction,42,paired with news or images others might be turned off by but the poster is excited about. [pair/news],False,-0.31898,0.15987,0.85995,0.83519
+The Game Was Rigged From the Start,5fe2a24d,catchphrase,35,is often used to caption images of various people and characters brandishing pistols. [caption/image],False,-0.32539,0.44732,0.80017,0.91257
+Seems Legit  Sounds Legit,609b4e61,,99,is often used to caption image macros depicting factually questionable statements and scenarios. [caption/image],False,-0.09119,0.86048,0.95394,0.92986
+Tom Reading The Newspaper,614116e6,"exploitable, image macro",55,paired with captions indicating a confusing [pair/caption] || with captions indicating a confusing [caption/nan],False,-0.13862,0.73496,0.97646,0.9268
+Feeling Cute Challenge,62ab65e9,participatory media;snowclone,41,paired with variations of the phrasal template 'feeling cute [pair/variation],False,-0.32018,0.42649,0.89233,0.85691
+Vengeance Dad,62eb799f,,100,captioned with first-person style confessions as if he is recounting a terrible event that happened to his family to his own fault or intent. [caption/person],False,-0.12054,0.61731,0.92272,0.80305
+Blessed Image,630c75a0,image macro,100,captioned with the phrase 'Blessed Image.' [caption/phrase],False,-0.06227,0.85768,0.97849,0.96358
+I Gave You All the Clues  Hello Mister Police,6578e459,parody;pop culture reference,30,paired with various humorous pictures on Twitter. [pair/picture],False,-0.24691,0.49597,0.86236,0.80997
+Bonjour Bear,66741eff,"image macro, reaction",33,paired with captions describing something sneaking up on them. [pair/caption] || with captions describing something sneaking up on them. [caption/nan],False,-0.21893,0.57532,0.91395,0.83575
+My Hands Look Like This,66c4df39,,41,captioned with a confession that the man's hands are dirty and worn in order to provide financial stability for the woman. [caption/confession],False,-0.52043,0.30031,0.77591,0.86792
+Hey Its Your Uber Driver,678282b9,,41,paired with the image of a character or celebrity sitting in a car [pair/image],False,-0.38553,0.21948,0.75754,0.83874
+Persian Cat Room Guardian,67f6504d,animal;exploitable;reaction,29,captioned with frustrating or annoying situations [caption/situation],False,-0.1752,0.57737,0.93502,0.87337
+I Wouldn’t Tell Anyone I Won The Lottery But There Will Be Hints,68d1a72a,catchphrase;snowclone,42,paired with an image macro or reaction image showing subtle wealth in an otherwise poverty-based setting. [pair/image],False,-0.47482,0.3268,0.67878,0.87323
+I Know What You Are,694e2a07,catchphrase;image macro;reaction,20,captioned with the phrase. [caption/phrase],False,-0.23848,0.39938,0.89729,0.85746
+Sleeping Shaq,69f7477c,exploitable;photoshop,98,paired with a photoshopped picture of retired professional basketball player Shaquille O'Neal in different states of wakefulness [pair/picture],False,-0.14106,0.6201,0.89846,0.91027
+Thick Thighs Save Lives,6ba6963a,"catchphrase, slang",24,paired with the phrase 'but thigh highs are my demise.' [pair/phrase],False,-0.36357,0.38864,0.78993,0.80901
+Arabic Strawberry Elephant,6bf9f8d8,animal;exploitable;photoshop;snowclone,24,paired with an Arabic phrase that roughly translates to 'strawberry morning.' [pair/phrase] || paired with the phrasal template 'You must be Arabic strawberry elephant if you think X.' [pair/phrasal],False,-0.25855,0.52956,0.86911,0.79236
+Begone Thot,6d7163fc,catchphrase,62,is often used to caption image macros featuring characters with glowing red eyes. [caption/image],False,-0.09819,0.66687,0.90375,0.92657
+Cracking Open a Cold One With the Boys,6e6129cf,copypasta,74,is often used to caption various object labeling image macros circulated within ironic meme and circlejerk communities online. [caption/object],False,-0.20534,0.62693,0.85118,0.91701
+Correction Guy,7053d03c,,29,with captions correcting some sort of mistake. [caption/sort],False,-0.14588,0.74875,0.97267,0.94744
+They Had Us In the First Half,70661dd4,reaction,41,with captions in which the first half of the text sounds good [caption/half],False,-0.16299,0.5461,0.92772,0.88868
+Orcposting,70bfe695,,81,with captions mocking multiculturalism and globalism by depicting orcs as Muslim refugees. [caption/multiculturalism],False,-0.10967,0.73997,0.85018,0.83052
+Weve Been Tricked Weve Been Backstabbed and Weve Been Quite Possibly Bamboozled,70d498a9,"image macro, reaction",41,paired with the quote has been used as a macro [pair/quote],False,-0.3111,0.2758,0.87454,0.82176
+Immature High Schoolers,727ecbac,,73,captioned with childish jokes involving bodily functions [caption/joke],False,-0.14586,0.70108,0.96314,0.80361
+Conspiracy Keanu,744cfb4a,image macro,100,captioned with paranoid conjectures and absurdly philosophical questions that bear similarities to the Paranoid Parrot [caption/conjecture],False,-0.1614,0.4582,0.88573,0.84503
+How Yall MFs Look,746c40f8,"slang, snowclone",28,paired with a depiction of a sad clown. [pair/depiction],False,-0.31708,0.3597,0.90492,0.83555
+Logical Fallacy Referee,74820b80,,41,with captions calling out the use of logically invalid arguments used in online debate. [caption/use],False,-0.2494,0.57711,0.84454,0.7823
+And Welcome to Jackass,762eae18,"catchphrase, image macro, snowclone",40,paired with various image macros depicting FAIL scenarios or self-destructive behaviors. [pair/image],False,-0.27063,0.38017,0.84936,0.84929
+Become One With Russia,76f68102,,38,paired with fan art illustrations and animations of the character. [pair/fan],False,-0.3842,0.43838,0.8497,0.81228
+U Ever Flex on Niggas,77a7cbb0,"image macro, snowclone",39,paired with a pixelated image of Shrek's. [pair/image],False,-0.35616,0.3229,0.86522,0.88384
+Skeleton Looking at Explosion  Como Te Decía,77e7e73a,exploitable;pop culture reference,38,captioned with. [caption/nan],False,-0.37723,0.50315,0.87912,0.81571
+Oh Shit Thats Deep,7867276d,image macro;reaction,47,paired with the quote. [pair/quote],False,-0.13227,0.63346,0.93998,0.91512
+Why He Ourple,7a8bb7e1,catchphrase,39,paired with the crying laughing emoji. [pair/crying],False,-0.32653,0.41812,0.89446,0.89274
+Same Voice Actor,7bc8e320,,100,is often used to caption juxtaposed images of various video game [caption/image],False,-0.1199,0.57287,0.91253,0.90126
+I Support The Current Thing,7cd602ca,"catchphrase, exploitable, image macro, parody",41,paired with the NPC Wojak character to mock people on social media who change their profile pictures to include symbols or filters that show support for a particular movement or ideology [pair/npc],False,-0.32548,0.56894,0.86851,0.84134
+The Skeleton Appears,7cdfbf86,"exploitable, image macro, viral video",31,captioned with the phrase and set to 'The Skull Gang' from Kirby Mass Attack soundtrack. [caption/phrase],False,-0.16489,0.50403,0.88071,0.88883
+Bugs Bunnys No,7d1a7736,exploitable,31,paired with the caption 'No.' [pair/caption],False,-0.22109,0.48695,0.91645,0.88761
+Daquan,7d29f59b,,20,paired with stock photographs of young white children being scolded by an adult. [pair/stock],False,-0.09747,0.5565,0.9224,0.89528
+Better Names For Things,7d6d1c0c,,72,captioned with made-up [caption/up],False,-0.19255,0.65493,0.94789,0.91173
+And Not a Single Fuck Was Given That Day,7f7c7777,,100,paired with various images and portraits [pair/image],False,-0.26922,0.36829,0.80769,0.91051
+Tell Cersei I Want Her to Know It Was Me,8088b88e,participatory media;pop culture reference,26,captioned with Tyrell's memorable quote from the series [caption/tyrell],False,-0.47621,0.21481,0.7411,0.80177
+Afraid to Ask Andy,8235406b,image macro,39,captioned with various confessions of one's ignorance in current events or common knowledge followed by the phrase '…and at this point I’m afraid to ask.” [caption/confession],False,-0.2355,0.34619,0.83848,0.87253
+Sarcastically Surprised Kirk,831bcef3,"pop culture reference, reaction",45,paired with captions where a person who need to pretend to be shocked. [pair/caption] || with captions where a person who need to pretend to be shocked. [caption/person],False,-0.16375,0.62088,0.9379,0.91193
+Anton Chigurhs Call It,833139b1,exploitable;image macro;pop culture reference,20,captioned with a version of the dialogue in image macros or used as an exploitable. [caption/version],False,-0.34104,0.44679,0.94895,0.85893
+I Am So Proud of This Community,86cdfd63,reaction,20,paired with humorous examples of the YouTube community being silly. [pair/example],False,-0.28536,0.39823,0.88997,0.87335
+This Dog Does 11640 Damage per Second,8811aacb,parody;snowclone,48,captioned with the phrasal template 'This X Does 11 [caption/phrasal],False,-0.39669,0.28392,0.79445,0.80815
+Trump Yelling at Lawnmowing Boy,8867340f,reaction,26,with captions imagining the president yelling at someone who was uninterested in what he had to say. [caption/president],False,-0.27975,0.50084,0.90265,0.79898
+Teleports Behind You Nothing Personal Kid,8942f705,copypasta,39,commonly used to mockingly caption photographs of young men wielding katanas or other bladed weapons. [caption/photograph],False,-0.30335,0.47792,0.87403,0.88804
+Expanding Pupil,8e0091c7,image macro,57,captioned with the claim that pupils can dilate up to 55% while looking at an object of affection [caption/claim],False,-0.26239,0.36812,0.85851,0.93575
+It Is Wednesday My Dudes,8e8ada1c,exploitable,100,paired with the text 'It is Wednesday [pair/text],False,-0.19129,0.51298,0.8995,0.87795
+Amharic Curse  Armenian Curse,8ebc4182,copypasta,28,paired with a variety of cursed images. [pair/variety],False,-0.44421,0.39768,0.85166,0.8042
+Privilege Denying Dude,9093d2de,,40,with captions satirizing the typical white male's patronizing viewpoint on a range of politically sensitive issues like racism [caption/male],False,-0.13077,0.63392,0.8816,0.82274
+He Thought School Was For One Day Only He MAD,91a57bcd,catchphrase;exploitable;image macro,24,was used to caption different image macros of memetic characters. [caption/image],False,-0.47128,0.21384,0.71127,0.87654
+Im Sorry Little One,91b54504,pop culture reference;reaction,25,paired with humorous captions. [pair/caption],False,-0.1738,0.5463,0.90211,0.93231
+I Reject My Humanity JoJo,949dccfe,"reaction, snowclone",41,paired with the quote has been used as reactions [pair/quote],False,-0.26887,0.56068,0.88845,0.8028
+Tehc,960e9d69,character,26,paired with technology rather than stocks or cooking. [pair/technology],False,-0.2131,0.21537,0.87752,0.82641
+Parry This You Filthy Casual,96129ca6,"image macro, reaction",39,paired with the phrase. [pair/phrase],False,-0.2367,0.43426,0.87374,0.83713
+I Made You a Cookie But I Eated It,97aff47d,,58,paired with celebrity photos [pair/celebrity],False,-0.363,0.30429,0.76546,0.83716
+Futurama Fry  Not Sure If,983c3580,,100,paired with overlaid text using a phrasal template. [pair/text],False,-0.2378,0.22988,0.91162,0.87362
+This Is Where I Post From,9869134a,catchphrase,28,used to caption image macros of obscure or decrepit settings in order to represent where the meme creator is posting content from. [caption/image],False,-0.47252,0.25378,0.8588,0.83453
+Tell Me Your Secrets Grass,99c8a626,,64,with captions based on the snowclone [caption/snowclone],False,-0.14219,0.63111,0.93093,0.94204
+Milk Edinburgh Club Photo,9a3cf86d,parody;reaction,22,with captions imagining the man saying something that would make the woman appear bored. [caption/man],False,-0.25038,0.57853,0.86255,0.6635
+No I Dont Think I Will,9aef01de,"image macro, reaction",41,paired with the quote has been used as a macro and a reaction [pair/quote],False,-0.19784,0.46417,0.88069,0.87946
+Respect Women,9b222175,image macro,76,captioned with jokes about how the subject represents their 'respect' for women. [caption/joke],False,-0.20566,0.5271,0.82462,0.89236
+How Italians Do Things,9cc15796,image macro,90,with captions containing custom versions of the phrasal template 'How Italians X.' [caption/custom],False,-0.19369,0.62729,0.8666,0.88999
+That Wasnt Very Cash Money of You,9d9f7707,"catchphrase, exploitable",41,paired with images of other characters [pair/image],False,-0.3953,0.21079,0.78426,0.87025
+Philosoraptor,9f171fd9,image macro,100,paired with captions depicting the dinosaur as being deeply immersed in metaphysical inquiries or unraveling quirky paradoxes. [pair/caption] || with captions depicting the dinosaur as being deeply immersed in metaphysical inquiries or unraveling quirky paradoxes. [caption/dinosaur],False,-0.12066,0.57858,0.93598,0.86737
+Shef,a0fb4372,"character, reaction",24,paired with Meme Man in a similar manner to Stonks. [pair/meme],False,-0.2317,0.43641,0.84737,0.80753
+Godzilla Had a Stroke Trying to Read This and Fucking Died,a25871b5,"image macro, reaction",26,paired with indecipherable text in June 2020. [pair/text],False,-0.2047,0.32178,0.85194,0.84746
+Cursed Image,a3a80e50,,100,captioned with the phrase 'Cursed Image.' [caption/phrase],False,-0.08341,0.79942,0.9726,0.93445
+These Are Their Stories,a431f473,,20,is often used to caption photographs of actor Chrisopher Meloni in bizarre or sexually suggestive poses. [caption/photograph],False,-0.54469,0.21462,0.8075,0.74238
+Welcome to The Internet,a69ffa09,catchphrase,37,paired with the phrase 'I will be your guide.' [pair/phrase],False,-0.2661,0.37946,0.8356,0.8642
+Hey Ive Seen This One,a9152eef,exploitable,39,paired with the quote have been circulated online [pair/quote],False,-0.23643,0.55035,0.87818,0.86958
+For Legal Reasons Thats a Joke,a949aa52,reaction,20,paired with captions describing a potentially offensive or illegal scenario. [pair/caption] || with captions describing a potentially offensive or illegal scenario. [caption/scenario],False,-0.24068,0.37963,0.81599,0.84887
+Someone Explain This Picture,aa18df5e,,100,often used to caption screen captured images and animated GIFs from a variety of television series [caption/screen],False,-0.10748,0.78294,0.95047,0.92452
+PornHub Comments On Stock Photos,aac3d8a5,,37,captioned with lewd comments that are found on the adult video site PornHub. [caption/comment],False,-0.16897,0.68148,0.92586,0.85253
+Hand Me the Aux Cord,ab565807,,20,is often used to caption images of flaming vehicles [caption/image],False,-0.26551,0.51995,0.87051,0.88641
+OneUp America,ac5b2ba8,,35,with captions typically depicting American patriotism or hubris. [caption/patriotism],False,-0.14424,0.64871,0.95221,0.90852
+None But in Yellow,ac98ea7b,,22,captioned with a color code indicating 'none' for the color blue and 'none but in yellow' for the color yellow. [caption/color],False,-0.21428,0.42023,0.87701,0.9159
+Stop Glamorizing The Grind And Start Glamorizing Whatever This Is,ad4d1638,catchphrase,49,used to caption image macros that act as an antithesis to Hustle Culture memes by showcasing quainter settings to strive for not typically considered 'Alpha.' [caption/image],False,-0.1296,0.65554,0.96441,0.94606
+This Website Is Free,af0596b1,catchphrase,20,used to caption screenshots of various interactions on Twitter. [caption/screenshot],False,-0.07862,0.71657,0.93703,0.91136
+She Was His Queen,af154b5a,,37,paired with an image of a humorous couple. [pair/image],False,-0.48224,0.26815,0.69756,0.82394
+You Tried,b0c2654d,,100,captioned with the phrase. [caption/phrase],False,-0.13503,0.60057,0.9064,0.84109
+We Are No Longer Required To Follow Your Orders,b0e99364,pop culture reference;reaction,22,paired with captions showing a person or group of people going against an authority figure. [pair/caption] || with captions showing a person or group of people going against an authority figure. [caption/person],False,-0.23684,0.43937,0.74756,0.79174
+Your Waifu Is Shit,b0f25341,,100,paired with a two-pane exploitable image featuring Saber from the Japanese visual novel series Fate/Stay. [pair/image],False,-0.14403,0.66395,0.88917,0.87118
+When Youre Sad You Understand the Lyrics,b26f8da2,catchphrase;image macro,57,paired with an image of Withered Wojak as if a person listening to them would normally experience feelings of sadness. [pair/image],False,-0.18109,0.40078,0.75824,0.84171
+Post This X,b35ed935,snowclone,44,paired with the phrase 'Post this X' [pair/phrase],False,-0.4802,0.23697,0.8451,0.87828
+Roll Safe,b44b7b67,reaction,99,captioned with various jokes mocking poor decision making and failures in critical thinking. [caption/joke],False,-0.16215,0.55177,0.91396,0.95451
+Shidding and Farding,b5e2c306,image macro;slang,41,are typically used to caption images in which various characters announce that they have soiled their undergarments. [caption/image],False,-0.1756,0.60377,0.91907,0.92349
+Nice Cock  Cock Rating,b61c40b8,image macro;reaction,71,captioned with the compliment 'Nice Cock.' [caption/compliment] || captioned with the phrase [caption/phrase],True,-0.14214,0.66358,0.90419,0.92043
+Draw Me Like One of Your French Girls,b708335d,,100,is often used to caption photos of people or animals laying down in an alluring pose. [caption/photo],False,-0.43442,0.19337,0.75187,0.84473
+If It Aint the Invisible Cunt,b760c2f5,image macro;reaction,41,paired with the quote has been used a reaction [pair/quote],False,-0.32191,0.27377,0.83436,0.86256
+Youre Pointless,b879ad41,exploitable;image macro,32,paired with the Murder Coordinates caption 39 Buried [pair/murder],False,-0.26449,0.33493,0.843,0.82759
+Happiness Noise,bae205d5,image macro,39,paired with the caption. [pair/caption],False,-0.20478,0.48858,0.89016,0.85862
+Gas Station Stickers  I Did That,bae67b8e,participatory media,32,paired with the message 'I Did That!' [pair/message],False,-0.19347,0.60568,0.88633,0.81891
+You Guys Always Act Like Youre Better Than Me,bb07bd5c,exploitable,99,paired with the misquote has been circulated as an object labeling exploitable to illustrate presumed inferiority of one person or object compared to others. [pair/misquote],False,-0.38905,0.28473,0.84161,0.871
+Im Gonna Pay You 100 to Fuck Off,bb27223e,"catchphrase, exploitable, image macro",41,paired with the quote has been circulated as a reaction image and an exploitable. [pair/quote],False,-0.38004,0.25683,0.81797,0.8664
+Do You Trust Me With Every Cell Of My Body,bc9e5239,exploitable;image macro;pop culture reference;reaction,42,paired with the quote has been used as a reaction image [pair/quote],False,-0.27665,0.45869,0.8973,0.86388
+Wrong Lyrics Christina,bcb877a0,,78,with captions of misheard lyrics to popular songs. [caption/lyric],False,-0.11531,0.78097,0.96379,0.81397
+Visible Confusion,bd4b6a8c,"image macro, reaction",39,paired with the titular caption in vein of Descriptive Noise memes. [pair/caption],False,-0.1779,0.44825,0.91292,0.8849
+Grandma Finds the Internet,bd8d93b0,,39,with captions expressing shock and bewilderment by what she discovers online. [caption/shock],False,-0.14409,0.61987,0.96053,0.83961
+Om Nom Nom Nom,c051ec24,,76,is often used to caption image macros that involve food or appear as if something is being eaten. [caption/image],False,-0.19463,0.45785,0.86477,0.88446
+Advice God,c095e1ef,image macro,100,captioned with text that denounces religion (often christianity) by pointing out apparent biblical contradictions and attributing mischievous behaviors to God. [caption/text],False,-0.1029,0.66242,0.94127,0.8396
+Hipster Glasses,c22138a9,,100,with captions poking fun at hipster stereotypes and cliches like 'I was into (x) before it got too mainstream [caption/fun],False,-0.2111,0.64274,0.91859,0.92551
+The Weak Should Fear the Strong,c24b8e21,exploitable,39,paired with a Facebook comment that reads 'the weak should fear the strong.' [pair/facebook],False,-0.5562,0.17454,0.76734,0.80841
+ScreenReaching Hand  Emoji,c24b9477,"emoticon, exploitable",21,paired with fourth-wall-breaking captions such as 'You Think You're Safe?' and 'Hand Them Over.' [pair/wall],False,-0.33492,0.33856,0.89597,0.90428
+Joker On a TV Show What Will He Do,c25e6fc2,exploitable;snowclone,99,paired with a snowclone caption 'Joker on X [pair/snowclone],False,-0.13886,0.73162,0.94765,0.93785
+Excuse Me Sir Do You Have a Moment to Talk About Jesus Christ,c2c79c1b,,57,paired with images of overly persistent or intrusive animals or characters [pair/image],False,-0.28088,0.35018,0.82464,0.85019
+When the Imposter Is Sus  Sus Jerma,c7f2bda6,catchphrase;photoshop;snowclone,68,captioned with the catchphrase When the Imposter Is Sus. [caption/catchphrase],False,-0.22302,0.47693,0.92188,0.93094
+Are You Fucking Stupid Me,c86fe222,catchphrase,42,used to caption animals [caption/animal],False,-0.29485,0.35069,0.91157,0.92564
+Surprise Bitch,c89332cc,,59,paired with GIFs depicting the return of a character once thought to be dead. [pair/gifs],False,-0.20546,0.4046,0.81763,0.8831
+Hipster Kitty,c8bd3b97,,100,paired with tongue-in-cheek sayings to poke fun at the self-righteous lifestyles of vintage-loving [pair/tongue],False,-0.19096,0.63898,0.93927,0.79658
+Will Smith in YouTube Rewind 2018,ca6bce30,exploitable;reaction,28,paired with captions about reliving memories. [pair/caption] || with captions about reliving memories. [caption/memory],False,-0.21192,0.53206,0.90012,0.90407
+This Nigga Spittin,ccb3ea89,image macro,41,captioned with the slang expression 'this nigga spittin [caption/slang],False,-0.24528,0.64503,0.90729,0.91949
+Shadman,cde96d38,reaction,100,paired with images of characters walking out of doors [pair/image],False,-0.16894,0.4234,0.94779,0.92314
+Friendship Ended With Mudasir,cfdeeda7,,100,captioned with the phrasal template 'Friendship ended with X / Now Y is my best friend.' [caption/phrasal],False,-0.25319,0.45788,0.87495,0.83378
+I See This as an Absolute Win,d17790f2,image macro,41,captioned with the quote has been circulated as a macro and a reaction [caption/quote],False,-0.21236,0.48653,0.92144,0.8872
+Well Yes But Actually No,d1e3fcc7,,39,paired with the misquote has been used as an reaction image. [pair/misquote],False,-0.24381,0.35614,0.92604,0.90052
+Disintegration Effect  I Dont Feel So Good,d2b9992e,"image macro, photoshop, visual effect",98,paired with a line from the film 'I don't feel so good.' [pair/line],False,-0.2037,0.55312,0.94971,0.95619
+Bus Stop Grim Reaper,d2f50ea6,,20,captioned with mock conversations as if the personification of Death is threatening the man's life. [caption/conversation],False,-0.18154,0.60816,0.90694,0.87446
+It Was Like She Was Looking At Walking Garbage,d41b07cb,catchphrase;character;exploitable;image macro;parody;snowclone,76,paired with anime characters. [pair/anime],True,-0.17169,0.53339,0.82561,0.9001
+Nigga Stole My Bike,d4e663ae,pop culture reference,41,paired with a cutscene sequence from the 1987 Nintendo boxing video game Mike Tyson's Punch-Out!!.[1] [pair/sequence],False,-0.14026,0.64342,0.92335,0.84678
+Hippity Hoppity,d551b86f,snowclone,35,paired with images of frogs that opens with 'Hippity Hoppity' and ends with something that rhymes with 'hoppity.' [pair/image],False,-0.32716,0.34942,0.8547,0.81928
+You Guys Ever Had Gay Thoughts Lmao,d6a26291,catchphrase;image macro,28,captioned with the catchphrase. [caption/catchphrase],False,-0.40432,0.35347,0.86808,0.83773
+Ed Scarrys OcasioCortez Coat Tweet,d7227e7c,copypasta,30,paired with various humorous images. [pair/image],False,-0.13748,0.56636,0.89031,0.87153
+OMG a Hit Tweet,d7835767,exploitable;image macro;reaction,29,captioned with the catchphrase in rainbow-colored lettering. [caption/catchphrase],False,-0.34671,0.31083,0.8171,0.84794
+Robert Downey Jrs Comments,dabd07e0,exploitable,37,paired with a made-up comment [pair/comment],False,-0.08437,0.80111,0.96728,0.93063
+Man Literally Too Angry to Die,dcea2afa,exploitable,39,paired with the chyron 'Man Literally Too Angry to Die' or a variant thereof depending on the character. [pair/chyron],False,-0.26263,0.31264,0.82749,0.81259
+Tired Spongebob,de394f72,pop culture reference,41,paired with captions in which one expresses moments where they'd be exhausted. [pair/caption] || with captions in which one expresses moments where they'd be exhausted. [caption/moment],False,-0.20577,0.60804,0.95498,0.89874
+Youre Breathtaking,df808e00,exploitable,33,paired with the quote has been circulated as an image macro. [pair/quote],False,-0.14764,0.64684,0.91693,0.90035
+So Done,e0b61c82,,52,paired with animated GIFs of frustrated looking subjects [pair/gif],False,-0.24008,0.60825,0.89835,0.92731
+How Do I Shot Web,e0e5a6bc,,100,paired with an image of Spider-man [pair/image],False,-0.27341,0.28558,0.85873,0.89078
+There Are Only Two Genders,e1d2fd47,"catchphrase, viral debate",41,is commonly used to caption various exploitable image macros. [caption/image],False,-0.24067,0.64456,0.85955,0.90814
+I Havent Heard That Name In Years,e1e678f6,,37,paired with various images of washed-up looking subjects smoking cigarettes to portray them as if they're trying to recollect memories of the past. [pair/image],False,-0.49662,0.4583,0.81523,0.80433
+John Lennon The Absolute Madman,e4006453,,41,paired with the phrase “The Absolute Madman” on 4chan's music board /mu/. [pair/phrase],False,-0.22755,0.63479,0.93359,0.87537
+Dr Pig,e41f786f,character,35,captioned with variations of the phrase 'I diagnose you with dead' [caption/variation],False,-0.22796,0.50676,0.90618,0.88495
+Three Words Eight Letters,e554bb66,,41,captioned with variations of phrase 'Three words. [caption/variation],False,-0.40159,0.25236,0.83638,0.85521
+Hey Guys What’s Going On In This Thread,e86f8aa7,,88,paired with animated GIFs to indicate that a topic of conversation has gone awry [pair/gifs],False,-0.41926,0.41292,0.84694,0.90988
+CallMeCarson Crying Next to Joe Swanson,eafd6e78,"exploitable, image macro",29,captioned with Swanson labeled as an aggressor and CallMeCarson labeled as their victim. [caption/swanson],False,-0.33991,0.54875,0.93801,0.90773
+Bertstrips,eb9be37b,,100,captioned with humorous and often inappropriate descripitons in the style of Bitstrips webcomics. [caption/descripiton],False,-0.09297,0.78696,0.89939,0.86931
+On My Way to Steal Yo Girl,eba7ef5d,,35,is often used to caption images of characters using odd means of transportation or dressed in flamboyant clothing. [caption/image],False,-0.33591,0.32062,0.87266,0.91099
+But Thats Wrong You Fucking Retard,ee65fe36,exploitable;reaction,47,captioned with either the phrase 'But that's wrong [caption/phrase],False,-0.20704,0.42163,0.87689,0.94818
+I Skin Infant Babies,eef42cf0,exploitable;image macro,21,captioned with [caption/nan],False,-0.1656,0.50125,0.88176,0.8689
+Youre Finally Awake  You Hit Your Head Really Hard,f0cc7d34,,99,captioned with messages written as if the reader suddenly regained consciousness and discovered that the recent years or even their entire life were a product of their imagination. [caption/message],False,-0.11364,0.66528,0.92916,0.88131
+I Didnt Choose The Thug Life The Thug Life Chose Me,f120e8ae,,74,paired with various images depicting White suburban stereotypes [pair/image],False,-0.3863,0.3768,0.76517,0.86631
+Tonights Big Loser,f1abb7bd,"exploitable, image macro, snowclone",39,paired with a caption describing him as 'tonight's big loser' or 'tonight's biggest loser.' [pair/caption],False,-0.26707,0.50286,0.8603,0.86417
+Those Bastards Lied to Me,f2029f92,image macro;reaction,41,paired with captions of false or misleading statements [pair/caption] || with captions of false or misleading statements [caption/statement],False,-0.31646,0.47521,0.87589,0.78299
+Im a Boy Liker I Like Kissing Men on the Lips,f291f262,exploitable;image macro,26,captioned with an admission of liking men. [caption/admission],False,-0.38611,0.35788,0.79447,0.85778
+Big Mood,f4c6ca9b,slang,20,paired with absurd images or videos. [pair/image],False,-0.29427,0.56363,0.90889,0.86138
+Legally Allowed to Leave,f4f0cf30,image macro,39,captioned with jokes about how if certain conditions are not met in a variety of scenarios then those who are present are 'legally allowed to leave.' [caption/joke],False,-0.23143,0.42502,0.84602,0.92512
+Perfectly Balanced,f70d1445,catchphrase,39,paired with images showing a 50/50 split. [pair/image],False,-0.29016,0.47668,0.88335,0.87812
+Third World Success,f80b1d26,,77,with captions about overcoming hardships that are associated with life in underdeveloped countries. [caption/hardship],False,-0.09528,0.64112,0.96738,0.85586
+Doge,f853399e,"animal, character, slang",100,captioned with interior monologues in Comic Sans font. [caption/monologue],False,-0.1593,0.75034,0.96704,0.90938
+Staring Fish  Do You Fart,f860dce4,character;image macro,31,paired with ironic [pair/nan],False,-0.2011,0.50452,0.94395,0.91235
+Hayasakas Hey Hey,faaa86b1,"exploitable, reaction",37,paired with the caption 'Hey [pair/caption],False,-0.25922,0.38464,0.90718,0.86915
+I Hope Mom and Dad Dont Find Out,fb1deec7,reaction,26,paired with captions expressing guilt over a secret. [pair/caption] || with captions expressing guilt over a secret. [caption/guilt],True,-0.29723,0.33526,0.8135,0.83961
+Do She Got a Booty She Do,fb885fd5,,39,paired with images of peeping animals and cartoon characters on the microblogging site Tumblr. [pair/image],False,-0.43122,0.43445,0.82875,0.90204
+What the Fuck Did You Just Bring Upon This Cursed Land,fcef283d,"image macro, reaction",41,captioned with the line. [caption/line],False,-0.2434,0.4201,0.89968,0.88287
+Gym Teacher,fdd03561,character;image macro,27,captioned with motivational statements attributed to gym teachers [caption/statement],False,-0.28674,0.44313,0.86539,0.8948
+America Invading for Oil,fe53624a,photoshop,80,with captions implying the show-of-force is for the purpose of capturing more oil. [caption/show],False,-0.12652,0.77957,0.89018,0.89983
+Why Im Antisocial,fecb100a,exploitable,41,paired with cringe and special snowflake behavior [pair/cringe],False,-0.24859,0.51823,0.8254,0.80379
+I Didnt Expect the Third Reich to Show Up,ffa21b4a,image macro,34,paired with a fabricated quote [pair/quote],False,-0.17756,0.66643,0.93876,0.92546

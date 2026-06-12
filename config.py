@@ -40,6 +40,16 @@ FAMILY_CONTRAST_MIN_CLAUSES = 100  # per-family contrasts only at >= this; below
 TAG_DIAG_TOP_PAIRS = 50         # highest-Jaccard pairs listed in the diagnostic
 TAG_DIAG_MID_SAMPLE = 25        # seeded mid-range (0.1-0.3) pair sample
 
+# --- Block B (04C): content layer ----------------------------------------
+CONTENT_MODEL = "BAAI/bge-large-en-v1.5"  # symmetric mode, no query prefix
+CONTENT_DECILES = 10
+COMPLEMENT_MIN_FORMATS_PER_HEAD = 5
+# Ratified light-head stoplist: clauses with these (or missing) complement
+# heads drop out of the complement test only.
+COMPLEMENT_HEAD_STOPLIST = (
+    "feeling", "feelings", "sense", "emotion", "emotions", "way", "manner",
+    "variety", "kind", "type", "sort", "form", "thing", "something")
+
 # --- Expected names: verify against the real files at runtime -----------
 EXPECTED_ENTRY_TEXT_COL = "About Text"
 EXPECTED_OCR_TEXT_COL = "Text"

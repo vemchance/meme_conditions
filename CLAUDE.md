@@ -129,6 +129,22 @@ cited ~4,500 was the thresholded retrieval-evaluation class count,
   restructured into shared functions (prepare/pair_context/make_all_stats/
   unstripped_sims) by pure code motion so blocks import rather than fork;
   04's committed outputs remain those of the pre-refactor run.
+- 2026-06-12 (04C): Block B ratified choices: (a) content embeddings fresh
+  from BAAI/bge-large-en-v1.5 (symmetric mode, no query prefix,
+  L2-normalised, on the 04-prepared instance texts; SemioMeme fine-tuned
+  retrieval embeddings NOT used - circularity); (b) format content profile
+  = instance-embedding centroid, pair similarity = centroid cosine;
+  (c) transparent separability = decile stratification on content
+  similarity, replacing zerotag (Block A: zerotag removes only 6% of pairs
+  and measures category/platform, not topic); (d) complement test
+  confirmatory for EXPRESS only, EVALUATE descriptive (poke-fun corrupts
+  comp_head). Registered predictions (fixed before running): EXPRESS
+  content effect > 0; EVALUATE content effect > 0; EXPRESS
+  complement-content Spearman > 0; everything else exploratory two-sided,
+  with the registered note that LABEL form-without-content would be a
+  finding. Light-head stoplist in config.COMPLEMENT_HEAD_STOPLIST.
+  Canonical pair population resolved as n = 1,622 (format b3454e05 loses
+  its profile to watermark stripping; 1,623 was the pre-profile count).
 
 ## Current stage
 

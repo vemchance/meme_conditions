@@ -11,7 +11,7 @@ Paper: use-conditions of meme templates, SemDial 2026. Deadline 17 June.
 | — | Human audits (A1 250 rows + LABEL 25; A2 50 rows) | UNBLOCKED — audit files relabelled to v2, same rows; annotation can start |
 | 04 | Analysis (form-function tests) | DONE — omnibus headline null (p~.97); per-family: LABEL + EVALUATE bind form (p<=.001), CAPTION anti-coherent; copypasta ceiling confirmed; RESPOND when-clause direction supported; watermark-insensitive. Interpretation in chat |
 | 04B | Block A: repairs + per-family controls | Two-sided p's for all 04 contrasts; tag diagnostic; zerotag + MRQAP controls for all 6 contrast families. Outputs: blocka_report.md, blocka_inference.csv |
-| 04C | Block B: content layer | PLANNED — control design informed by the Block A tag diagnostic |
+| 04C | Block B: content layer | DONE — double dissociation: EVALUATE binds form not content; EXPRESS binds content not form; LABEL binds both; CAPTION anti-coherent on all three layers. LABEL+EVALUATE form effects survive content controls (p=.0001). EXPRESS complement prediction: continuous n.s. (p=.097), discrete companion p=.042. Decision point B in chat |
 | 04D | Block C: visual layer | PLANNED |
 | 05 | Audit statistics (precision/recall/kappa) | When filled audit files land |
 | 06 | Paper drafting (in chat, from analysis_report.md) | Days 5-6 |

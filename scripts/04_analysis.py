@@ -402,6 +402,7 @@ def prepare(emit_fn):
 
     valid = np.array([fmt_fw[i].sum() > 0 for i in range(n)])
     drop = (~valid).sum()
+    dropped_formats = [F[i] for i in range(n) if not valid[i]]
     if drop:
         emit_fn("- Dropping {} empty-profile formats from pair analyses.".format(drop))
     keep_idx = np.where(valid)[0]
@@ -445,7 +446,8 @@ def prepare(emit_fn):
         kept=kept, S_dict=S_dict, P=P, X=X, fmt_cues=fmt_cues,
         fmt_inst_sim=fmt_inst_sim, tags_sets=tags_sets, type_sets=type_sets,
         titles=titles, STOP=STOP, tri_index=tri_index,
-        profile_texts=profile_texts)
+        profile_texts=profile_texts, dropped_formats=dropped_formats,
+        skipped_empty=skipped_empty)
 
 
 def pair_context(ns):

@@ -36,6 +36,10 @@ N_PERMUTATIONS = 10000          # label permutations for headline test
 BOOTSTRAP_N = 1000              # bootstrap resamples for shallow-cue CIs
 FAMILY_CONTRAST_MIN_CLAUSES = 100  # per-family contrasts only at >= this; below: descriptive
 
+# --- Block A (04B) -------------------------------------------------------
+TAG_DIAG_TOP_PAIRS = 50         # highest-Jaccard pairs listed in the diagnostic
+TAG_DIAG_MID_SAMPLE = 25        # seeded mid-range (0.1-0.3) pair sample
+
 # --- Expected names: verify against the real files at runtime -----------
 EXPECTED_ENTRY_TEXT_COL = "About Text"
 EXPECTED_OCR_TEXT_COL = "Text"

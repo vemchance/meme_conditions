@@ -10,6 +10,9 @@ Paper: use-conditions of meme templates, SemDial 2026. Deadline 17 June.
 | 03B | Taxonomy v2 (WordNet anchors, DIRECT candidate) | DONE — v2 ratified + applied (step 2); label_v2/function_labels_v2 live; EXPRESS 854 / STRUCTURAL 1537 / RESPOND 535 / EVALUATE 461 / CAPTION 453 / LABEL 309 / DIRECT 16 (descriptive) / OTHER 158 |
 | — | Human audits (A1 250 rows + LABEL 25; A2 50 rows) | UNBLOCKED — audit files relabelled to v2, same rows; annotation can start |
 | 04 | Analysis (form-function tests) | DONE — omnibus headline null (p~.97); per-family: LABEL + EVALUATE bind form (p<=.001), CAPTION anti-coherent; copypasta ceiling confirmed; RESPOND when-clause direction supported; watermark-insensitive. Interpretation in chat |
+| 04B | Block A: repairs + per-family controls | Two-sided p's for all 04 contrasts; tag diagnostic; zerotag + MRQAP controls for all 6 contrast families. Outputs: blocka_report.md, blocka_inference.csv |
+| 04C | Block B: content layer | PLANNED — control design informed by the Block A tag diagnostic |
+| 04D | Block C: visual layer | PLANNED |
 | 05 | Audit statistics (precision/recall/kappa) | When filled audit files land |
 | 06 | Paper drafting (in chat, from analysis_report.md) | Days 5-6 |
 | 07 | Submission: anonymised snapshot, no repo links | 17 June |

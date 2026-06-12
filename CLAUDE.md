@@ -120,6 +120,15 @@ cited ~4,500 was the thresholded retrieval-evaluation class count,
   crosswalk DIRECT -> directive. Live labels: label_v2 (clause level) and
   function_labels_v2 (entry level); v1 columns retained for provenance.
   04 runs only on the v2 layer.
+- 2026-06-12 (04B): Block plan adopted - A repairs/controls (04B), B content
+  layer (04C), C visual layer (04D). Choices ratified with the 04B spec:
+  (a) numbering 04B/04C/04D, PIPELINE rows inserted between 04 and the
+  audit/drafting stages; (b) per-family controls run for ALL families
+  meeting the >= 100-clause rule, not only the significant ones, to avoid
+  post-hoc selection; DIRECT stays descriptive-only. 04_analysis.py was
+  restructured into shared functions (prepare/pair_context/make_all_stats/
+  unstripped_sims) by pure code motion so blocks import rather than fork;
+  04's committed outputs remain those of the pre-refactor run.
 
 ## Current stage
 

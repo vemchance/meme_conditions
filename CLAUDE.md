@@ -160,6 +160,17 @@ cited ~4,500 was the thresholded retrieval-evaluation class count,
   everything else exploratory two-sided; the restriction rerun has no
   registered direction, with the reading rule recorded in advance
   (holds/strengthens = dilution; vanishes = flagged artefact).
+- 2026-06-12 (04E): recorded confound - Block C choice (c) (visual
+  coherence as the gallery-noise proxy) is confounded with format
+  modality: text-anchored Types (catchphrase, copypasta, snowclone,
+  slang) are visually diverse by construction, so the population-median
+  split removes them rather than removing noise. Decision rule fixed in
+  the 04E spec: within-Type high-coherence effects holding = flag
+  discharged (compositional); attenuating within Type = genuine
+  limitation, reported verbatim. Outcome: all within-Type deciding cells
+  fell under the 100-within-pair floor (descriptive only), so the rule
+  does not fire; the composition table and the affirmative low-coherence
+  results carry the selection reading. Final paper wording in chat.
 
 ## Current stage
 
